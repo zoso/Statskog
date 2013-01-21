@@ -117,7 +117,7 @@ textarea {
 }
 
 #menuContainer {
-    
+    position: relative;
     height: 40px;
     /*background-color: #ffee33;*/
 }
@@ -140,35 +140,48 @@ textarea {
 
 #menuContainer li a {
     display: block;
+    color: #ff4400;
     /*font-weight: bold;*/
     text-decoration: none;
 }
 
 #menuContainer li a:hover {
-    /*background-color: #cccccc;*/
+    background-color: #ffffff;
     text-decoration: underline;
 }
 
 
-#sub-menu {
+ul.subMenu {
     background-color: #fff;
-    width: 900px;
+    position: absolute;
+   /* left: 0;*/
+    
+    display: none;
+    margin: 0 0 0 -1px;
+    padding: 0;
+    border-bottom: 1px solid #cccccc;
+    z-index: 20;
+    width: 50px;
 }
 
-#sub-menu li {
+.subMenu li {
     list-style: none;
-    padding: 10px;
-    font-size: 10px;
+    
+    
+   
     background-color: #fff;
 }
 
-#sub-menu li a {
-    display: block;
+.subMenu li a {
+    
+   
+    padding: 8px 7px 13px 7px;
+
     /*font-weight: bold;*/
     text-decoration: none;
 }
 
-#sub-menu li a:hover {
+.subMenu li a:hover {
     /*background-color: #cccccc;*/
     text-decoration: underline;
 }
@@ -182,7 +195,7 @@ textarea {
 }
 
 .active {
-    background-color: #33ffff;
+    background-color: #ffffff;
 }
 
 .contentBox {
@@ -215,19 +228,20 @@ textarea {
 /* fixr meny */
 .menuOnTop {
     width: 960px;
-    height: 50px;
-    background-color: #f101f0;
+    height: 30px;
+    background-color: #eeeeee;
     position: fixed;
-    z-index: 3000;
+    z-index: 1000;
+    padding-top: 10px;
     top: -12px;
 }
 
 .subMenuOnTop {
     width: 960px;
     position: fixed;
-    z-index: 2999;
+    z-index: 1001;
     top: 40px;
-    background-color: #f101f0;
+    /*background-color: #f101f0;*/
 }
 
 
