@@ -1,0 +1,105 @@
+#mask {
+	position:absolute;
+	z-index:9000;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	display:none;
+	background-color: #333333;
+}
+
+.pop-chart {
+	position: absolute;
+	top: 0px;
+	right: 5px;
+	width: 10px;
+	height: 10px;
+	/*background-color: #ccc;*/
+	cursor: pointer;
+	/*border: 1px solid #ff3300;*/
+}
+
+.chart-temp {
+	width: 32px;
+	height: 32px;
+	background: url(../img/page_text_chart.png) no-repeat;
+	margin: 0 auto;
+}
+
+.window {
+  position:fixed;
+ /* width:800px;
+  height:400px;*/
+  display:none;
+  z-index:9999;
+  padding:20px;
+}
+ 
+ 
+/* Customize your modal window here, you can add background image too */
+#dialog-wrapper {
+	  background-color: #fff;
+ 	   -webkit-border-radius: 10px;
+       -moz-border-radius: 10px;
+       border-radius: 10px;
+}
+
+.dialog-close {
+	position: absolute;
+	/*background: url(img/ico-close-button.png) no-repeat;*/
+	width: 24px;
+	height: 24px;
+	top: 5px;
+	right: 5px;
+	cursor: pointer;
+}
+
+.dialog-open {
+	/*position: absolute;
+	width: 24px;
+	height: 24px;*/
+	/* flip image 180 degrees */
+	-moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: FlipH;
+    -ms-filter: "FlipH";
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+	display: inline-block;
+	width: 14px;
+	height: 14px;
+	margin-top: 1px;
+	*margin-right: .3em;
+	line-height: 14px;
+	vertical-align: text-top;
+	background-image: url("../img/glyphicons-halflings.png");
+	background-position: 14px 14px;
+	background-repeat: no-repeat;
+}
+
+.icon-zoom-out {
+  	background-position: -360px 0;
+}
+
+.icon-zoom-in {
+  	background-position: -336px 0;
+}
+
+.icon-remove-sign {
+  	background-position: -48px -96px;
+}
+
+.spacer {
+	height: 20px;	
+}
+
+.loading {
+	background: url(../img/spinner.gif) no-repeat;
+	width: 20px;
+	height: 20px;	
+}

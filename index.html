@@ -13,6 +13,7 @@
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
         <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/ChartPop.css">
         <link rel="stylesheet" href="css/main.css">
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
@@ -24,6 +25,7 @@
         <!-- Add your site or application content here -->
          
         <div id="log"></div>
+        <div id="mask"></div>
         <div id="wrapper"><!-- start wrapper -->
             <div id="headerContainer">
                 <img src="img/header_big.jpg" />
@@ -116,8 +118,8 @@
                     <div class="contentBox roundedBox shadow left">
                         <img src="img/tmp_pic.jpg" class="roundedBox" />
                     </div>
-                    <div class="contentBox roundedBox shadow left">
-                        Lorem Ipsum er rett og slett dummytekst fra og for trykkeindustrien. Lorem Ipsum har vært bransjens standard for dummytekst helt siden 1500-tallet, da en ukjent boktrykker stokket en mengde bokstaver for å lage et prøveeksemplar av en bok. Lorem Ipsum har tålt tidens tann usedvanlig godt, og har i tillegg til å bestå gjennom fem århundrer også tålt spranget over til elektronisk typografi uten vesentlige endringer. Lorem Ipsum ble gjort allment kjent i 1960-årene ved lanseringen av Letraset-ark med avsnitt fra Lorem Ipsum, og senere med sideombrekkingsprogrammet Aldus PageMaker som tok i bruk nettopp Lorem Ipsum for dummytekst.
+                    <div id="graph-test" style="height: 300px;" class="contentBox roundedBox shadow left">
+                        
                     </div>
                     <div class="contentBox roundedBox shadow left">
                         Det finnes mange ulike varianter av Lorem Ipsum, men majoriteten av disse har blitt tuklet med på et eller annet vis. Det være seg innlagt humor eller tilfeldig genererte ord som ser langt fra troverdige ut. Skal man bruke avsnitt av Lorem Ipsum må man være sikker på at det ikke skjuler seg noe pinlig midt i teksten. Lorem Ipsum-generatorer på internett har en tendens til å repetere forhåndsdefinerte biter av tekst, noe som gjør dette til den første rettmessige generatoren på nett. Den bruker en samling av over 200 latinske ord, kombinert med en håndfull av setningsstrukturer, som sammen genererer Lorem Ipsum som ser fornuftig ut. Ferdiggenerert Lorem Ipsum er derfor alltid fri for repetisjon, innlagt humor, ugjenkjennlige ordformer osv.
@@ -146,17 +148,27 @@
                     footer container
                 </div>
             </div><!-- end contentWrapper -->
-        </div><!-- end wrapper -->
 
+             <div id="dialog-wrapper" class="window box_shadow">
+            <div id="dialog">&nbsp;</div>
+            <div><a href="#" class="dialog-close icon-remove-sign"></a></div>
+         </div>
+            
+        </div><!-- end wrapper -->
+       
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.0.min.js"><\/script>')</script>
         <script src="js/plugins.js"></script>
         <script src="js/main.js"></script>
+        <script src="js/vendor/highcharts.js"></script>
+        <script src="js/jQuery.ChartPop.js"></script>
         <script src="js/vendor/jquery.masonry.min.js"></script>
         <script>
             $(document).ready(function() {
                 var l = $("#log");
                 var c = $("#contentWrapper");
+                var chartCount = 0;
+                var chartArr = [];
 
                 $(window).scroll(function() {
                     var winTop = $(this).scrollTop();
@@ -224,6 +236,89 @@
 
                 /* top menu test */
                 
+                /* highcharts */
+                function createChartObj(obj) {
+                    var graphID;
+                    if (obj.id == null) {
+                        graphID = "graph-container-"+getRandomInt(1, 100);
+                    } else {
+                        graphID = "graph-container-"+obj.id;
+                    }
+                    //console.log("container: "+obj.chart.renderTo);
+                    //set graph container
+                    //check chart heigth and width
+                    var w = obj.chart.width == null ? 300 : obj.chart.width;
+                    var h = obj.chart.height == null ? 300 : obj.chart.height;
+                    
+                    $("#graph-test").append("<div class=\"chart-wrapper\" style=\"width: "+w+"px; height:"+h+"px;\"><div id=\""+graphID+"\" class=\"loading\">-loading-</div><div class=\"pop-chart\"><a href=\"#\" data-id=\""+chartCount+"\" class=\"dialog-open icon-zoom-in\"></a></div></div><div class=\"spacer\">&nbsp;</div>");
+
+                    obj.chart.renderTo = graphID;
+                    //console.log("container: "+obj.chart.renderTo);
+
+                    obj.navigation = {
+                        buttonOptions: {
+                            enabled: false
+                        }
+                    }
+                    
+                    for (var i in obj) {
+                        //log("> "+i+" > "+obj[i]); 
+                    }
+                    log("w: "+w+" > "+h);
+
+                    chartCount++;
+                    var highchart = new Highcharts.Chart(obj);
+                    chartArr.push({"cid":highchart, "obj": obj});
+                    highchart.setSize(w, h);
+                    $("#graph-test").find("#"+graphID).removeClass("loading");
+
+                    $(".chart-wrapper .pop-chart a").on("click", function(e) {
+                        e.preventDefault();
+                        var $this = $(this);
+                        var id = parseInt($this.data("id"));
+                        var div = $this.parent().siblings("div");
+                        //console.log(">  div  > "+id + " > "+chartArr[id].cid);
+                        var cloneState = true;//(cloneState == false) ? true : false;
+                        
+                        div.chartpop({
+                            obj:        chartArr[id].cid, 
+                            data:       chartArr[id].obj, 
+                            clone:      cloneState,
+                            width:      800, 
+                            height:     400, 
+                            spinner:    true,
+                        });
+                        //div.parseXML("test");
+                        //div.addClass("chart-temp");
+                    });
+
+                }
+                
+                function getRandomInt (min, max) {
+                    return Math.floor(Math.random() * (max - min + 1)) + min;
+                }
+                
+                
+
+                var chartTest = {
+                    chart: {
+                        renderTo: 'container-3',
+                        events: {
+                            load: function(event) {
+                                //alert ('Chart loaded chart');
+                            }
+                        }        
+                    },
+                    xAxis: {
+                    },
+                    
+                    series: [{
+                        animation: false,
+                        data: [29.9, 71.5, 106.4, 129.2, 144.0, 176.0, 135.6, 148.5, 216.4, 194.1, 95.6, 54.4]     
+                    }]
+                }
+
+                createChartObj(chartTest);
 
 
                 function log(s) {
