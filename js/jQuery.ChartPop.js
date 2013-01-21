@@ -1,3 +1,7 @@
+var chartCount = 0;
+var chartArr = [];
+var cloneState = false;
+
 (function($) {
 	$.fn.chartpop = function(options) {
 		var settings = $.extend(
