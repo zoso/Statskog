@@ -27,8 +27,14 @@
         <div id="log"></div>
         <div id="mask"></div>
         <div id="headerContainer">
-                <img src="img/header_big.jpg" width="100%" style="border-bottom: 2px solid #999;" />
+            <img src="img/header_big.jpg" width="100%" style="border-bottom: 2px solid #999;" />
+        </div>
+        <div id="dialog-wrapper" class="window shadow">
+                <div id="dialog">&nbsp; heheheheheheh</div>
+            <div>
+                <a href="#" class="dialog-close icon-remove-sign"></a>
             </div>
+        </div>
         <div id="wrapper"><!-- start wrapper -->
             
             <div class="spacer"></div>
@@ -90,7 +96,11 @@
                         <h2>Heading</h2>
                         Fra nyttårsskiftet var det ikke lenger Statskog som administrerte tomtefesteavtalene til Opplysningsvesenets Fond. Da hadde Statskog hatt oppdraget siden 90-tallet. For Statskog betydde dette bortfall av 12-15 årsverk. 
                     </div>
-                    
+                    <div class="contentBox roundedBox shadow left" style="width: 640px; height: 400px;">
+                        <!-- <iframe src="http://www.panoramio.com/plugin/?lt=1&amp;ln=1&amp;z=14&amp;k=2" width="640px" height="400px" frameborder="0"></iframe> -->
+                        <p><b>Map test</b></p>
+                        <p>ej orjh åo rgaoer orgwng r ijerbg bg aerig</p>
+                    </div>
                     <div class="contentBox roundedBox shadow left">
                         <h2>Heading</h2>
                         Gjennom en samarbeidsavtale med Norges geologiske undersøkelse (NGU) styrket Statskog sin posisjon som grunneier i forhold til eventuelle utvinninger av mineraler. Avtalen åpner både for å leie inn NGUs fagkunnskap som støtte, og å inngå et samarbeid om generelle undersøkelser i utvalgte områder. Flere undersøkelser kom i gang i 2011, det ble blant annet lett etter kobber, sink, bly, gull og sølv. I tillegg utvidet Rana Gruber og startet uttak av jernmalm på statens grunn.
@@ -134,9 +144,7 @@
                         <h2>Heading</h2>
                         Det finnes mange ulike varianter av Lorem Ipsum, men majoriteten av disse har blitt tuklet med på et eller annet vis. Det være seg innlagt humor eller tilfeldig genererte ord som ser langt fra troverdige ut. Skal man bruke avsnitt av Lorem Ipsum må man være sikker på at det ikke skjuler seg noe pinlig midt i teksten. Lorem Ipsum-generatorer på internett har en tendens til å repetere forhåndsdefinerte biter av tekst, noe som gjør dette til den første rettmessige generatoren på nett. Den bruker en samling av over 200 latinske ord, kombinert med en håndfull av setningsstrukturer, som sammen genererer Lorem Ipsum som ser fornuftig ut. Ferdiggenerert Lorem Ipsum er derfor alltid fri for repetisjon, innlagt humor, ugjenkjennlige ordformer osv.
                     </div>
-                    <div class="contentBox roundedBox shadow left">
-                        <img src="img/tmp_pic.jpg" class="roundedBox" />
-                    </div>
+                    
 
                     <div class="contentBox roundedBox shadow left">
                         Lorem Ipsum er rett og slett dummytekst fra og for trykkeindustrien. Lorem Ipsum har vært bransjens standard for dummytekst helt siden 1500-tallet, da en ukjent boktrykker stokket en mengde bokstaver for å lage et prøveeksemplar av en bok. Lorem Ipsum har tålt tidens tann usedvanlig godt, og har i tillegg til å bestå gjennom fem århundrer også tålt spranget over til elektronisk typografi uten vesentlige endringer. Lorem Ipsum ble gjort allment kjent i 1960-årene ved lanseringen av Letraset-ark med avsnitt fra Lorem Ipsum, og senere med sideombrekkingsprogrammet Aldus PageMaker som tok i bruk nettopp Lorem Ipsum for dummytekst.
@@ -158,12 +166,10 @@
             </div><!-- end contentWrapper -->
 
             
-            <div id="dialog-wrapper" class="window box_shadow">
-            <div id="dialog">&nbsp;</div>
-            <div><a href="#" class="dialog-close icon-remove-sign"></a></div>
-         </div>
+            
          
         </div><!-- end wrapper -->
+
        <div id="footerContainer" class="" style="height: 300px; background-color: #663e3e; padding: 10px; color: #ffffff;">footerContainer</div>
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.0.min.js"><\/script>')</script>
@@ -249,7 +255,13 @@
                     var w = obj.chart.width == null ? 300 : obj.chart.width;
                     var h = obj.chart.height == null ? 300 : obj.chart.height;
                     
-                    $(divContainer).append("<div class=\"chart-wrapper\" style=\"width: "+w+"px; height:"+h+"px;\"><div id=\""+graphID+"\" class=\"loading\">-loading-</div><div class=\"pop-chart\"><a href=\"#\" data-id=\""+chartCount+"\" class=\"dialog-open icon-zoom-in\"></a></div></div><div class=\"spacer\">&nbsp;</div>");
+                    // $(divContainer).append("<div class=\"chart-wrapper\" style=\"width: "+w+"px; height:"+h+"px;\"><div id=\""+graphID+"\" class=\"loading\">-loading-</div><div class=\"pop-chart\"><a href=\"#\" data-id=\""+chartCount+"\" class=\"dialog-open icon-zoom-in\"></a></div></div><div class=\"spacer\">&nbsp;</div>");
+
+                    $(divContainer).chartpop('init', {
+                        "graphID": graphID,
+                        "graphNr": chartCount,
+                        "mask-container": $("#mask")
+                    });
 
                     obj.chart.renderTo = graphID;
                     //log("container: "+obj.chart.renderTo+" > div "+divContainer);
@@ -272,17 +284,21 @@
                         var $this = $(this);
                         var id = parseInt($this.data("id"));
                         var div = $this.parent().siblings("div");
-                        //console.log(">  div  > "+id + " > "+chartArr[id].cid);
-                        cloneState = (cloneState == false) ? true : false;
+                        log(">  div  > "+id + " > "+chartArr[id].cid);
+                        //cloneState = (cloneState == false) ? true : false;
                         
-                        div.chartpop({
-                            obj:        chartArr[id].cid, 
-                            data:       chartArr[id].obj, 
-                            clone:      cloneState,
-                            width:      800, 
-                            height:     400, 
-                            spinner:    true,
-                        });
+                        div.chartpop('pop', {
+                            "hc": chartArr[id].obj
+                        })
+
+                        // div.chartpop({
+                        //     obj:        chartArr[id].cid, 
+                        //     data:       chartArr[id].obj, 
+                        //     clone:      cloneState,
+                        //     width:      800, 
+                        //     height:     400, 
+                        //     spinner:    true,
+                        // });
                         //div.parseXML("test");
                         //div.addClass("chart-temp");
                     });
@@ -290,16 +306,30 @@
                 }
                 //$("#log").chartpop();
 
-                //log(">>> "+chartpop.defaultSettings.spinner);
+                //log(">>> "+$("#log").chartpop.defaultSettings.spinner);
 
-                $("#log").chartpop('pop', 
-                    {
-                        spinner: false,
-                        width: "900",
-                        name: "test graph",
-                        "pop-container": "#fuck"
-                    }
-                );
+                /*
+                "div": this,
+                "width": 300,
+                "height": 300,
+                "graphID": "graphID",
+                "graphNr": 1,
+                "pop-container": "#dialog-wrapper",
+                "mask-container": '',
+                "pop-width": 800,
+                "pop-height": 400,
+                "spinner": true
+                */
+
+                // $("#footerContainer").chartpop('init', 
+                //     {
+                //         spinner: false,
+                //         width: "900",
+                //         name: "test graph",
+                //         "pop-container": "#fuck"
+                //     }
+                // );
+
                 function getRandomInt (min, max) {
                     return Math.floor(Math.random() * (max - min + 1)) + min;
                 }
