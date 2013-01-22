@@ -30,7 +30,8 @@
             <img src="img/header_big.jpg" width="100%" style="border-bottom: 2px solid #999;" />
         </div>
         <div id="dialog-wrapper" class="window shadow">
-                <div id="dialog">&nbsp; heheheheheheh</div>
+                <div id="dialog">&nbsp; 
+                </div>
             <div>
                 <a href="#" class="dialog-close icon-remove-sign"></a>
             </div>
@@ -249,22 +250,18 @@
                     } else {
                         graphID = "graph-container-"+obj.id;
                     }
-                    //console.log("container: "+obj.chart.renderTo);
                     //set graph container
                     //check chart heigth and width
                     var w = obj.chart.width == null ? 300 : obj.chart.width;
                     var h = obj.chart.height == null ? 300 : obj.chart.height;
-                    
-                    // $(divContainer).append("<div class=\"chart-wrapper\" style=\"width: "+w+"px; height:"+h+"px;\"><div id=\""+graphID+"\" class=\"loading\">-loading-</div><div class=\"pop-chart\"><a href=\"#\" data-id=\""+chartCount+"\" class=\"dialog-open icon-zoom-in\"></a></div></div><div class=\"spacer\">&nbsp;</div>");
-
                     $(divContainer).chartpop('init', {
                         "graphID": graphID,
                         "graphNr": chartCount,
-                        "mask-container": $("#mask")
+                        "mask-container": $("#mask"),
+                        "spinner": true
                     });
 
                     obj.chart.renderTo = graphID;
-                    //log("container: "+obj.chart.renderTo+" > div "+divContainer);
 
                     obj.navigation = {
                         buttonOptions: {
@@ -284,7 +281,7 @@
                         var $this = $(this);
                         var id = parseInt($this.data("id"));
                         var div = $this.parent().siblings("div");
-                        log(">  div  > "+id + " > "+chartArr[id].cid);
+                        //log(">  div  > "+id + " > "+chartArr[id].obj.chart.renderTo);
                         //cloneState = (cloneState == false) ? true : false;
                         
                         div.chartpop('pop', {

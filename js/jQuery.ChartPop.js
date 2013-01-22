@@ -14,7 +14,7 @@ var cloneState = false;
 		"pop-container": $("#dialog-wrapper"),
 		"mask-container": '',
 		"mask-color": "#333",
-		"mask-opacity": 0.5,
+		"mask-opacity": 0.9,
 		"pop-width": 800,
 		"pop-height": 400,
 		"spinner": true
@@ -26,16 +26,13 @@ var cloneState = false;
 			html += "<div id=\""+defaultSettings.graphID+"\" class=\"loading\">-loading-</div>";
 			html += "<div class=\"pop-chart\"><a href=\"#\" data-id=\""+defaultSettings.graphNr+"\" class=\"dialog-open icon-zoom-in\"></a></div></div>";
 			html += "<div class=\"spacer\">&nbsp;</div>";
-			//console.log(html);
 			return html;
 		},
-		creategraph: function(options) {
-			console.log("method create graph");
-		},
 		pop: function(options) {
-			//console.log(" POP "+defaultSettings.width);
 			var maskHeight = $(document).height();
 			var maskWidth = $(window).width();
+			
+			defaultSettings["hc"].chart.renderTo = 'dialog';
 			defaultSettings["mask-container"].fadeIn(200);   
 			defaultSettings["mask-container"].fadeTo("slow", defaultSettings["mask-opacity"]);
 			defaultSettings["mask-container"].css({'width': maskWidth,'height': maskHeight});
@@ -46,8 +43,13 @@ var cloneState = false;
 			defaultSettings["pop-container"].css('top',  winH/2-defaultSettings["pop-height"]/2);
 			defaultSettings["pop-container"].css('left', winW/2-defaultSettings["pop-width"]/2);
 			defaultSettings["pop-container"].css({'width': defaultSettings["pop-width"], 'height': defaultSettings["pop-height"]});
+			
+			if (defaultSettings["spinner"] == true) 
+				$("#dialog").html("<div style=\"width: 220px; height: 19px; margin: 0 auto; margin-top: 200px;\"><img src=\"img/spinner_2.gif\" /></div>");
+			var hc = {};
 			defaultSettings["pop-container"].fadeIn(500, function() {
-
+				hc = new Highcharts.Chart(defaultSettings["hc"]);
+				hc.setSize(defaultSettings["pop-width"], defaultSettings["pop-height"]);
 			});
 
 			//hide open-icon
@@ -73,36 +75,13 @@ var cloneState = false;
 				defaultSettings["pop-container"].fadeOut(100, function() {
 					//show open-icon
 					//settings.div.siblings().show();
-					//defaultSettings["pop-container"].html('');
+					hc = null;
+					$("#dialog").html("");
 				});
 				defaultSettings["mask-container"].hide();
 			}
 		}
 	}
-
-	/*
-		$(divContainer).append("<div class=\"chart-wrapper\" style=\"width: "+w+"px; height:"+h+"px;\">
-		<div id=\""+graphID+"\" class=\"loading\">-loading-</div>
-		<div class=\"pop-chart\"><a href=\"#\" data-id=\""+chartCount+"\" class=\"dialog-open icon-zoom-in\"></a></div>
-		</div><div class=\"spacer\">&nbsp;</div>");
-	*/
-
-	/*var methods = {
-		init: function(options) {
-			console.log("init");
-		},
-		createGraph: function(options) {
-			console.log("createGraph");
-		},
-		pop: function(options) {
-			var winH = $(window).height();
-			var winW = $(window).width();
-			defaultSettings["pop-container"].css('position', 'fixed');
-			//defaultSettings.pop-container.css('top',  winH/2-settings.height/2);
-			//defaultSettings.pop-container.css('left', winW/2-settings.width/2);
-			console.log("pop");
-		}
-	};*/
 
 	/* Usage:
 		wrap a div around the div containing the highchart object
@@ -121,23 +100,18 @@ var cloneState = false;
 			- height and width of modal window
 			- clone the highchart graph or create a new instance
 			- turn loading animation on/off
+			++
 	*/
-
-
-
-
-
 
 	$.fn.chartpop = function(options, settings) {
 		defaultSettings = $.extend({}, defaultSettings, settings || {});
 		if (methods[options]) {
 			switch(options) {
 				case "init":
-					return this.html(methods[options].apply(settings));
+					return this.html(methods[options]());
 					break;
 				case "pop":
-					console.log("POP");
-					methods[options].apply(settings);
+					methods[options](settings);
 					break;
 				default:
 					console.log("---- error - no method");
