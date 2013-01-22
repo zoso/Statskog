@@ -80,6 +80,11 @@ var cloneState = false;
 				});
 				defaultSettings["mask-container"].hide();
 			}
+		},
+		get_settings: function() {
+			for (var i in defaultSettings) {
+				console.log("> "+i+" > "+defaultSettings[i]);
+			}
 		}
 	}
 
@@ -111,25 +116,18 @@ var cloneState = false;
 					return this.html(methods[options]());
 					break;
 				case "pop":
-					methods[options](settings);
+					methods[options]();
+					break;
+				case "get_settings":
+					methods[options]();
 					break;
 				default:
-					console.log("---- error - no method");
 					break;
 			}
-			
-			
-
 		} else if (typeof options === 'object' || !options) {
 			console.log("settings recived");
 		} else {
-			console.log("error - ingen metode funnet");
-		}
-
-		
-
-		for (var i in defaultSettings) {
-			//console.log(i+" > "+defaultSettings[i]);
+			console.log("error - ingen metode funnet ("+options+")");
 		}
 	};
 })(jQuery);
