@@ -26,10 +26,11 @@
          
         <div id="log"></div>
         <div id="mask"></div>
-        <div id="wrapper"><!-- start wrapper -->
-            <div id="headerContainer">
-                <img src="img/header_big.jpg" />
+        <div id="headerContainer">
+                <img src="img/header_big.jpg" width="100%" style="border-bottom: 2px solid #999;" />
             </div>
+        <div id="wrapper"><!-- start wrapper -->
+            
             <div class="spacer"></div>
            
             <div id="contentWrapper" class="border">
@@ -153,24 +154,23 @@
                     </div>
                 </div>
                 <div class="spacer" style="clear: both;"></div>
-                <div id="footerContainer" class="border">
-                    footer container
-                </div>
+                
             </div><!-- end contentWrapper -->
 
-             <div id="dialog-wrapper" class="window box_shadow">
+            
+            <div id="dialog-wrapper" class="window box_shadow">
             <div id="dialog">&nbsp;</div>
             <div><a href="#" class="dialog-close icon-remove-sign"></a></div>
          </div>
-
+         
         </div><!-- end wrapper -->
-       
+       <div id="footerContainer" class="" style="height: 300px; background-color: #663e3e; padding: 10px; color: #ffffff;">footerContainer</div>
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.0.min.js"><\/script>')</script>
         <script src="js/plugins.js"></script>
         <script src="js/main.js"></script>
         <script src="js/vendor/highcharts.js"></script>
-        <script src="js/jQuery.ChartPop.js"></script>
+        <script src="js/jQuery.ChartPop.js?v=1"></script>
         <script src="js/vendor/jquery.masonry.min.js"></script>
         <script>
             $(document).ready(function() {
@@ -252,18 +252,19 @@
                     $(divContainer).append("<div class=\"chart-wrapper\" style=\"width: "+w+"px; height:"+h+"px;\"><div id=\""+graphID+"\" class=\"loading\">-loading-</div><div class=\"pop-chart\"><a href=\"#\" data-id=\""+chartCount+"\" class=\"dialog-open icon-zoom-in\"></a></div></div><div class=\"spacer\">&nbsp;</div>");
 
                     obj.chart.renderTo = graphID;
-                    log("container: "+obj.chart.renderTo+" > div "+divContainer);
+                    //log("container: "+obj.chart.renderTo+" > div "+divContainer);
 
                     obj.navigation = {
                         buttonOptions: {
                             enabled: false
                         }
                     }
-
+                    
                     chartCount++;
                     var highchart = new Highcharts.Chart(obj);
                     chartArr.push({"cid":highchart, "obj": obj});
                     highchart.setSize(w, h);
+                    
                     $(divContainer).find("#"+graphID).removeClass("loading");
 
                     $(".chart-wrapper .pop-chart a").on("click", function(e) {
@@ -287,7 +288,18 @@
                     });
 
                 }
-                
+                //$("#log").chartpop();
+
+                //log(">>> "+chartpop.defaultSettings.spinner);
+
+                $("#log").chartpop('pop', 
+                    {
+                        spinner: false,
+                        width: "900",
+                        name: "test graph",
+                        "pop-container": "#fuck"
+                    }
+                );
                 function getRandomInt (min, max) {
                     return Math.floor(Math.random() * (max - min + 1)) + min;
                 }
