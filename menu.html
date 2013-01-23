@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> 
+<html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>menu</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width">
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+    <style>
+    
+    body {
+        margin: 0;
+        padding: 0;
+        background-color: #ffffff;
+    }   
+
+    #wrapper {
+        width: 1024px;
+        height: 100%;
+        margin: 0 auto;
+        background-color: #ededed;
+    }
+
+    .main-menu {
+        background: #efefef;
+        padding: 0 20px;
+        list-style: none;
+        width: 1024px;
+        position: relative;
+        display: table;
+    }
+
+    .main-menu ul:after {
+        content: "";
+        clear: both;
+        display: block;
+    }
+
+    .main-menu li {
+        float: left;
+    }
+
+    .main-menu li:hover {
+        background-color: #4b545f;
+    }
+
+    .main-menu li a {
+        display: block;
+        padding: 25px 30px;
+        color: #757575;
+        text-decoration: none;
+    }
+
+    .sub-menu {
+        display: none;
+    }
+
+    .sub-menu li:hover {
+        display: block;
+    }
+
+    </style>   
+    </head>
+    <body>
+
+        <div id="wrapper">
+            <div id="menuContainer">
+                <ul class="main-menu">
+                    <li class="level1">
+                        <a href="#" data-id="1">Menypunkt 1</a>
+                        <ul class="sub-menu">
+                            <li class="level2"><a href="#" data-id="1">SubMenypunkt 1</a></li>
+                            <li class="level2"><a href="#" data-id="2">SubMenypunkt 2</a></li>
+                            <li class="level2"><a href="#" data-id="3">SubMenypunkt 3</a></li>
+                            <li class="level2"><a href="#" data-id="4">SubMenypunkt 4</a></li>
+                        </ul>
+                    </li>
+                    <li class="level1">
+                        <a href="#" data-id="2">Menypunkt 2</a>
+                        <ul class="sub-menu">
+                            <li class="level2"><a href="#" data-id="1">SubMenypunkt 1</a></li>
+                            <li class="level2"><a href="#" data-id="2">SubMenypunkt 2</a></li>
+                            <li class="level2"><a href="#" data-id="3">SubMenypunkt 3</a></li>
+                            <li class="level2"><a href="#" data-id="4">SubMenypunkt 4</a></li>
+                        </ul>
+                    </li>
+                    <li class="level1">
+                        <a href="#" data-id="3">Menypunkt 3</a>
+                        <ul class="sub-menu">
+                            <li class="level2"><a href="#" data-id="1">SubMenypunkt 1</a></li>
+                        </ul>
+                    </li>
+                    <li class="level1">
+                        <a href="#" data-id="4">Menypunkt 4</a>
+                        <ul class="sub-menu">
+                            <li class="level2"><a href="#" data-id="1">SubMenypunkt 1</a></li>
+                            <li class="level2"><a href="#" data-id="2">SubMenypunkt 2</a></li>
+                            <li class="level2"><a href="#" data-id="3">SubMenypunkt 3</a></li>
+                        </ul>
+                    </li>
+                    <li class="level1">
+                        <a href="#" data-id="5">Menypunkt 5</a>
+                        <ul class="sub-menu">
+                            <li class="level2"><a href="#" data-id="1">SubMenypunkt 1</a></li>
+                        </ul>
+                    </li>
+                    <li class="level1">
+                        <a href="#" data-id="6">Menypunkt 6</a>
+                    </li>
+                </ul>
+            </div>
+            <div id="contentContainer">
+                content
+            </div>
+            <div id="footerContainer">
+                footer
+            </div>
+        </div>
+
+    </body>
+</html>

@@ -90,7 +90,7 @@ var cloneState = false;
 
 	/* Usage:
 		wrap a div around the div containing the highchart object
-		ex:
+		ex: $(div).createpop('item', settings) -> return:
 		<div id="chart-wrapper">
 			<div id="graphID-container">highchart object</div>
 			<div class="pop-chart">creates a magnifier icon <a href="#">#</a></div>

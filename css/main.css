@@ -120,6 +120,8 @@ textarea {
     position: relative;
     height: 40px;
     /*background-color: #ffee33;*/
+    font-family: "Trebuchet MS";
+    font-size: 14px;
 }
 
 
@@ -128,19 +130,32 @@ textarea {
     bottom: 0;
     left: 0;
     right: 0;*/
+    
+
 }
 
 #menuContainer li {
     float: left;
-    width: 150px;
-    margin-right: 10px;
+    width: auto;
+    /*margin-right: 10px;*/
+    border-right: 2px solid black;
+    list-style: none;
+    text-transform: uppercase;
+}
+    
+#menuContainer li.last-item {
+    float: left;
+    width: auto;
+    /*margin-right: 10px;*/
+    
     list-style: none;
     text-transform: uppercase;
 }
 
 #menuContainer li a {
     display: block;
-    color: #ff4400;
+    color: #000;
+    padding: 10px;
     /*font-weight: bold;*/
     text-decoration: none;
 }
@@ -152,7 +167,7 @@ textarea {
 
 
 ul.subMenu {
-    background-color: #fff;
+    
     position: absolute;
    /* left: 0;*/
     
@@ -161,16 +176,16 @@ ul.subMenu {
     padding: 0;
     border-bottom: 1px solid #cccccc;
     z-index: 20;
-    width: 50px;
+    min-width: 150px;
+    font-size: 12px;
 }
 
 .subMenu li {
     list-style: none;
-    
-    
-   
+    width: auto;
     background-color: #fff;
 }
+
 
 .subMenu li a {
     
