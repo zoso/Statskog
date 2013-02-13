@@ -243,20 +243,21 @@ ul.subMenu {
 /* fixr meny */
 .menuOnTop {
     width: 960px;
-    height: 30px;
+    height: 60px;
     background-color: #eeeeee;
     position: fixed;
     z-index: 1000;
     padding-top: 10px;
-    top: -12px;
+    top: -14px;
+    opacity: .9;
 }
 
 .subMenuOnTop {
     width: 960px;
     position: fixed;
+    height: 160px;
     z-index: 1001;
     top: 40px;
-    /*background-color: #f101f0;*/
 }
 
 

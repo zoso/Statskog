@@ -15,6 +15,7 @@
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/ChartPop.css">
         <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/jquery.pageslide.css"></script>
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
     <body>
@@ -94,17 +95,22 @@
                 <div class="spacer" style="clear: both;"></div>
                 <div id="contentContainer" class="border">
                     <div class="contentBox roundedBox shadow left">
-                        <h2>Heading</h2>
+                        <h2 class="fixie"></h2>
                         Fra nyttårsskiftet var det ikke lenger Statskog som administrerte tomtefesteavtalene til Opplysningsvesenets Fond. Da hadde Statskog hatt oppdraget siden 90-tallet. For Statskog betydde dette bortfall av 12-15 årsverk. 
                     </div>
                     <div class="contentBox roundedBox shadow left" style="width: 640px; height: 400px;">
                         <!-- <iframe src="http://www.panoramio.com/plugin/?lt=1&amp;ln=1&amp;z=14&amp;k=2" width="640px" height="400px" frameborder="0"></iframe> -->
                         <p><b>Map test</b></p>
-                        <p>ej orjh åo rgaoer orgwng r ijerbg bg aerig</p>
+                        <p>Kart kan komme her</p>
+                        <p>Nå er det bare en test for å <a href="pages/page1.html" class="slide-click-1">slide</a> en side inn</p>
+                        <p>Enda en link <a href="pages/page2.html" class="slide-click-2">her</a></p>
+                        <p class="fixie"></p>
+                        <!-- <iframe width="640" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.arcgis.com/home/webmap/templates/OnePane/basicviewer/embed.html?webmap=638097407b8e4247a32b9d782e2c8a01&amp;gcsextent=10.4175,64.1282,12.8438,64.679&amp;displayslider=true&amp;displaylegend=true&amp;displaylayerlist=true&amp;theme=green"></iframe> -->
                     </div>
                     <div class="contentBox roundedBox shadow left">
-                        <h2>Heading</h2>
-                        Gjennom en samarbeidsavtale med Norges geologiske undersøkelse (NGU) styrket Statskog sin posisjon som grunneier i forhold til eventuelle utvinninger av mineraler. Avtalen åpner både for å leie inn NGUs fagkunnskap som støtte, og å inngå et samarbeid om generelle undersøkelser i utvalgte områder. Flere undersøkelser kom i gang i 2011, det ble blant annet lett etter kobber, sink, bly, gull og sølv. I tillegg utvidet Rana Gruber og startet uttak av jernmalm på statens grunn.
+                        <h2>Heading fixie</h2>
+                        <p class="fixie"></p>
+
                     </div>
                     <div class="contentBox roundedBox shadow left">
                         <h2>Heading</h2>
@@ -179,6 +185,8 @@
         <script src="js/vendor/highcharts.js"></script>
         <script src="js/jQuery.ChartPop.js?v=1"></script>
         <script src="js/vendor/jquery.masonry.min.js"></script>
+        <script src="js/jquery.pageslide.js"></script>
+        <script type="text/javascript" src="https://raw.github.com/ryhan/fixie/master/fixie_min.js"></script>
         <script>
             $(document).ready(function() {
                 var l = $("#log");
@@ -191,16 +199,22 @@
                 })
 
 
+                $(".slide-click-1").pageslide();
+                $(".slide-click-2").pageslide({direction: 'left'});
 
                 $(window).scroll(function() {
                     var winTop = $(this).scrollTop();
-                    if (winTop > (c.offset().top - 10)) {
+                    if (winTop > (c.offset().top + 50)) {
                         
                         if ($("#main-menu").hasClass("menuOnTop")) {
 
                         } else {
                              $("#main-menu").addClass("menuOnTop shadow");
                              //$(".subMenu").addClass("subMenuOnTop");
+                             $("#main-menu").css('top', '-80px');
+                             $("#main-menu").animate({
+                                top: "-14px",
+                             }, 500);
                              log("dunk");
                         }
                        
