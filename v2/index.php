@@ -12,7 +12,7 @@
 
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
         
-        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/styled.css">
         <!-- <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/ChartPop.css">
         <link rel="stylesheet" href="css/main.css">
@@ -21,6 +21,7 @@
     </head>
     <body>
         <!-- Add your site or application content here -->
+        <div id="log"></div>
         <div id="top">
             <div class="top-logo"></div>
             <div class="top-container">
@@ -32,10 +33,10 @@
             <div class="top-bg"></div>
         </div>
         <div id="wrapper"><!-- wrapper -->
-            <?php include_once("php/menu.php"); ?>
-            <div id="content-container">
-                <?php include_once("php/fulle_fiskevann.php"); ?>
+            <div>
+                <?php include_once("php/menu.php"); ?>
             </div>
+            <div style="clear: both;"></div>
             <div>
                 <a href="http://2011.statskog.no/" target="_blank">http://2011.statskog.no/</a>
             </div>
@@ -45,4 +46,21 @@
         <!-- <?php include_once("php/footer.php"); ?> -->
         <!-- footer end -->
     </body>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script type="text/javascript">
+    $(document).ready(function() {
+        
+        $("#main-menu li a").on("click", function(e) {
+            $elm = $(this);
+            log("hello");
+        })
+
+        var log = $("#log");
+        function l(str, type) {
+            log.append("> "+str);
+        }
+
+        l("ready");
+    })
+    </script>
 </html>

@@ -1,0 +1,97 @@
+@blue: #54ad13;
+@red: #ff0000;
+@font: Verdana;
+@font-size: 10px;
+@menu-width: 960px;
+
+.rounded-corners(@r: 5px) {
+	-webkit-border-radius: @r;
+	-moz-border-radius: @r;
+	-ms-border-radius: @r;
+	-o-border-radius: @r;
+	border-radius: @r;
+}
+
+.heading {
+	font-size: 14px;
+	font-weight: bold;
+	color: @blue;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    font-family: @font;
+    font-size: @font-size;
+}
+
+#log {
+    position: fixed;
+    z-index: 2000;
+    top: 20px;
+    left: 20px;
+    background-color: #fff;
+}
+
+#top {
+    width: 100%;
+    margin: 0 auto;
+    height: 500px;
+    position: relative;
+}
+
+#top .top-container {
+    width: 100%;
+
+}
+
+#top .top-logo {
+    position: absolute;
+    width: 120px;
+    height: 58px;
+    background: url(../img/statskog_logo.png) no-repeat;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+#top .top-txt {
+    text-align: center;
+    z-index: 2;
+    width: 300px;
+    margin-left: 40%;
+    margin-top: 100px;
+    margin-right: auto;
+    position: absolute;
+}
+
+#top .top-bg {
+    background: url(../img/top_bg.jpg) 50% 0 no-repeat;
+    height: 500px;
+}
+
+#wrapper {
+    width: @menu-width;
+    height: 100%;
+    margin: 0 auto;
+    background-color: #ededed;
+}
+
+/* menu */
+ul.main-menu {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-family: @font;
+    font-size: 12px;
+}
+
+ul.main-menu li {
+	float: left;
+	width: @menu-width / 6;
+}
+
+ul.main-menu li div.sub-menu {
+	display: none;
+}
+
