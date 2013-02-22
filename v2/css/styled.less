@@ -84,7 +84,14 @@ body {
     background-color: @menu-bg-color;
 }
 
+#content-container {
+    z-index: 40;
+}
+
 /* menu */
+#menu-container {
+    z-index: 100;
+}
 ul.main-menu {
     margin: 0;
     padding: 0;
@@ -111,19 +118,36 @@ ul.main-menu li div.sub-menu {
     position: absolute;
     margin-left: -10px;
     padding-right: 10px;
-    padding-top: 10px;
+    padding-top: 20px;
     min-width:  ceil((@menu-width - 66)/ 6);
     background-color: @menu-bg-color;
 }
 
 ul.main-menu li div.sub-menu div {
-    padding: 10px;
+    margin-bottom: 10px;
 }
+/*
+ul.main-menu li div.sub-menu div a:hover; {
+    background-color: #443300;
+}*/
 
 ul.main-menu li a {
     text-decoration: none;
+    color: #222;
 }
 
 ul.main-menu li a:hover {
+    //background-color: #443300;
+}
+
+/* end menu */
+.content-box {
+    width: ceil(@menu-width /3)-6;
+    margin-right: 3px;
+    height: auto;
+    min-height: 100px;
     
+   
+    background-color: #ffffff;
+    .rounded-corners(10px);
 }

@@ -52,7 +52,7 @@
     <li>
         <a href="#">Om Statskog</a>
         <div class="sub-menu">
-            <div><a href="#">Samfunnsansvar</a></div>
+            <div><a href="template.php">Samfunnsansvar</a></div>
             <div><a href="#">Kjerneområder</a></div>
             <div><a href="#">Regioner</a></div>
             <div><a href="#">Fjelltjenesten</a></div>
