@@ -13,8 +13,8 @@
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
         
         <link rel="stylesheet" href="css/styled.css">
-        <!-- <link rel="stylesheet" href="css/normalize.css">
-        <link rel="stylesheet" href="css/ChartPop.css">
+        <link rel="stylesheet" href="css/normalize.css">
+        <!-- <link rel="stylesheet" href="css/ChartPop.css">
         <link rel="stylesheet" href="css/main.css">
         <link rel="stylesheet" href="css/jquery.pageslide.css"></script> -->
         <!-- <script src="js/vendor/modernizr-2.6.2.min.js"></script> -->
@@ -33,15 +33,14 @@
             <div class="top-bg"></div>
         </div>
         <div id="wrapper"><!-- wrapper -->
-            <div>
+            <div> <!-- menu -->
                 <?php include_once("php/menu.php"); ?>
-            </div>
+            </div> <!-- menu end -->
             <div style="clear: both;"></div>
-            <div>
-                <a href="http://2011.statskog.no/" target="_blank">http://2011.statskog.no/</a>
-            </div>
         </div><!-- wrapper end -->
-        
+        <div id="footer">
+            <a href="http://2011.statskog.no/" target="_blank">http://2011.statskog.no/</a>
+        </div>
         <!-- footer -->
         <!-- <?php include_once("php/footer.php"); ?> -->
         <!-- footer end -->
@@ -49,15 +48,30 @@
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script type="text/javascript">
     $(document).ready(function() {
-        
-        $("#main-menu li a").on("click", function(e) {
+        $("#main-menu li").on("mouseenter", function(e) {
             $elm = $(this);
-            log("hello");
+            $elm.find(".sub-menu").show().animate({
+                opacity: 1
+            }, 500, function() {
+            
+            }); 
+        }).on("mouseleave", function(e) {
+            $elm = $(this);
+            $elm.find(".sub-menu").animate({
+                opacity: 0
+            }, 200, function() {
+                $(this).hide()
+            }); 
+        }).on("click", function(e) {
+            l("> klikk > "+$(this).parent().children().length);
+            if ($(this).children().length == 1) {
+                l("> no sub");
+            }
         })
 
         var log = $("#log");
         function l(str, type) {
-            log.append("> "+str);
+            log.append("> "+str+"<br>");
         }
 
         l("ready");
