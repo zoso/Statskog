@@ -37,8 +37,9 @@
             </div> <!-- menu end -->
             <div style="clear: both;"></div>
             <div id="content-container">
-                <div class="content-box">
-                    <h1>Fulle fiskevann venter</h1>
+                <div id="left-container" style="float: left;">
+                    <div class="content-box">
+                        <h1>Fulle fiskevann venter</h1>
 <b>60 000 fulle fiskevann søker flere fiskere. Som statlig grunneier kan Statskog lokke med napp i «ditt eget» fiskevann.</b>
 <p>– Dette er vår felles grunn, og som alle forstår har vi så mange vann at alle som ønsker det vil finne sitt fiskested. Vi har altfor mange fisk og alt for få som fisker, så det har aldri vært lettere å få fisk enn nå. Mange steder må vi selv gå inn i med store ruser og fange opp så mange abbor og røye som mulig, sier fiskeansvarlig Frode Knutzen Midtlund i Statskog. 
 Varmere vær over tid har gitt mer næringsrike vann. Men når få fisker, blir det likevel kamp om maten. Resultatet er mange, men små fisk.</p>
@@ -57,8 +58,14 @@ Jakt- og fiskeportalen inatur.no er et godt utgangspunkt for planlegging av en f
 Statskog har ett fiskekort som gjelder for alle vann og vassdrag på statsgrunn unntatt statsallmenning, Statskogs Norgeskort. I nord eier Statskog mye av grunnen, i sør har foretaket områder som Njardarheim i Sirdalsheiene og Setesdalsheiene, Sølvverket ved Kongsberg, Varaldskogen på Finnskogen, samt deler av Femundsmarka. <br>  
 – Med en smarttelefon kan du slå på GPS-en og la telefonen finne nærmeste fiskevann ved å gå inn på inatur.no, sier Frode Knutzen Midtlund i Statskog. <br>
 <p>Telefonen blir også vanligere å bruke til betaling av fiskekort. Mottatt sms gjelder som betalingsbevis.</p>
-
+                    </div>
                 </div>
+                <div id="right-container" style="float: right;">
+                    <div class="content-box-right">
+
+                    </div>
+                </div>
+                <div style="clear: both;"></div>
                 
             </div>
         </div><!-- wrapper end -->

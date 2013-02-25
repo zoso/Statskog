@@ -38,16 +38,23 @@
             </div> <!-- menu end -->
             <div style="clear: both;"></div>
             <div id="content-container">
-                <div class="content-box">
-                    <h2>Fjelltjenesten</h2>
+                <div id="left-container" style="float: left;">
+                    <div class="content-box">
+                         <h2>Fjelltjenesten</h2>
                     <p>Fjelltjenesten er Statskogs profesjonelle feltapparat knyttet til naturoppsyn, skjøtsel og registreringsarbeid i Nordland og Troms. Fjelltjenesten ble etablert i perioden 1984-1989, først i Troms som et samarbeid mellom Statskog og Fylkesmannens miljøvernavdeling. Målet var å få til en bedre og mer kostnadseffektiv felttjeneste med Statskog som arbeidsgiver og fylkesmannen som tjenestekjøper. Mye er endret siden den gang.
 
 I dag leverer Fjelltjenesten tjenester til en lang rekke oppdragsgivere. Det største volumet kommer fra SNO, Statskog SF og Landbruks- og matdepartementet. I tillegg kommer oppdrag for fylkesmenn, kommuner, forskningsinstitusjoner, elve- og grunneierlag, kraftlag m.v. Med en brei portefølje av oppgaver utfører Fjelltjenesten ofte mange oppgaver på samme felttur. Kombinasjonsmulighetene gir effektive arbeidsdager med kostnadseffektiv drift, god utnyttelse av ressurser og redusert belastning på miljøet.
 
 Fjelltjenesten er i dag ledet av Tore Bjørnstad, og har 16 ansatte tilknyttet Statskogs lokalkontorer fra Hattfjelldal i sør til Nordreisa i nord. Dette gir en desentralisert tilstedeværelse i sterke fagmiljø som sikrer god lokalkunnskap. De ansatte har brei naturfaglig kompetanse og lang erfaring innen naturoppsyn, registreringsarbeid, tilrettelegging for friluftsliv og skjøtsel. I tillegg til myndighet etter lov om statlig naturoppsyn, er alle i Fjelltjenesten tildelt begrenset politimyndighet.
 </p>
+                    </div>
                 </div>
-                
+                <div id="right-container" style="float: right;">
+                    <div class="content-box-right">
+
+                    </div>
+                </div>
+                <div style="clear: both;"></div>
             </div>
         </div><!-- wrapper end -->
         <div id="footer">

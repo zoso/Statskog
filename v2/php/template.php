@@ -38,11 +38,17 @@
             </div> <!-- menu end -->
             <div style="clear: both;"></div>
             <div id="content-container">
-                <div class="content-box">
-                    <h2>heading</h2>
-                    <p>content</p>
+                 <div id="left-container" style="float: left;">
+                    <div class="content-box">
+
+                    </div>
                 </div>
-                
+                <div id="right-container" style="float: right;">
+                    <div class="content-box-right">
+
+                    </div>
+                </div>
+                <div style="clear: both;"></div>
             </div>
         </div><!-- wrapper end -->
         <div id="footer">

@@ -25,14 +25,6 @@
         <div id="top">
             <!-- <a href="http://testserver.loc/statskog/v2"><div class="top-logo"></div></a> -->
             <?php 
-                //$protocol = strpos(strolower($_SERVER['SERVER_PROTOCOL']), 'https') === FALSE ? 'http' : 'https';
-                // $host = $_SERVER['HTTP_HOST'];
-                //$script = $_SERVER['SCRIPT_NAME'];
-                // $params = $_SERVER['QUERY_STRING'];
-                // $url = $protocol . '://' . $host . $script . '?' . $params;
-                // var_dump( $url);
-                //echo $host;
-
                 include_once("php/logo.php") 
             ?>
             <div class="top-container">
@@ -58,7 +50,7 @@
                     <a href="php/fulle-fiskevann-venter.php">Fulle fiskevann venter</a>
                 </div>
                 <div class="content-box">
-                    content
+                    <a href="php/ny-tur-app.php">Ny tur app!</a>
                 </div>
                 <div class="content-box">
                     content

@@ -44,24 +44,74 @@
             </div> <!-- menu end -->
             <div style="clear: both;"></div>
             <div id="content-container">
-                <div class="content-box">
-                    <h2>Kjerneområder</h2>
-                    <p>Statskogs kjerneområder er skog, energi, eiendom, jakt, fiske og friluftsliv. Aktivitetene innen skog og energi er organisert som regionovergripende forretningsområder, mens ansvaret i de andre kjerneområdene ligger på regionnivå.
-
-Forretningsområdet skog
-Solgt m3    2008    2009    2010    2011               2012
-Statskog SF          141100              150148              134676              185193              211 916 
-Statskog Glomma                     -                           -                           -                179359              170 068 
-Statskog Børresen                       -                           -                           -                  23580               22 677 
-Statskog Vafos                      -                           -                           -                           -                    5 020 
-Sum Statskog Konsern             141100              150148              134676              388132              409 681 
-                    
-Det ble totalt sett avvirket 409 681 m3 i Statskogs skoger i 2012, vel 20 000 m3 mer enn året før. Avvirkningsnivået er i tråd med bestillingene til driftsselskapene SB Skog og Nordisk Tre. 
-</p><p>Forretningsområdet energi
-Statskog har over flere år arbeidet systematisk med å utvikle foretakets kraftressurser. Det er så langt gitt konsesjon på tre prosjekter som utnytter foretakets fallressurser, et av disse vil starte kraftproduksjon i 2013. Ytterligere om lag 40 konsesjonssøknader ligger til behandling hos NVE. Statskog er sjelden eneeier i energiprosjektene vi engasjerer oss i. Vi samarbeider som oftest med ulike relevante partnere, og det varierer hvor stor eierandel Statskog har i de ulike selskapene.
-</p>
+                <div id="left-container" style="float: left;">
+                    <div class="content-box">
+                        <h2>Kjerneområder</h2>
+                    <p>Statskogs kjerneområder er skog, energi, eiendom, jakt, fiske og friluftsliv. Aktivitetene innen skog og energi er organisert som regionovergripende forretningsområder, mens ansvaret i de andre kjerneområdene ligger på regionnivå.</p>
+                    <p>Forretningsområdet skog</p>
+                    <table width="100%" border="1" cellpadding="4">
+                        <tr style="font-weight: bold;">
+                            <td>Solgt m3</td>
+                            <td>2008</td>
+                            <td>2009</td>
+                            <td>2010</td>
+                            <td>2011</td>
+                            <td>2012</td>
+                        </tr>
+                        <tr>
+                            <td>Statskog SF</td>
+                            <td>141100</td>
+                            <td>150148</td>
+                            <td>134676</td>
+                            <td>185193</td>
+                            <td>211 916</td>
+                        </tr>
+                        <tr>
+                            <td>Statskog Glomma</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>179359</td>
+                            <td>170 068</td>
+                        </tr>
+                        <tr>
+                            <td>Statskog Børresen</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>23580</td>
+                            <td>22 677</td>
+                        </tr>
+                        <tr>
+                            <td>Statskog Vafos</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>5 020</td>
+                        </tr>
+                        <tr style="font-weight: bold;">
+                            <td>Sum Statskog Konsern</td>
+                            <td>141100</td>
+                            <td>150148</td>
+                            <td>134676</td>
+                            <td>388132</td>
+                            <td>409 681</td>
+                        </tr>
+                    </table>
+                    <p>Det ble totalt sett avvirket 409 681 m3 i Statskogs skoger i 2012, vel 20 000 m3 mer enn året før. Avvirkningsnivået er i tråd med bestillingene til driftsselskapene SB Skog og Nordisk Tre. 
+                    </p><p>Forretningsområdet energi
+                    Statskog har over flere år arbeidet systematisk med å utvikle foretakets kraftressurser. Det er så langt gitt konsesjon på tre prosjekter som utnytter foretakets fallressurser, et av disse vil starte kraftproduksjon i 2013. Ytterligere om lag 40 konsesjonssøknader ligger til behandling hos NVE. Statskog er sjelden eneeier i energiprosjektene vi engasjerer oss i. Vi samarbeider som oftest med ulike relevante partnere, og det varierer hvor stor eierandel Statskog har i de ulike selskapene.
+                    </p>
+                    </div>
                 </div>
-                
+                <div id="right-container" style="float: right;">
+                    <div class="content-box-right">
+
+                    </div>
+                </div>
+                <div style="clear: both;"></div>
+
             </div>
         </div><!-- wrapper end -->
         <div id="footer">

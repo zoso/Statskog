@@ -1,5 +1,5 @@
 .heading{font-size:14px;font-weight:bold;color:#54ad13;}
-body{margin:0;padding:0;background-color:#fff;font-family:Verdana;font-size:10px;background-color:#ededed;}
+body{margin:0;padding:0;background-color:#fff;font-family:Verdana;font-size:12px;background-color:#ededed;}
 #log{position:fixed;z-index:2000;top:20px;left:20px;width:300px;background-color:#fff;}
 #top{width:100%;margin:0 auto;height:500px;position:relative;}
 #top .top-container{width:100%;}
@@ -16,4 +16,4 @@ ul.main-menu li div.sub-menu{display:block;opacity:0;position:absolute;margin-le
 ul.main-menu li div.sub-menu div{margin-bottom:10px;}
 ul.main-menu li a{text-decoration:none;color:#222;}
 .content-box{width:600px;margin-right:10px;margin-bottom:10px;background-color:#ffffff;padding:10px;height:auto;min-height:100px;-webkit-border-radius:10px;-moz-border-radius:10px;-ms-border-radius:10px;-o-border-radius:10px;border-radius:10px;}
-.content-box-right{width:300px;margin-right:10px;margin-bottom:10px;background-color:#ffffff;padding:10px;-webkit-border-radius:10px;-moz-border-radius:10px;-ms-border-radius:10px;-o-border-radius:10px;border-radius:10px;}
+.content-box-right{text-align:center;width:300px;margin-right:10px;margin-bottom:10px;background-color:#ffffff;padding:10px;-webkit-border-radius:10px;-moz-border-radius:10px;-ms-border-radius:10px;-o-border-radius:10px;border-radius:10px;}
