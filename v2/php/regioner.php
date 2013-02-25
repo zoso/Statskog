@@ -38,28 +38,84 @@
             </div> <!-- menu end -->
             <div style="clear: both;"></div>
             <div id="content-container">
-                <div class="content-box">
-                    <h2>Regioner</h2>
-                    <p>Statskogs grunn er delt inn i fem ulike regioner der de respektive regionsjefene har ansvar for drift og utvikling av eiendommene. De er også Statskogs kontakt med oppdragsgivere, offentlige myndigheter, rettighetshavere og interessegrupper i sin region. 
-De fem regionene og regionsjefene i disse er: 
-Troms – Kåre Rasmussen
- Salten – Jan N. Nilsen
-Helgeland – Wenche Hjelmseth
-Midt-Norge – Carl Libach 
-Sør-Norge – Jan Helge Nordby
-(Ansiktsbilder av regionsjefene?)
-
-Salg av jakt- og fiskeprodukter/jaktstatistikk
-                2012        2011        2010        2009
-Elg                 felte dyr   1 274               822     
-Hjort           felte dyr   58              64
-Villrein        felte dyr   75              63
-Småvilt     solgte kort 13 998      15 040      13 942      11 576
-Fiske       solgte kort 12 490      20 050      19 672      20 733
-Hytteutleie utleiedøgn  6 565       5 900       4 898       4 683
-</p>
+                <div id="left-container" style="float: left;">
+                    <div class="content-box">
+                        <h2>Regioner</h2>
+                        <p>Statskogs grunn er delt inn i fem ulike regioner der de respektive regionsjefene har ansvar for drift og utvikling av eiendommene. De er også Statskogs kontakt med oppdragsgivere, offentlige myndigheter, rettighetshavere og interessegrupper i sin region.</p>
+                        <p>De fem regionene og regionsjefene i disse er: </p>
+                        <p>Troms – Kåre Rasmussen</p>
+                        <p>Salten – Jan N. Nilsen</p>
+                        <p>Helgeland – Wenche Hjelmseth</p>
+                        <p>Midt-Norge – Carl Libach</p>
+                        <p>Sør-Norge – Jan Helge Nordby</p>
+                        <p></p>
+                        <p>Salg av jakt- og fiskeprodukter/jaktstatistikk</p>
+                        <table width="100%" border="1" cellspacing="5">
+                            <tr>
+                                <td></td>
+                                
+                                <td>2012</td>
+                                <td>2011</td>
+                                <td>2010</td>
+                                <td>2009</td>
+                            </tr>
+                            <tr>
+                                <td>Elg felte dyr</td>
+                                
+                                <td>1 274</td>
+                                <td></td>
+                                <td>822</td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <td>Hjort felte dyr</td>
+                                
+                                <td>58</td>
+                                <td></td>
+                                <td>64</td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <td>Villrein felte dyr</td>
+                                
+                                <td>75</td>
+                                <td></td>
+                                <td>63</td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <td>Småvilt solgte kort</td>
+                                
+                                <td>13 998</td>
+                                <td>15 040</td>
+                                <td>13 942</td>
+                                <td>11 576</td>
+                            </tr>
+                            <tr>
+                                <td>Fiske solgte kort</td>
+                                
+                                <td>12 490</td>
+                                <td>20 050</td>
+                                <td>19 672</td>
+                                <td>20 733</td>
+                            </tr>
+                            <tr>
+                                <td>Hytteutleie utleiedøgn</td>
+                                
+                                <td>6 565</td>
+                                <td>5 900</td>
+                                <td>4 898</td>
+                                <td>4 683</td>
+                            </tr>
+                        </table>
+                    </div>
                 </div>
-                
+                <div id="right-container" style="float: right;">
+                    <div class="content-box-right">
+
+                    </div>
+                </div>
+                <div style="clear: both;"></div>
             </div>
         </div><!-- wrapper end -->
         <div id="footer">
