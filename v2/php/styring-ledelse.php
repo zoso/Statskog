@@ -39,8 +39,20 @@
             <div style="clear: both;"></div>
             <div id="content-container">
                 <div class="content-box">
-                    <h2>heading</h2>
-                    <p>content</p>
+                    <h2>Styring og ledelse</h2>
+                    <p>Staten eier Statskog. Eierskapet utøves av landbruks- og matministeren gjennom foretaksmøtet. Statskog SF er som statsforetak et eget juridisk selskap. Statskog har hovedkontor i Namsos, og har til sammen 16 lokalkontor fordelt på de fem regionene. Statskog har 13 ansatte. 
+Organisasjonskart:
+  
+
+Styret:
+Styreleder: Harald Ellefsen
+Nestleder: Eli Reistad
+Styremedlem: Tom Lifjell
+Styremedlem: Kari Økland
+Styremedlem: Gunnar Olofsson
+Styremedlem: Siw Anita Kvam (ansatterepresentant)
+Styremedlem: Geir Hovland (ansatterepresentant)
+</p>
                 </div>
                 
             </div>

@@ -18,6 +18,12 @@
         <link rel="stylesheet" href="css/main.css">
         <link rel="stylesheet" href="css/jquery.pageslide.css"></script> -->
         <!-- <script src="js/vendor/modernizr-2.6.2.min.js"></script> -->
+        <style>
+            #top .top-bg {
+                background: url(../img/top_bg_3.jpg) 50% 0 no-repeat;
+                height: 500px;
+            }
+        </style>
     </head>
     <body>
         <!-- Add your site or application content here -->
@@ -39,8 +45,21 @@
             <div style="clear: both;"></div>
             <div id="content-container">
                 <div class="content-box">
-                    <h2>heading</h2>
-                    <p>content</p>
+                    <h2>Kjerneområder</h2>
+                    <p>Statskogs kjerneområder er skog, energi, eiendom, jakt, fiske og friluftsliv. Aktivitetene innen skog og energi er organisert som regionovergripende forretningsområder, mens ansvaret i de andre kjerneområdene ligger på regionnivå.
+
+Forretningsområdet skog
+Solgt m3    2008    2009    2010    2011               2012
+Statskog SF          141100              150148              134676              185193              211 916 
+Statskog Glomma                     -                           -                           -                179359              170 068 
+Statskog Børresen                       -                           -                           -                  23580               22 677 
+Statskog Vafos                      -                           -                           -                           -                    5 020 
+Sum Statskog Konsern             141100              150148              134676              388132              409 681 
+                    
+Det ble totalt sett avvirket 409 681 m3 i Statskogs skoger i 2012, vel 20 000 m3 mer enn året før. Avvirkningsnivået er i tråd med bestillingene til driftsselskapene SB Skog og Nordisk Tre. 
+</p><p>Forretningsområdet energi
+Statskog har over flere år arbeidet systematisk med å utvikle foretakets kraftressurser. Det er så langt gitt konsesjon på tre prosjekter som utnytter foretakets fallressurser, et av disse vil starte kraftproduksjon i 2013. Ytterligere om lag 40 konsesjonssøknader ligger til behandling hos NVE. Statskog er sjelden eneeier i energiprosjektene vi engasjerer oss i. Vi samarbeider som oftest med ulike relevante partnere, og det varierer hvor stor eierandel Statskog har i de ulike selskapene.
+</p>
                 </div>
                 
             </div>

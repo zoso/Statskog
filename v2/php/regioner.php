@@ -39,8 +39,25 @@
             <div style="clear: both;"></div>
             <div id="content-container">
                 <div class="content-box">
-                    <h2>heading</h2>
-                    <p>content</p>
+                    <h2>Regioner</h2>
+                    <p>Statskogs grunn er delt inn i fem ulike regioner der de respektive regionsjefene har ansvar for drift og utvikling av eiendommene. De er også Statskogs kontakt med oppdragsgivere, offentlige myndigheter, rettighetshavere og interessegrupper i sin region. 
+De fem regionene og regionsjefene i disse er: 
+Troms – Kåre Rasmussen
+ Salten – Jan N. Nilsen
+Helgeland – Wenche Hjelmseth
+Midt-Norge – Carl Libach 
+Sør-Norge – Jan Helge Nordby
+(Ansiktsbilder av regionsjefene?)
+
+Salg av jakt- og fiskeprodukter/jaktstatistikk
+                2012        2011        2010        2009
+Elg                 felte dyr   1 274               822     
+Hjort           felte dyr   58              64
+Villrein        felte dyr   75              63
+Småvilt     solgte kort 13 998      15 040      13 942      11 576
+Fiske       solgte kort 12 490      20 050      19 672      20 733
+Hytteutleie utleiedøgn  6 565       5 900       4 898       4 683
+</p>
                 </div>
                 
             </div>

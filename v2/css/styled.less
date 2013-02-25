@@ -13,6 +13,14 @@
 	border-radius: @r;
 }
 
+.content-box-size(@w: 200px) {
+    width: @w;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-color: #ffffff;
+    padding: 10px;
+}
+
 .heading {
 	font-size: 14px;
 	font-weight: bold;
@@ -27,6 +35,7 @@ body {
     background-color: #fff;
     font-family: @font;
     font-size: @font-size;
+    background-color: @menu-bg-color;
 }
 
 #log {
@@ -77,15 +86,18 @@ body {
 #wrapper {
     position: relative;
     width: @menu-width;
+    padding-top: 40px;
     height: auto !important;
     height: 100%;
     min-height: 100%;
     margin: 0 auto;
-    background-color: @menu-bg-color;
+    // background-color: @menu-bg-color;
 }
 
 #content-container {
     z-index: 40;
+    margin-top: 40px;
+    background-color: @menu-bg-color;
 }
 
 /* menu */
@@ -142,12 +154,18 @@ ul.main-menu li a:hover {
 
 /* end menu */
 .content-box {
-    width: ceil(@menu-width /3)-6;
-    margin-right: 3px;
+    .content-box-size(600px);//ceil(@menu-width /3)-6;
+
     height: auto;
     min-height: 100px;
     
    
-    background-color: #ffffff;
+    
+    .rounded-corners(10px);
+}
+
+.content-box-right {
+
+    .content-box-size(300px);
     .rounded-corners(10px);
 }

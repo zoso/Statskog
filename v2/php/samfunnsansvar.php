@@ -18,6 +18,12 @@
         <link rel="stylesheet" href="css/main.css">
         <link rel="stylesheet" href="css/jquery.pageslide.css"></script> -->
         <!-- <script src="js/vendor/modernizr-2.6.2.min.js"></script> -->
+        <style>
+            #top .top-bg {
+                background: url(../img/top_bg_2.jpg) 50% 0 no-repeat;
+                height: 500px;
+            }
+        </style>
     </head>
     <body>
         <!-- Add your site or application content here -->
@@ -38,12 +44,38 @@
             </div> <!-- menu end -->
             <div style="clear: both;"></div>
             <div id="content-container">
-                <div class="content-box">
-                    <h2>heading</h2>
-                    <p>content</p>
+                <div id="left-container" style="float: left;">
+                    <div class="content-box">
+                        <h2>Samfunnsansvar</h2>
+                        <p>Statskog skal:
+    <p>•   være en garantist for allmennhetens tilgang til jakt og fiske</p>
+    <p>•   legge til rette for allmennhetens friluftsliv</p>
+    <p>•   bidra til verdiskaping på fellesskapets ressurser</p>
+    <p>•   ivareta rettighetshavernes interesser</p>
+    <p>•   bidra til andres verdiskaping</p>
+    <p>•   være opptatt av samfunnsnytte og ringvirkninger </p> 
+    <p>•   ta hensyn til miljø og verneinteresser</p>
+    <p>•   bidra til de nasjonale klimamålene</p>
+    
+                    </div>
+                </div> <!-- end left container -->
+                <div id="right-container" style="float: right;">
+                    <div class="content-box-right">
+                        <div style="text-align: center;">
+                            <img src="../img/statskog-1-2-3.jpg" alt="" width="181" height="235" />
+                        </div>
+                    </div>
                 </div>
-                
+                <div id="right-container" style="float: right;">
+                    <div class="content-box-right">
+                        efwefwe
+                        <p>wefwe</p>
+                        <p>wrwefwe </p>
+                        <p>wrwegwr</p>
+                    </div>
+                </div>
             </div>
+            <div style="clear: both;"></div>
         </div><!-- wrapper end -->
         <div id="footer">
             <a href="http://2011.statskog.no/" target="_blank">http://2011.statskog.no/</a>

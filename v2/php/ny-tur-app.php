@@ -39,8 +39,12 @@
             <div style="clear: both;"></div>
             <div id="content-container">
                 <div class="content-box">
-                    <h2>heading</h2>
-                    <p>content</p>
+                    <h2>Ny tur-app</h2>
+                    <p>Statskog lanserte i 2012 tur-appen GodTur.no sammen med samarbeidspartnerne Friluftsrådenes Landsforbund, Bedriftsidretten og Det norske Skogselskap.
+Her finnes tusenvis av turforslag fra hele landet.
+ 
+Nettstedet GodTur.no har eksistert i flere år. Nå kan alle enkelt finne de gode kartene, de mange turene, bade- og fiskestedene med mer på sin egen telefon – ved hjelp av appen som kan lastes ned fra Appstore eller Google play.
+</p>
                 </div>
                 
             </div>

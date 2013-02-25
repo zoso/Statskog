@@ -1,13 +1,13 @@
 .heading{font-size:14px;font-weight:bold;color:#54ad13;}
-body{margin:0;padding:0;background-color:#fff;font-family:Verdana;font-size:10px;}
+body{margin:0;padding:0;background-color:#fff;font-family:Verdana;font-size:10px;background-color:#ededed;}
 #log{position:fixed;z-index:2000;top:20px;left:20px;width:300px;background-color:#fff;}
 #top{width:100%;margin:0 auto;height:500px;position:relative;}
 #top .top-container{width:100%;}
 #top .top-logo{position:absolute;width:120px;height:58px;background:url(../img/statskog_logo.png) no-repeat;margin-left:100px;margin-top:20px;}
 #top .top-txt{text-align:center;z-index:2;width:300px;margin-left:40%;margin-top:100px;margin-right:auto;position:absolute;}
 #top .top-bg{background:url(../img/top_bg.jpg) 50% 0 no-repeat;height:500px;}
-#wrapper{position:relative;width:960px;height:auto !important;height:100%;min-height:100%;margin:0 auto;background-color:#ededed;}
-#content-container{z-index:40;}
+#wrapper{position:relative;width:960px;padding-top:40px;height:auto !important;height:100%;min-height:100%;margin:0 auto;}
+#content-container{z-index:40;margin-top:40px;background-color:#ededed;}
 #menu-container{z-index:100;}
 ul.main-menu{margin:0;padding:0;list-style:none;font-family:Verdana;font-size:12px;}
 ul.main-menu li{float:left;padding:10px;width:139px;border-right:1px solid #000;text-align:center;}
@@ -15,4 +15,5 @@ ul.main-menu li:last-child{border-right:0;}
 ul.main-menu li div.sub-menu{display:block;opacity:0;position:absolute;margin-left:-10px;padding-right:10px;padding-top:20px;min-width:149px;background-color:#ededed;}
 ul.main-menu li div.sub-menu div{margin-bottom:10px;}
 ul.main-menu li a{text-decoration:none;color:#222;}
-.content-box{width:314px;margin-right:3px;height:auto;min-height:100px;background-color:#ffffff;-webkit-border-radius:10px;-moz-border-radius:10px;-ms-border-radius:10px;-o-border-radius:10px;border-radius:10px;}
+.content-box{width:600px;margin-right:10px;margin-bottom:10px;background-color:#ffffff;padding:10px;height:auto;min-height:100px;-webkit-border-radius:10px;-moz-border-radius:10px;-ms-border-radius:10px;-o-border-radius:10px;border-radius:10px;}
+.content-box-right{width:300px;margin-right:10px;margin-bottom:10px;background-color:#ffffff;padding:10px;-webkit-border-radius:10px;-moz-border-radius:10px;-ms-border-radius:10px;-o-border-radius:10px;border-radius:10px;}

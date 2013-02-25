@@ -23,11 +23,21 @@
         <!-- Add your site or application content here -->
         <div id="log"></div>
         <div id="top">
-            <div class="top-logo"></div>
+            <!-- <a href="http://testserver.loc/statskog/v2"><div class="top-logo"></div></a> -->
+            <?php 
+                //$protocol = strpos(strolower($_SERVER['SERVER_PROTOCOL']), 'https') === FALSE ? 'http' : 'https';
+                // $host = $_SERVER['HTTP_HOST'];
+                //$script = $_SERVER['SCRIPT_NAME'];
+                // $params = $_SERVER['QUERY_STRING'];
+                // $url = $protocol . '://' . $host . $script . '?' . $params;
+                // var_dump( $url);
+                //echo $host;
+
+                include_once("php/logo.php") 
+            ?>
             <div class="top-container">
                 <div class="top-txt">
-                    <h1>Årsrapport 2012</h1>
-                    <p>Ho oh ihpi wefipegh wepi piurgh pirgh erigergeh reirgh eierpige iejbg peirbg irierthg eigberitg ibge ge erigeh rirg</p>
+                    <?php include_once("php/top-txt.php") ?>
                 </div>
             </div>
             <div class="top-bg"></div>
@@ -39,7 +49,13 @@
             <div style="clear: both;"></div>
             <div id="content-container">
                 <div class="content-box">
-                    content
+                    <a href="php/rev-enn-rype.php">- Skyt heller rev enn rype</a>
+                </div>
+                <div class="content-box">
+                    <a href="php/vekker-oppsikt.php">Statskog vekker oppsikt</a>
+                </div>
+                <div class="content-box">
+                    <a href="php/fulle-fiskevann-venter.php">Fulle fiskevann venter</a>
                 </div>
                 <div class="content-box">
                     content
@@ -47,13 +63,9 @@
                 <div class="content-box">
                     content
                 </div>
-                <div class="content-box">
-                    content
-                </div>
-                <div class="content-box">
-                    content
-                </div>
+                
             </div>
+
         </div><!-- wrapper end -->
         <div id="footer">
             <a href="http://2011.statskog.no/" target="_blank">http://2011.statskog.no/</a>
