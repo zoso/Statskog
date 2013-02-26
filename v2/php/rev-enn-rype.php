@@ -66,9 +66,5 @@ Det er også langt billigere å jakte på rev og annet smårovvilt. For 100 kron
         </div>
     </body>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    
-    <script type="text/javascript">
-    
-    })
-    </script>
+    <script src="../js/jquery.statskog.js"></script>
 </html>

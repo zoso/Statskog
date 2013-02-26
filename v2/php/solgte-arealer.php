@@ -18,12 +18,6 @@
         <link rel="stylesheet" href="css/main.css">
         <link rel="stylesheet" href="css/jquery.pageslide.css"></script> -->
         <!-- <script src="js/vendor/modernizr-2.6.2.min.js"></script> -->
-         <style>
-            #top .top-bg {
-                background: url(../img/top_bg_oversikt.jpg) 50% 0 no-repeat;
-                height: 500px;
-            }
-        </style>
     </head>
     <body>
         <!-- Add your site or application content here -->
@@ -33,7 +27,7 @@
             <?php include_once("logo.php") ?>
             <div class="top-container">
                 <div class="top-txt">
-                    <!-- <?php include_once("top-txt.php") ?> -->
+                    <?php include_once("top-txt.php") ?>
                 </div>
             </div>
             <div class="top-bg"></div>
@@ -44,21 +38,18 @@
             </div> <!-- menu end -->
             <div style="clear: both;"></div>
             <div id="content-container">
-                <div id="left-container" style="float: left;">
+                 <div id="left-container" style="float: left;">
                     <div class="content-box">
-                        <div class="inner-box-front">
-                            <h2>Oversikt over vernede områder</h2>
-                            <p>Statens eierskap er brukt som virkemiddel i etablering av nasjonale verneområder, som nasjonalparker og barskogvernområder. De første nasjonalparkene i Norge ble i hovedsak etablert på statens grunn, med unntak av Hardangervidda Nasjonalpark.</p>
-                            <p>I 2003 inngikk Statskog en samarbeidsavtale med Direktoratet for naturforvaltning (DN) om vern av skog på Statskogs eiendommer. Formålet med samarbeidsavtalen har vært å gjennomføre tiltak og definere oppgaver i forhold til utvidet skogvern, samt sikre en rasjonell gjennomføring av verneprosesser der Statskog er involvert. Det er DN som er vernemyndigheten. Statskogs rolle i dette samarbeidet er å være grunneier, med visse forvaltningsmessige oppgaver i statsallmenningene i henhold til fjell- og allmenningslovene. Kartet viser all vernet grunn i Norge, på både Statskogs og andre grunneieres eiendommer.</p>
-                        </div>
+                        <h3>Solgte arealer i 2011 og 2012</h3>
+                        <p>For å betale ned lånet Statskog fikk fra staten ved kjøp av Orklas skogeiendommer og samtidig få en bedre arrondert, eller driftsmessig, eiendomsmasse, er Statskog i ferd med å selge ut til sammen om lag 500 000 daa bestående av spredte skogeiendommer Statskog eide før kjøpet av Orklas skogeiendommer. Kartet viser hvilke eiendommer som er solgt så langt. Salget avsluttes i 2017.</p>
                     </div>
                 </div>
                 <div id="right-container" style="float: right;">
                     <div class="content-box-right">
-                        Hei
+
                     </div>
                 </div>
-                <div style="clear: both;"></div>        
+                <div style="clear: both;"></div>
             </div>
         </div><!-- wrapper end -->
         <div id="footer">

@@ -18,7 +18,12 @@
     margin-right: 10px;
     margin-bottom: 10px;
     background-color: #ffffff;
-    padding: 10px;
+    
+}
+
+.shadow(@r: .3) {
+    -webkit-box-shadow:  0px 0px 5px 0px rgba(0, 0, 0, @r);
+     box-shadow:  0px 0px 5px 0px rgba(0, 0, 0, @r);
 }
 
 .heading {
@@ -133,6 +138,7 @@ ul.main-menu li div.sub-menu {
     padding-top: 20px;
     min-width:  ceil((@menu-width - 66)/ 6);
     background-color: @menu-bg-color;
+    //.shadow();
 }
 
 ul.main-menu li div.sub-menu div {
@@ -144,6 +150,7 @@ ul.main-menu li div.sub-menu div a:hover; {
 }*/
 
 ul.main-menu li a {
+    position: relative;
     text-decoration: none;
     color: #222;
 }
@@ -155,17 +162,45 @@ ul.main-menu li a:hover {
 /* end menu */
 .content-box {
     .content-box-size(600px);//ceil(@menu-width /3)-6;
-
     height: auto;
     min-height: 100px;
-    
-   
-    
     .rounded-corners(10px);
+    .shadow();
+}
+
+.content-box-front {
+    .content-box-size(310px);//ceil(@menu-width /3)-6;
+    height: auto;
+    min-height: 100px;
+    .rounded-corners(10px);
+    .shadow();
+    float: left;
+}
+
+.inner-box-front {
+    padding: 10px;
 }
 
 .content-box-right {
     text-align: center;
     .content-box-size(300px);
     .rounded-corners(10px);
+    .shadow();
+}
+
+/* icons */
+.down {
+    position: absolute;
+    background: url(../img/icons.png) 0 0 no-repeat;
+    width: 8px;
+    height: 4px;
+    margin-top: 8px;
+    margin-left: 8px;
+}
+
+/* historie */
+.year {
+    font-size: 28px;
+    color: #eb620b;
+    padding: 10px;
 }

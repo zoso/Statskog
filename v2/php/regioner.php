@@ -27,7 +27,7 @@
             <?php include_once("logo.php") ?>
             <div class="top-container">
                 <div class="top-txt">
-                    <?php include_once("top-txt.php") ?>
+                    <!-- <?php include_once("top-txt.php") ?> -->
                 </div>
             </div>
             <div class="top-bg"></div>
@@ -123,36 +123,5 @@
         </div>
     </body>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    
-    <script type="text/javascript">
-    $(document).ready(function() {
-        $("#main-menu li").on("mouseenter", function(e) {
-            $elm = $(this);
-            $elm.find(".sub-menu").show().animate({
-                opacity: 1
-            }, 500, function() {
-            
-            }); 
-        }).on("mouseleave", function(e) {
-            $elm = $(this);
-            $elm.find(".sub-menu").animate({
-                opacity: 0
-            }, 200, function() {
-                $(this).hide()
-            }); 
-        }).on("click", function(e) {
-            l("> klikk > "+$(this).parent().children().length);
-            if ($(this).children().length == 1) {
-                l("> no sub");
-            }
-        })
-
-        var log = $("#log");
-        function l(str, type) {
-            log.append("> "+str+"<br>");
-        }
-
-        l("ready");
-    })
-    </script>
+    <script src="../js/jquery.statskog.js"></script>
 </html>

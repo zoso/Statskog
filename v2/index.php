@@ -29,35 +29,66 @@
             ?>
             <div class="top-container">
                 <div class="top-txt">
-                    <?php include_once("php/top-txt.php") ?>
+                    <?php 
+                        include_once("php/top-txt.php") 
+                    ?>
                 </div>
             </div>
             <div class="top-bg"></div>
         </div>
         <div id="wrapper"><!-- wrapper -->
             <div id="menu-container"> <!-- menu -->
-                <?php include_once("php/menu.php"); ?>
+                <?php 
+                    include_once("php/menu.php"); 
+                ?>
             </div> <!-- menu end -->
             <div style="clear: both;"></div>
             <div id="content-container">
-                <div class="content-box">
-                    <a href="php/rev-enn-rype.php">- Skyt heller rev enn rype</a>
+                <div id="left-container">
+                    <div style="float: left; width: 310px; margin-right: 10px;">
+                        <div class="content-box-front">
+                            <img style="border-radius: 5px;" src="img/tmp_pic.jpg" width="310" />
+                            <div class="inner-box-front">
+                                <a href="php/rev-enn-rype.php">- Skyt heller rev enn rype</a>
+                            </div>
+                        </div>
+                        <div class="content-box-front">
+                            <div class="inner-box-front">
+                                <a href="php/ny-tur-app.php">Ny tur app!</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div style="float: left; width: 310px; margin-right: 10px;">
+                        <div class="content-box-front" style="text-align: center;">
+                            <img src="img/front_nokkeltall.jpg" />
+                            <img src="img/front_nokkeltall2.jpg" />
+                            <img src="img/front_nokkeltall3.jpg" />
+                        </div>
+                        <div class="content-box-front">
+                            <img style="border-radius: 5px;" src="img/front_tre.jpg" width="310" />
+                            <div class="inner-box-front">
+                                <a href="php/vekker-oppsikt.php">Statskog vekker oppsikt</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div style="float: left; width: 310px;">
+                        <div class="content-box-front">
+                            <img style="border-radius: 5px;" src="img/fiskevann.png" width="310" />
+                            <div class="inner-box-front">
+                                <a href="php/fulle-fiskevann-venter.php">Fulle fiskevann venter</a>
+                            </div>
+                        </div>
+                        <div class="content-box-front" style="text-align: center;">
+                            <img src="img/statskog-1-2-3.jpg" />
+                            <a href="http://www.youtube.com/watch?v=itN_Ww_sRkg"><img src="img/front_eiendom.jpg" /></a>
+                            <img src="img/front_energi.jpg" />
+                            <a href="http://www.youtube.com/watch?v=gwYIL6Em5bM"><img src="img/front_skog.jpg" /></a>
+                            <a href="http://www.youtube.com/watch?v=osQQfYVDDuk"><img src="img/front_friluftsliv.jpg" /></a>
+                        </div>
+                    </div>
                 </div>
-                <div class="content-box">
-                    <a href="php/vekker-oppsikt.php">Statskog vekker oppsikt</a>
-                </div>
-                <div class="content-box">
-                    <a href="php/fulle-fiskevann-venter.php">Fulle fiskevann venter</a>
-                </div>
-                <div class="content-box">
-                    <a href="php/ny-tur-app.php">Ny tur app!</a>
-                </div>
-                <div class="content-box">
-                    content
-                </div>
-                
             </div>
-
+            <div style="clear: both;"></div>
         </div><!-- wrapper end -->
         <div id="footer">
             <a href="http://2011.statskog.no/" target="_blank">http://2011.statskog.no/</a>
@@ -67,6 +98,5 @@
         <!-- footer end -->
     </body>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <script src="js/jquery.masonry.min.js"></script>
     <script src="js/jquery.statskog.js"></script>
 </html>

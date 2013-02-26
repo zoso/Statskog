@@ -1,14 +1,14 @@
 $(document).ready(function() {
     $("#main-menu li").on("mouseenter", function(e) {
         $elm = $(this);
-        $elm.find(".sub-menu").show().animate({
+        $elm.find(".sub-menu").stop().show().animate({
             opacity: 1
         }, 500, function() {
         
         }); 
     }).on("mouseleave", function(e) {
         $elm = $(this);
-        $elm.find(".sub-menu").animate({
+        $elm.find(".sub-menu").stop().animate({
             opacity: 0
         }, 200, function() {
             $(this).hide()

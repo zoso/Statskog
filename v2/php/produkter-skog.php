@@ -18,12 +18,6 @@
         <link rel="stylesheet" href="css/main.css">
         <link rel="stylesheet" href="css/jquery.pageslide.css"></script> -->
         <!-- <script src="js/vendor/modernizr-2.6.2.min.js"></script> -->
-         <style>
-            #top .top-bg {
-                background: url(../img/top_bg_oversikt.jpg) 50% 0 no-repeat;
-                height: 500px;
-            }
-        </style>
     </head>
     <body>
         <!-- Add your site or application content here -->
@@ -44,21 +38,22 @@
             </div> <!-- menu end -->
             <div style="clear: both;"></div>
             <div id="content-container">
-                <div id="left-container" style="float: left;">
+                 <div id="left-container" style="float: left;">
                     <div class="content-box">
-                        <div class="inner-box-front">
-                            <h2>Oversikt over vernede områder</h2>
-                            <p>Statens eierskap er brukt som virkemiddel i etablering av nasjonale verneområder, som nasjonalparker og barskogvernområder. De første nasjonalparkene i Norge ble i hovedsak etablert på statens grunn, med unntak av Hardangervidda Nasjonalpark.</p>
-                            <p>I 2003 inngikk Statskog en samarbeidsavtale med Direktoratet for naturforvaltning (DN) om vern av skog på Statskogs eiendommer. Formålet med samarbeidsavtalen har vært å gjennomføre tiltak og definere oppgaver i forhold til utvidet skogvern, samt sikre en rasjonell gjennomføring av verneprosesser der Statskog er involvert. Det er DN som er vernemyndigheten. Statskogs rolle i dette samarbeidet er å være grunneier, med visse forvaltningsmessige oppgaver i statsallmenningene i henhold til fjell- og allmenningslovene. Kartet viser all vernet grunn i Norge, på både Statskogs og andre grunneieres eiendommer.</p>
-                        </div>
+                        <h2>Produktiv skog</h2>
+Statskog forvalter en femtedel av fastlands-Norge. 17 prosent av denne grunnen består av skog, resten ligger over skoggrensen. Produktiv skog, det vil si områder med god nok skog til at det kan drives aktivt skogbruk, er det på 47 prosent av Statskogs skogarealer. Statskogs produktive skog utgjør seks prosent av den totale produktive skogen i Norge. 
+
+                    </div>
+                    <div class="content-box">
+                        <iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.arcgis.com/home/webmap/templates/OnePane/basicviewer/embed.html?webmap=638097407b8e4247a32b9d782e2c8a01&amp;gcsextent=10.4175,64.1282,12.8438,64.679&amp;displayslider=true&amp;displaylegend=true&amp;displaylayerlist=true&amp;theme=white"></iframe>
                     </div>
                 </div>
                 <div id="right-container" style="float: right;">
                     <div class="content-box-right">
-                        Hei
+
                     </div>
                 </div>
-                <div style="clear: both;"></div>        
+                <div style="clear: both;"></div>
             </div>
         </div><!-- wrapper end -->
         <div id="footer">
