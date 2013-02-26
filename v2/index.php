@@ -57,6 +57,12 @@
                                 <a href="php/ny-tur-app.php">Ny tur app!</a>
                             </div>
                         </div>
+                        <div class="content-box-front">
+                            <img style="border-radius: 5px;" src="img/front_admdir.jpg" width="310" />
+                            <div class="inner-box-front">
+                                Adm. dir. har ordet
+                            </div>
+                        </div>
                     </div>
                     <div style="float: left; width: 310px; margin-right: 10px;">
                         <div class="content-box-front" style="text-align: center;">
