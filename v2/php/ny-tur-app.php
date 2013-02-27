@@ -58,10 +58,8 @@
                 </div>
                 <div style="clear: both;"></div>
             </div>
+            <?php include_once("footer.php"); ?>
         </div><!-- wrapper end -->
-        <div id="footer">
-            <a href="http://2011.statskog.no/" target="_blank">http://2011.statskog.no/</a>
-        </div>
     </body>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="../js/jquery.statskog.js"></script>

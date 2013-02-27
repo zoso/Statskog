@@ -5,7 +5,7 @@ h2,h3{font-family:"Trebuchet MS";font-weight:bold;font-size:20px;}
 #top{width:100%;margin:0 auto;height:500px;position:relative;}
 #top .top-container{width:100%;}
 #top .top-logo{position:absolute;width:120px;height:58px;background:url(../img/statskog_logo.png) no-repeat;margin-left:100px;margin-top:20px;}
-#top .top-txt{text-align:center;z-index:2;width:300px;margin-left:40%;margin-top:100px;margin-right:auto;position:absolute;}
+#top .top-txt{font-family:"Trebuchet MS";text-align:center;z-index:2;width:300px;margin-left:40%;margin-top:100px;margin-right:auto;position:absolute;}
 #top .top-bg{background:url(../img/top_bg.jpg) 50% 0 no-repeat;height:500px;border-bottom:2px solid #000;}
 #wrapper{position:relative;width:960px;padding-top:40px;height:auto !important;height:100%;min-height:100%;margin:0 auto;}
 #content-container{z-index:40;margin-top:40px;background-color:#ededed;}
