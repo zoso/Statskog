@@ -8,7 +8,7 @@
 
     //switch for production
 
-    if ($url[3] == "php") {
+    if ($url[4] == "php") {
         $prefix = "";
     }
 

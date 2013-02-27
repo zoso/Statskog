@@ -27,7 +27,7 @@
             <?php include_once("logo.php") ?>
             <div class="top-container">
                 <div class="top-txt">
-                    <?php include_once("top-txt.php") ?>
+                    
                 </div>
             </div>
             <div class="top-bg"></div>
@@ -40,16 +40,17 @@
             <div id="content-container">
                 <div id="left-container" style="float: left;">
                     <div class="content-box">
-                        <h2>Ny tur-app</h2>
-                    <p>Statskog lanserte i 2012 tur-appen GodTur.no sammen med samarbeidspartnerne Friluftsrådenes Landsforbund, Bedriftsidretten og Det norske Skogselskap.
-Her finnes tusenvis av turforslag fra hele landet.
- 
-Nettstedet GodTur.no har eksistert i flere år. Nå kan alle enkelt finne de gode kartene, de mange turene, bade- og fiskestedene med mer på sin egen telefon – ved hjelp av appen som kan lastes ned fra <a href="https://itunes.apple.com/no/app/godtur/id570787143?mt=8" target="_blank">Appstore</a> eller <a href="https://play.google.com/store/apps/details?id=no.wfx.godtur&feature=search_result#?t=W251bGwsMSwyLDEsIm5vLndmeC5nb2R0dXIiXQ.." target="_blank">Google play.</a>
-</p>
+                        <div class="inner-box-front">
+                            <h2>Ny tur-app</h2>
+                            <p>Statskog lanserte i 2012 tur-appen <a href="http://www.godtur.no">GodTur.no</a> sammen med samarbeidspartnerne Friluftsrådenes Landsforbund, Bedriftsidretten og Det norske Skogselskap.</p>
+                            <p>Her finnes tusenvis av turforslag fra hele landet.</p>
+                            <p>Nettstedet <a href="http://www.godtur.no">GodTur.no</a> har eksistert i flere år. Nå kan alle enkelt finne de gode kartene, de mange turene, bade- og fiskestedene med mer på sin egen telefon – ved hjelp av appen som kan lastes ned fra <a href="https://itunes.apple.com/no/app/godtur/id570787143?mt=8" target="_blank">Appstore</a> eller <a href="https://play.google.com/store/apps/details?id=no.wfx.godtur&feature=search_result#?t=W251bGwsMSwyLDEsIm5vLndmeC5nb2R0dXIiXQ.." target="_blank">Google play.</a>
+                            </p>
+                        </div>
                     </div>
                 </div>
                 <div id="right-container" style="float: right;">
-                    <div class="content-box-right">
+                    <div class="content-box-right" style="padding-top: 10px; padding-bottom: 10px;">
                         <img src="../img/ny-tur-app.jpg" />
                         <p><a href="https://itunes.apple.com/no/app/godtur/id570787143?mt=8" target="_blank"><img src="../img/Apple-App-Store-Available-Banner.jpg" alt="" /></a></p>
                         <p><a href="https://play.google.com/store/apps/details?id=no.wfx.godtur&feature=search_result#?t=W251bGwsMSwyLDEsIm5vLndmeC5nb2R0dXIiXQ.."><img src="../img/Google-Play-Banner.jpg" alt="" /></a></p>

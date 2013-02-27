@@ -60,7 +60,7 @@
                         <div class="content-box-front">
                             <img style="border-radius: 5px;" src="img/front_admdir.jpg" width="310" />
                             <div class="inner-box-front">
-                                Adm. dir. har ordet
+                                <a href="php/adm-dir-har-ordet.php">Adm. dir. har ordet</a>
                             </div>
                         </div>
                     </div>
