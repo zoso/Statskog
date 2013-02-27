@@ -47,10 +47,10 @@
     <li>
         <a href="#">Styrets beretning<span class="down"></span></a>
         <div class="sub-menu">
-            <div><a href="<?php echo $prefix; ?>adm-dir-har-ordet.php">Adm. dir. har ordet</a></div>
             <div><a href="<?php echo $prefix; ?>styrets-aarsberetning.php">Styrets beretning</a></div>
-            <div><a href="#">Regnskap</a></div>
-            <div><a href="#">Noter</a></div>
+            <div><a href="<?php echo $prefix; ?>adm-dir-har-ordet.php">Adm. dir. har ordet</a></div>
+            <div><a href="<?php echo $prefix; ?>regnskap.php">Regnskap</a></div>
+            <div><a href="<?php echo $prefix; ?>noter.php">Noter</a></div>
         </div>
     </li>
     <li>

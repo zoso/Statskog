@@ -18,6 +18,12 @@
         <link rel="stylesheet" href="css/main.css">
         <link rel="stylesheet" href="css/jquery.pageslide.css"></script> -->
         <!-- <script src="js/vendor/modernizr-2.6.2.min.js"></script> -->
+        <style>
+            #top .top-bg {
+                background: url(../img/top_styring_ledelse.jpg) 50% 0 no-repeat;
+                height: 500px;
+            }
+        </style>
     </head>
     <body>
         <!-- Add your site or application content here -->
@@ -27,7 +33,7 @@
             <?php include_once("logo.php") ?>
             <div class="top-container">
                 <div class="top-txt">
-                    <?php include_once("top-txt.php") ?>
+                    
                 </div>
             </div>
             <div class="top-bg"></div>
@@ -38,28 +44,37 @@
             </div> <!-- menu end -->
             <div style="clear: both;"></div>
             <div id="content-container">
-                <div class="content-box">
-                    <h2>Styring og ledelse</h2>
-                    <p>Staten eier Statskog. Eierskapet utøves av landbruks- og matministeren gjennom foretaksmøtet. Statskog SF er som statsforetak et eget juridisk selskap. Statskog har hovedkontor i Namsos, og har til sammen 16 lokalkontor fordelt på de fem regionene. Statskog har 13 ansatte. 
-Organisasjonskart:
-  
+                <div id="left-container" style="float: left;">
+                    <div class="content-box">
+                        <div class="inner-box-front">
+                            <h2>Styring og ledelse</h2>
+                            <p>Staten eier Statskog. Eierskapet utøves av landbruks- og matministeren gjennom foretaksmøtet. Statskog SF er som statsforetak et eget juridisk selskap. Statskog har hovedkontor i Namsos, og har til sammen 16 lokalkontor fordelt på de fem regionene. Statskog har 13 ansatte.</p>
+                            <p><b>Organisasjonskart:</b></p>
+                            <img src="../img/statskog_org_kart.jpg" />
 
-Styret:
-Styreleder: Harald Ellefsen
-Nestleder: Eli Reistad
-Styremedlem: Tom Lifjell
-Styremedlem: Kari Økland
-Styremedlem: Gunnar Olofsson
-Styremedlem: Siw Anita Kvam (ansatterepresentant)
-Styremedlem: Geir Hovland (ansatterepresentant)
-</p>
+                            <!--
+                            Styret:
+                            Styreleder: Harald Ellefsen
+                            Nestleder: Eli Reistad
+                            Styremedlem: Tom Lifjell
+                            Styremedlem: Kari Økland
+                            Styremedlem: Gunnar Olofsson
+                            Styremedlem: Siw Anita Kvam (ansatterepresentant)
+                            Styremedlem: Geir Hovland (ansatterepresentant)
+                            </p>
+                            -->
+                        </div>
+                    </div>
                 </div>
-                
-            </div>
+                    <div id="right-container" style="float: right;">
+                        <div class="content-box-right">
+                            ?
+                        </div>
+                    </div>
+                    <div style="clear: both;"></div>
+                </div>
+            <?php include_once("footer.php"); ?>
         </div><!-- wrapper end -->
-        <div id="footer">
-            <a href="http://2011.statskog.no/" target="_blank">http://2011.statskog.no/</a>
-        </div>
     </body>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="../js/jquery.statskog.js"></script>

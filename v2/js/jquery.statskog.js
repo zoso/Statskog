@@ -1,4 +1,5 @@
 $(document).ready(function() {
+    $(".sub-menu").hide();
     $("#main-menu li").on("mouseenter", function(e) {
         $elm = $(this);
         $elm.find(".sub-menu").stop().show().animate({
@@ -22,8 +23,8 @@ $(document).ready(function() {
 
     var log = $("#log");
     function l(str, type) {
-        log.append("> "+str+"<br>");
+        //log.append("> "+str+"<br>");
     }
 
-    l("ready");
+    //l("ready");
 });

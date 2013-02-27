@@ -1,7 +1,10 @@
+@import "elements.less";
 @blue: #54ad13;
 @red: #ff0000;
 @menu-bg-color: #ededed;
+@menu-bg-color-hover: #fefefe;
 @font: Verdana;
+@font-heading: "Trebuchet MS";
 @font-size: 12px;
 @menu-width: 960px;
 
@@ -21,9 +24,9 @@
     
 }
 
-.shadow(@r: .3) {
+.shadow(@r: .3px) {
     -webkit-box-shadow:  0px 0px 5px 0px rgba(0, 0, 0, @r);
-     box-shadow:  0px 0px 5px 0px rgba(0, 0, 0, @r);
+    box-shadow:  0px 0px 5px 0px rgba(0, 0, 0, @r);
 }
 
 .heading {
@@ -43,13 +46,20 @@ body {
     background-color: @menu-bg-color;
 }
 
+h2,
+h3 {
+    font-family: @font-heading;
+    font-weight: bold;
+    font-size: 20px;
+}
+
 #log {
-    position: fixed;
+    /*position: fixed;
     z-index: 2000;
     top: 20px;
     left: 20px;
     width: 300px;
-    background-color: #fff;
+    background-color: #fff;*/
 }
 
 #top {
@@ -86,6 +96,7 @@ body {
 #top .top-bg {
     background: url(../img/top_bg.jpg) 50% 0 no-repeat;
     height: 500px;
+    border-bottom: 2px solid #000;
 }
 
 #wrapper {
@@ -107,14 +118,15 @@ body {
 
 /* menu */
 #menu-container {
-    z-index: 100;
+    
 }
+
 ul.main-menu {
     margin: 0;
     padding: 0;
     list-style: none;
-    font-family: @font;
-    font-size: 12px;
+    font-family: @font-heading;
+    font-size: 14px;
 }
 
 ul.main-menu li {
@@ -123,6 +135,7 @@ ul.main-menu li {
 	width: ceil((@menu-width - 126)/ 6);
     border-right: 1px solid #000;
     text-align: center;
+    z-index: 100;
 }
 
 ul.main-menu li:last-child {
@@ -133,21 +146,29 @@ ul.main-menu li div.sub-menu {
 	display: block;
     opacity: 0;
     position: absolute;
+    text-align: left;
     margin-left: -10px;
     padding-right: 10px;
-    padding-top: 20px;
+    padding-top: 10px;
+    margin-top: 10px;
     min-width:  ceil((@menu-width - 66)/ 6);
-    background-color: @menu-bg-color;
-    //.shadow();
+    background-color: @menu-bg-color-hover;
+    z-index: 30;
+    .shadow();
 }
 
 ul.main-menu li div.sub-menu div {
     margin-bottom: 10px;
+    margin-left: 10px;
 }
 /*
-ul.main-menu li div.sub-menu div a:hover; {
-    background-color: #443300;
+ul.main-menu li div.sub-menu div a:hover {
+
 }*/
+
+ul.main-menu li div.sub-menu div a:hover:before {
+    content: "> ";
+}
 
 ul.main-menu li a {
     position: relative;
@@ -155,13 +176,15 @@ ul.main-menu li a {
     color: #222;
 }
 
-ul.main-menu li a:hover {
-    //background-color: #443300;
+ul.main-menu li:hover {
+    background-color: @menu-bg-color-hover;
+    .shadow();
 }
+
 
 /* end menu */
 .content-box {
-    .content-box-size(600px);//ceil(@menu-width /3)-6;
+    .content-box-size(630px);//ceil(@menu-width /3)-6;
     height: auto;
     min-height: 100px;
     .rounded-corners(10px);
@@ -184,6 +207,11 @@ ul.main-menu li a:hover {
 .content-box-right {
     text-align: center;
     .content-box-size(300px);
+    .rounded-corners(10px);
+    .shadow();
+}
+
+.content-box-footer {
     .rounded-corners(10px);
     .shadow();
 }

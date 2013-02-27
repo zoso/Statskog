@@ -18,6 +18,12 @@
         <link rel="stylesheet" href="css/main.css">
         <link rel="stylesheet" href="css/jquery.pageslide.css"></script> -->
         <!-- <script src="js/vendor/modernizr-2.6.2.min.js"></script> -->
+        <style>
+            #top .top-bg {
+                background: url(../img/top_regioner.jpg) 50% 0 no-repeat;
+                height: 500px;
+            }
+        </style>
     </head>
     <body>
         <!-- Add your site or application content here -->
@@ -40,87 +46,100 @@
             <div id="content-container">
                 <div id="left-container" style="float: left;">
                     <div class="content-box">
-                        <h2>Regioner</h2>
-                        <p>Statskogs grunn er delt inn i fem ulike regioner der de respektive regionsjefene har ansvar for drift og utvikling av eiendommene. De er også Statskogs kontakt med oppdragsgivere, offentlige myndigheter, rettighetshavere og interessegrupper i sin region.</p>
-                        <p>De fem regionene og regionsjefene i disse er: </p>
-                        <p>Troms – Kåre Rasmussen</p>
-                        <p>Salten – Jan N. Nilsen</p>
-                        <p>Helgeland – Wenche Hjelmseth</p>
-                        <p>Midt-Norge – Carl Libach</p>
-                        <p>Sør-Norge – Jan Helge Nordby</p>
-                        <p></p>
-                        <p>Salg av jakt- og fiskeprodukter/jaktstatistikk</p>
-                        <table width="100%" border="1" cellspacing="5">
-                            <tr>
-                                <td></td>
-                                
-                                <td>2012</td>
-                                <td>2011</td>
-                                <td>2010</td>
-                                <td>2009</td>
-                            </tr>
-                            <tr>
-                                <td>Elg felte dyr</td>
-                                
-                                <td>1 274</td>
-                                <td></td>
-                                <td>822</td>
-                                <td></td>
-                            </tr>
-                            <tr>
-                                <td>Hjort felte dyr</td>
-                                
-                                <td>58</td>
-                                <td></td>
-                                <td>64</td>
-                                <td></td>
-                            </tr>
-                            <tr>
-                                <td>Villrein felte dyr</td>
-                                
-                                <td>75</td>
-                                <td></td>
-                                <td>63</td>
-                                <td></td>
-                            </tr>
-                            <tr>
-                                <td>Småvilt solgte kort</td>
-                                
-                                <td>13 998</td>
-                                <td>15 040</td>
-                                <td>13 942</td>
-                                <td>11 576</td>
-                            </tr>
-                            <tr>
-                                <td>Fiske solgte kort</td>
-                                
-                                <td>12 490</td>
-                                <td>20 050</td>
-                                <td>19 672</td>
-                                <td>20 733</td>
-                            </tr>
-                            <tr>
-                                <td>Hytteutleie utleiedøgn</td>
-                                
-                                <td>6 565</td>
-                                <td>5 900</td>
-                                <td>4 898</td>
-                                <td>4 683</td>
-                            </tr>
-                        </table>
+                        <div class="inner-box-front">
+                            <h2>Regioner</h2>
+                            <p>Statskogs grunn er delt inn i fem ulike regioner der de respektive regionsjefene har ansvar for drift og utvikling av eiendommene. De er også Statskogs kontakt med oppdragsgivere, offentlige myndigheter, rettighetshavere og interessegrupper i sin region.</p>
+                            <p></p>
+                            <p>Salg av jakt- og fiskeprodukter/jaktstatistikk</p>
+                            <table width="100%" border="1" cellpadding="4">
+                                <tr style="font-weight: bold;">
+                                    <td></td>
+                                    
+                                    <td>2012</td>
+                                    <td>2011</td>
+                                    <td>2010</td>
+                                    <td>2009</td>
+                                </tr>
+                                <tr>
+                                    <td>Elg felte dyr</td>
+                                    
+                                    <td>1 274</td>
+                                    <td></td>
+                                    <td>822</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>Hjort felte dyr</td>
+                                    
+                                    <td>58</td>
+                                    <td></td>
+                                    <td>64</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>Villrein felte dyr</td>
+                                    
+                                    <td>75</td>
+                                    <td></td>
+                                    <td>63</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>Småvilt solgte kort</td>
+                                    
+                                    <td>13 998</td>
+                                    <td>15 040</td>
+                                    <td>13 942</td>
+                                    <td>11 576</td>
+                                </tr>
+                                <tr>
+                                    <td>Fiske solgte kort</td>
+                                    
+                                    <td>12 490</td>
+                                    <td>20 050</td>
+                                    <td>19 672</td>
+                                    <td>20 733</td>
+                                </tr>
+                                <tr>
+                                    <td>Hytteutleie utleiedøgn</td>
+                                    <td>6 565</td>
+                                    <td>5 900</td>
+                                    <td>4 898</td>
+                                    <td>4 683</td>
+                                </tr>
+                            </table>
+                        </div>
                     </div>
                 </div>
                 <div id="right-container" style="float: right;">
                     <div class="content-box-right">
-
+                        <div style="padding: 10px; font-weight: bold;">Regioner og regionsjefer</div>
+                        <div style="margin-bottom: 5px;">
+                            <img src="../img/persons/regionsjef_jan_helge_nordby.jpg" />
+                            <br>Troms: Kåre Rasmussen
+                        </div>
+                        <div style="margin-bottom: 5px;">
+                            <img src="../img/persons/regionsjef_jan_helge_nordby.jpg" />
+                            <br>Salten: Jan N. Nilsen
+                        </div>
+                        <div style="margin-bottom: 5px;">
+                            <img src="../img/persons/regionsjef_jan_helge_nordby.jpg" />
+                            <br>Helgeland: Wnche Hjelmseth
+                        </div>
+                        <div style="margin-bottom: 5px;">
+                            <img src="../img/persons/regionsjef_jan_helge_nordby.jpg" />
+                            <br>Midt-Norge: Carl Libach
+                        </div>
+                        <div style="padding-bottom: 5px;">
+                            <img src="../img/persons/regionsjef_jan_helge_nordby.jpg" />
+                            <br>Sør-Norge: Jan Helge Nordby
+                        </div>
                     </div>
                 </div>
                 <div style="clear: both;"></div>
             </div>
+            <?php include_once("footer.php"); ?>
         </div><!-- wrapper end -->
-        <div id="footer">
-            <a href="http://2011.statskog.no/" target="_blank">http://2011.statskog.no/</a>
-        </div>
     </body>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="../js/jquery.statskog.js"></script>

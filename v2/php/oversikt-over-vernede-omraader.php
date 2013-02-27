@@ -52,18 +52,21 @@
                             <p>I 2003 inngikk Statskog en samarbeidsavtale med Direktoratet for naturforvaltning (DN) om vern av skog på Statskogs eiendommer. Formålet med samarbeidsavtalen har vært å gjennomføre tiltak og definere oppgaver i forhold til utvidet skogvern, samt sikre en rasjonell gjennomføring av verneprosesser der Statskog er involvert. Det er DN som er vernemyndigheten. Statskogs rolle i dette samarbeidet er å være grunneier, med visse forvaltningsmessige oppgaver i statsallmenningene i henhold til fjell- og allmenningslovene. Kartet viser all vernet grunn i Norge, på både Statskogs og andre grunneieres eiendommer.</p>
                         </div>
                     </div>
+                    <div class="content-box">
+                        <div class="inner-box-front">
+                            <iframe width="610" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.arcgis.com/home/webmap/templates/OnePane/basicviewer/embed.html?webmap=638097407b8e4247a32b9d782e2c8a01&amp;gcsextent=10.4175,64.1282,12.8438,64.679&amp;displayslider=true&amp;displaylegend=true&amp;displaylayerlist=true&amp;theme=grey"></iframe>
+                        </div>
+                    </div>
                 </div>
                 <div id="right-container" style="float: right;">
                     <div class="content-box-right">
-                        Hei
+                        ?
                     </div>
                 </div>
                 <div style="clear: both;"></div>        
             </div>
+            <?php include_once("footer.php"); ?>
         </div><!-- wrapper end -->
-        <div id="footer">
-            <a href="http://2011.statskog.no/" target="_blank">http://2011.statskog.no/</a>
-        </div>
     </body>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="../js/jquery.statskog.js"></script>

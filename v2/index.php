@@ -45,7 +45,7 @@
             <div style="clear: both;"></div>
             <div id="content-container">
                 <div id="left-container">
-                    <div style="float: left; width: 310px; margin-right: 10px;">
+                    <div style="float: left; width: 313px; margin-right: 10px;">
                         <div class="content-box-front">
                             <img style="border-radius: 5px;" src="img/tmp_pic.jpg" width="310" />
                             <div class="inner-box-front">
@@ -64,7 +64,7 @@
                             </div>
                         </div>
                     </div>
-                    <div style="float: left; width: 310px; margin-right: 10px;">
+                    <div style="float: left; width: 313px; margin-right: 10px;">
                         <div class="content-box-front" style="text-align: center;">
                             <img src="img/front_nokkeltall.jpg" />
                             <img src="img/front_nokkeltall2.jpg" />
@@ -77,7 +77,7 @@
                             </div>
                         </div>
                     </div>
-                    <div style="float: left; width: 310px;">
+                    <div style="float: left; width: 313px;">
                         <div class="content-box-front">
                             <img style="border-radius: 5px;" src="img/fiskevann.png" width="310" />
                             <div class="inner-box-front">
@@ -86,19 +86,20 @@
                         </div>
                         <div class="content-box-front" style="text-align: center;">
                             <img src="img/statskog-1-2-3.jpg" />
-                            <a href="http://www.youtube.com/watch?v=itN_Ww_sRkg"><img src="img/front_eiendom.jpg" /></a>
+                            <a href="php/film-statskogs-utleiehytter.php"><img src="img/front_eiendom.jpg" /></a>
                             <img src="img/front_energi.jpg" />
-                            <a href="http://www.youtube.com/watch?v=gwYIL6Em5bM"><img src="img/front_skog.jpg" /></a>
-                            <a href="http://www.youtube.com/watch?v=osQQfYVDDuk"><img src="img/front_friluftsliv.jpg" /></a>
+                            <a href="php/film-statskogs-skogbruk.php"><img src="img/front_skog.jpg" /></a>
+                            <a href="php/film-toppjakt.php"><img src="img/front_friluftsliv.jpg" /></a>
                         </div>
                     </div>
                 </div>
             </div>
             <div style="clear: both;"></div>
+            <?php include_once("php/footer.php"); ?>
         </div><!-- wrapper end -->
-        <div id="footer">
+       <!--  <div id="footer">
             <a href="http://2011.statskog.no/" target="_blank">http://2011.statskog.no/</a>
-        </div>
+        </div> -->
         <!-- footer -->
         <!-- <?php include_once("php/footer.php"); ?> -->
         <!-- footer end -->

@@ -1,2 +1,3 @@
-<div id="footerContainer" class="" style="height: 100px; background-color: #fff; padding: 10px; color: #333;">        footerContainer
+<div id="footerContainer" style="margin-bottom: 20px;">
+	Kontakt oss: Postboks 63 sentrum, 7801 Namsos eller tlf. 07800
 </div>

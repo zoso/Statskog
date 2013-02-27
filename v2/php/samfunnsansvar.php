@@ -20,7 +20,7 @@
         <!-- <script src="js/vendor/modernizr-2.6.2.min.js"></script> -->
         <style>
             #top .top-bg {
-                background: url(../img/top_bg_2.jpg) 50% 0 no-repeat;
+                background: url(../img/top_samfunnsansvar.jpg) 50% 0 no-repeat;
                 height: 500px;
             }
         </style>
@@ -33,7 +33,7 @@
             <?php include_once("logo.php") ?>
             <div class="top-container">
                 <div class="top-txt">
-                    <?php include_once("top-txt.php") ?>
+                    
                 </div>
             </div>
             <div class="top-bg"></div>
@@ -46,40 +46,29 @@
             <div id="content-container">
                 <div id="left-container" style="float: left;">
                     <div class="content-box">
-                        <h2>Samfunnsansvar</h2>
-                        <p>Statskog skal:
-    <p>•   være en garantist for allmennhetens tilgang til jakt og fiske</p>
-    <p>•   legge til rette for allmennhetens friluftsliv</p>
-    <p>•   bidra til verdiskaping på fellesskapets ressurser</p>
-    <p>•   ivareta rettighetshavernes interesser</p>
-    <p>•   bidra til andres verdiskaping</p>
-    <p>•   være opptatt av samfunnsnytte og ringvirkninger </p> 
-    <p>•   ta hensyn til miljø og verneinteresser</p>
-    <p>•   bidra til de nasjonale klimamålene</p>
-    
+                        <div class="inner-box-front">
+                            <h2>Samfunnsansvar</h2>
+                            <p><b>Statskog skal:</b>
+                            <p>- være en garantist for allmennhetens tilgang til jakt og fiske</p>
+                            <p>- legge til rette for allmennhetens friluftsliv</p>
+                            <p>- bidra til verdiskaping på fellesskapets ressurser</p>
+                            <p>- ivareta rettighetshavernes interesser</p>
+                            <p>- bidra til andres verdiskaping</p>
+                            <p>- være opptatt av samfunnsnytte og ringvirkninger </p> 
+                            <p>- ta hensyn til miljø og verneinteresser</p>
+                            <p>- bidra til de nasjonale klimamålene</p>
+                        </div>
                     </div>
                 </div> <!-- end left container -->
                 <div id="right-container" style="float: right;">
                     <div class="content-box-right">
-                        <div style="text-align: center;">
-                            <img src="../img/statskog-1-2-3.jpg" alt="" width="181" height="235" />
-                        </div>
-                    </div>
-                </div>
-                <div id="right-container" style="float: right;">
-                    <div class="content-box-right">
-                        efwefwe
-                        <p>wefwe</p>
-                        <p>wrwefwe </p>
-                        <p>wrwegwr</p>
+                        ?
                     </div>
                 </div>
             </div>
             <div style="clear: both;"></div>
+            <?php include_once("footer.php"); ?>
         </div><!-- wrapper end -->
-        <div id="footer">
-            <a href="http://2011.statskog.no/" target="_blank">http://2011.statskog.no/</a>
-        </div>
     </body>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="../js/jquery.statskog.js"></script>
