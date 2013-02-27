@@ -117,6 +117,21 @@ h3 {
     background-color: @menu-bg-color;
 }
 
+/* front-link */
+// a:link {color:#FF0000;}      
+// a:visited {color:#00FF00;}  
+// a:hover {color:#FF00FF;}  
+a.front {
+    font-family: @font-heading;
+    font-size: 14px;
+    color: #000;
+    text-decoration: none;
+}
+
+a.front:hover:before {
+    content: "> ";
+}
+
 /* menu */
 #menu-container {
     

@@ -49,18 +49,19 @@
                         <div class="content-box-front">
                             <img style="border-radius: 5px;" src="img/tmp_pic.jpg" width="310" />
                             <div class="inner-box-front">
-                                <a href="php/rev-enn-rype.php">- Skyt heller rev enn rype</a>
+                                <a class="front" href="php/rev-enn-rype.php">Skyt heller rev enn rype</a>
                             </div>
                         </div>
                         <div class="content-box-front">
+                            <img style="border-radius: 5px;" src="img/front-app.jpg" />
                             <div class="inner-box-front">
-                                <a href="php/ny-tur-app.php">Ny tur app!</a>
+                                <a class="front" href="php/ny-tur-app.php">Ny tur app!</a>
                             </div>
                         </div>
                         <div class="content-box-front">
                             <img style="border-radius: 5px;" src="img/front_admdir.jpg" width="310" />
                             <div class="inner-box-front">
-                                <a href="php/adm-dir-har-ordet.php">Adm. dir. har ordet</a>
+                                <a class="front" href="php/adm-dir-har-ordet.php">Adm. dir. har ordet</a>
                             </div>
                         </div>
                     </div>
@@ -71,9 +72,9 @@
                             <img src="img/Graf03.png" />
                         </div>
                         <div class="content-box-front">
-                            <img style="border-radius: 5px;" src="img/front_tre.jpg" width="310" />
+                            <img style="border-radius: 5px;" src="img/front-overrasker.jpg" width="310" />
                             <div class="inner-box-front">
-                                <a href="php/vekker-oppsikt.php">Statskog vekker oppsikt</a>
+                                <a class="front" href="php/vekker-oppsikt.php">Statskog vekker oppsikt</a>
                             </div>
                         </div>
                     </div>
@@ -81,7 +82,7 @@
                         <div class="content-box-front">
                             <img style="border-radius: 5px;" src="img/fiskevann.png" width="310" />
                             <div class="inner-box-front">
-                                <a href="php/fulle-fiskevann-venter.php">Fulle fiskevann venter</a>
+                                <a class="front" href="php/fulle-fiskevann-venter.php">Fulle fiskevann venter</a>
                             </div>
                         </div>
                         <div class="content-box-front" style="text-align: center;">
