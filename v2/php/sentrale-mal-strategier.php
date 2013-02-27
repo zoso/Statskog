@@ -20,7 +20,7 @@
         <!-- <script src="js/vendor/modernizr-2.6.2.min.js"></script> -->
         <style>
             #top .top-bg {
-                background: url(../img/top_solgte_arealer.jpg) 50% 0 no-repeat;
+                background: url(../img/top_sentrale_mal.jpg) 50% 0 no-repeat;
                 height: 500px;
             }
         </style>
@@ -33,7 +33,7 @@
             <?php include_once("logo.php") ?>
             <div class="top-container">
                 <div class="top-txt">
-                    <!-- <?php include_once("top-txt.php") ?> -->
+                    
                 </div>
             </div>
             <div class="top-bg"></div>
@@ -47,13 +47,27 @@
                  <div id="left-container" style="float: left;">
                     <div class="content-box">
                         <div class="inner-box-front">
-                            <h3>Solgte arealer i 2011 og 2012</h3>
-                            <p>For å betale ned lånet Statskog fikk fra staten ved kjøp av Orklas skogeiendommer og samtidig få en bedre arrondert, eller driftsmessig, eiendomsmasse, er Statskog i ferd med å selge ut til sammen om lag 500 000 daa bestående av spredte skogeiendommer Statskog eide før kjøpet av Orklas skogeiendommer.</p><p>Kartet viser hvilke eiendommer som er solgt så langt. Salget avsluttes i 2017.</p>
-                        </div>
-                    </div>
-                    <div class="content-box">
-                        <div class="inner-box-front">
-                            <iframe width="610" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.arcgis.com/home/webmap/templates/OnePane/basicviewer/embed.html?webmap=638097407b8e4247a32b9d782e2c8a01&amp;gcsextent=10.4175,64.1282,12.8438,64.679&amp;displayslider=true&amp;displaylegend=true&amp;displaylayerlist=true&amp;theme=grey"></iframe>
+                            <h2>Sentrale mål og strategier</h2>
+                            <p>Statskogs hovedmål er å være Norges mest profesjonelle grunneier. Vi er effektiv og brukerorientert, tenker langsiktig lønnsomhet basert på bærekraftig utnyttelse av ressurser på fellesskapets grunn.</p>
+                            <b>Innen skog betyr det at Statskog:</b>
+                            <p>- skal være landets dyktigste industrielle skogeier</p>
+                            <p>- avvirker bærekraftig gjennom effektiv drift</p>
+                            <p>- deltar aktivt i tømmeromsetning (omsetningsleddet) gjennom eierposisjoner</p>
+                            <b>Innen energi betyr det at Statskog skal:</b>
+                            <p>- være landets ledende grunneier i utvikling av fornybare energiressurser</p>
+                            <p>- utvikle gode og robuste forretningsmodeller</p> 
+                            <p>- skape lønnsomhet gjennom å bidra til effektiv utbygging og drift</p>
+                            <b>Innen eiendom betyr det at Statskog skal:</b>
+                            <p>- være ledende på drift av utmarkseiendom i Norge</p>
+                            <p>- være effektiv og brukerorientert</p>
+                            <p>- ha oversikt og kontroll med eiendommer og ressurser</p>
+                            <p>- identifisere potensielle utviklingsarealer og få disse innarbeidet i kommunale arealplaner</p>
+                            <p>- realisere eiendommenes utviklingspotensial</p>
+                            <b>Innen friluftsliv betyr det at Statskog skal:</b>
+                            <p>- øke bruk gjennom videreutvikling og tilgjengeliggjøring av jakt- og fiskeproduktene</p>
+                            <p>- være landets ledende grunneier på kunnskapsbasert forvaltning av utmarksressurser</p>
+                            <p>- være en garantist for allmennhetens tilgang til jakt og fiske</p>
+                            <p>- være en profesjonell forvalter av fellesskapets jakt- og fiskeressurser</p>
                         </div>
                     </div>
                 </div>

@@ -62,7 +62,7 @@
                 </div> <!-- end left container -->
                 <div id="right-container" style="float: right;">
                     <div class="content-box-right">
-                        ?
+                        &nbsp;
                     </div>
                 </div>
             </div>

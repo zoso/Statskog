@@ -22,7 +22,7 @@
             #top .top-bg {
                 background: url(../img/top_noter.jpg) 50% 0 no-repeat;
                 height: 500px;
-            }
+            }?
         </style>
     </head>
     <body>
@@ -53,7 +53,7 @@
                 </div>
                 <div id="right-container" style="float: right;">
                     <div class="content-box-right">
-
+                        &nbsp;
                     </div>
                 </div>
                 <div style="clear: both;"></div>

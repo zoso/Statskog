@@ -61,23 +61,23 @@
                         Foretaket forventer flere konsesjoner i tiden som kommer. Åtte prosjekter er under behandling hos NVE og 29 prosjekter ligger i kø hos NVE. De fleste prosjektene er mindre småkraftprosjekter.
                         Årsregnskapet er avlagt under forutsetning om fortsatt drift jfr. Regnskapslovens § 3-3. Det bekreftes at disse forutsetningene er til stede. Styret legger til grunn forutsetning for fortsatt drift ved avleggelsen av regnskapet.</p>
                         <p><b>Redegjørelse for årsregnskapet</b><br>
-                        Resultatregnskapet<br>
+                        <i>Resultatregnskapet</i>
                         <p>Statskog-konsernet hadde en brutto omsetning på 450 000 000 kroner i 2012, og et driftsresultat på 160 000 000 kroner. Resultatet før skatt var 100 000 000 kroner og årets resultat ble 90 000 000 kroner. (Beløp må korrigeres)
                         Morselskapet Statskog SF hadde en brutto omsetning på 400 0000 000 kroner. Totalkapitalen i Statskog-konsernet var 2 300 000 000 kroner pr. 31.12.2012. Egenkapitalen utgjorde 1650 000 000 kroner. I morselskapet Statskog SF var totalkapitalen 2 300 000 000 kroner pr. 31.12.2012. (Beløp må korrigeres)</p>
                         <p>Styret er tilfreds med resultatet i 2012. Resultatet er preget av sunn økonomi i den løpende driften, i tillegg til vesentlige engangsinntekter fra salg av spredte skogteiger og skogvernerstatninger. Etter oppkjøpet av skogselskaper fra Orkla-konsernet i 2010, har Statskog iverksatt et omfattende salg av spredte skogteiger i hele landet. Dette vil gi selskapet store inntekter i flere år.</p>
                         <p>Skogbruket utgjør den største delen av Statskogs omsetning og driftsresultat. Skogbruksvirksomheten ga gode resultater i 2012, men resultatene ble svekket i forhold til 2011. Dette skyldes lavere virkespriser. Norske Skogs nedleggelse av en papirfabrikk, og konkursen i emballasjeprodusenten Peterson-gruppen vil kunne påvirke den nasjonale etterspørselen av skogsvirke, og dermed også prisene i årene som kommer.</p>
                         <p>Statskogs øvrige virksomhet er i mindre grad påvirket av kortsiktige markedsforhold. Statskog satser på å utvikle vann- og vindkraftressursene som foretaket rår over. Arbeidet skjer i samarbeid med andre grunneiere og etablerte kraftselskaper. Statskog vil få inntekter fra dette arbeidet, både som fallrettseier og investor. I årene som kommer vil resultatandelen fra denne delen av virksomheten bli større enn den er i dag.</p>
                         <p>De løpende inntektene fra jakt- og fiske har utviklet seg som forventet i 2012, med en liten reduksjon i inntektene fra småviltjakt. Det var varierende rypeforekomster høsten 2012.</p>
-                        <p><b>Kontantstrøm</b><br>
+                        <p><i>Kontantstrøm</i><br>
                         Den løpende driften i Statskog gir en god positiv kontantstrøm. 
                         I 2012 har selskapet hatt store engangsinnbetalinger knyttet til salg av spredte skogteiger og skogvernerstatninger. Foretaket har benyttet disse ekstrainntektene til å redusere selskapets langsiktige gjeldsbelastning med 100 millioner kroner. Foretakets likviditet er således ikke vesentlig endret i løpet av 2012.</p>
-                        <p><b>Balanse</b><br>
+                        <p><i>Balanse</i><br>
                         Statskogs balanse er preget av høy egenkapitalandel, liten kortsiktig gjeld og god likviditet.
                         (Kommentere noen nøkkeltall når de er klare.)</p>
-                        <p>Finansiell risiko og risikostyring</p>
-                        <p>Foretakets finansielle risiko økte i 2010 gjennom opptak av 475 millioner kroner i ansvarlig lån fra eieren. Denne risikoen er redusert gjennom gjeldsreduksjon på 100 millioner kroner i løpet av 2012. 
-                        Statskog hadde en finansportefølje på om lag 230 millioner kroner pr. 31.12.2012. Finansporteføljen forvaltes under et regime med lav risiko.</p>
-                        <p>Arbeidsmiljø og personal</p>
+                        <i>Finansiell risiko og risikostyring</i><br>
+                        Foretakets finansielle risiko økte i 2010 gjennom opptak av 475 millioner kroner i ansvarlig lån fra eieren. Denne risikoen er redusert gjennom gjeldsreduksjon på 100 millioner kroner i løpet av 2012. 
+                        Statskog hadde en finansportefølje på om lag 230 millioner kroner pr. 31.12.2012. Finansporteføljen forvaltes under et regime med lav risiko.
+                        <i>Arbeidsmiljø og personal</i>
                         <p>Statskog er en inkluderende arbeidslivsbedrift. Arbeidet med helse, miljø og sikkerhet drives i samsvar med lover og forskrifter. Det foreligger et overordnet internkontrollsystem for virksomheten samlet, og for de enkelte deler av driften, hvor ansvarsforhold og rutiner er beskrevet. Foretaket avgir en årlig HMS-rapport med faste sjekkpunkter på om arbeidet drives som foreskrevet og etter de målsettingene som er satt.</p>
                         <p>I 2012 har foretaket arbeidet med gjennomgang og revidering av eksisterende internkontrollsystem med fokus på dokumentasjon og system for melding og håndtering av avvik. Et nytt verktøy vil bli tatt i bruk i 2013. Det er gjennomført risikovurderinger tilknyttet alenearbeid og identifisert tiltak i forhold til kartlagt risiko.</p>
                         <p>Gjennomsnittsalder ved utgangen av 2012 var 48,6 år (47,9 år ved forrige årsskifte). Turnover blant fast ansatte er på 2,36 prosent. Statskog hadde ved årsskiftet 137 ansatte, hvorav ti i midlertidige stillinger. Det innebærer en oppgang på to ansatte fra forrige årsskifte.  Fem kvinner og tretten menn hadde redusert arbeidstid i 2012. De vanligste grunnene til redusert arbeidstid er omsorg for barn/familie, delpensjon og sesongsvingninger.</p>
@@ -87,7 +87,7 @@
                         <p>Statskog startet i 2012 opp et eget lederutviklingsprogram for samtlige ledere i Statskog. Ett av formålene med programmet er å styrke kompetanse og ferdigheter i mål- og resultatoppfølging både på individ- og organisasjonsnivå.</p>
                         <p>Totalt ble det utført 1 312 overtidstimer i 2012, og 1 105 ubekvemstimer. Kompensert overtid benyttes hovedsakelig i administrative stillinger, mens kompensert ubekvemstid hovedsakelig benyttes ved arbeid i felt. Sykefraværet for 2012 var 3,1 prosent. Dette er 1,2 prosent lavere enn året før. Sykefraværet for kvinner var 5,2 prosent og for menn 2,0 prosent. Det er registrert en arbeidsulykke som har medført sykefravær.</p>
                         <p><b>Likestilling</b><br>
-                        <p>I 2012 var 35 % av de som jobber i Statskog kvinner (48 av 137)</p>
+                        I 2012 var 35 % av de som jobber i Statskog kvinner (48 av 137)</p>
                         <p><b>Diskriminering</b><br>
                         Statskog er medlem i nettverk om mangfold for heleide statlige virksomheter, og rapporterer årlig til Integrerings- og mangfoldsdirektoratet (IMDI).</p>
                         <p>I hver stillingsutlysning oppfordrer vi særskilt personer med innvandrerbakgrunn og personer med nedsatt funksjonsevne til å søke. Samtlige av disse som er kvalifisert til stillingen blir innkalt til intervju. I 2012 førte det til ansettelse av en person med opprinnelse fra Hviterussland.</p>
@@ -106,7 +106,7 @@
                     </div>
                     <div id="right-container" style="float: right;">
                         <div class="content-box-right">
-                            ?
+                            &nbsp;
                         </div>
                     </div>
                 <div style="clear: both;"</div>

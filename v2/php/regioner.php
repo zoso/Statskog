@@ -54,7 +54,6 @@
                             <table width="100%" border="1" cellpadding="4">
                                 <tr style="font-weight: bold;">
                                     <td></td>
-                                    
                                     <td>2012</td>
                                     <td>2011</td>
                                     <td>2010</td>
@@ -62,7 +61,6 @@
                                 </tr>
                                 <tr>
                                     <td>Elg felte dyr</td>
-                                    
                                     <td>1 274</td>
                                     <td></td>
                                     <td>822</td>
@@ -70,7 +68,6 @@
                                 </tr>
                                 <tr>
                                     <td>Hjort felte dyr</td>
-                                    
                                     <td>58</td>
                                     <td></td>
                                     <td>64</td>
@@ -78,7 +75,6 @@
                                 </tr>
                                 <tr>
                                     <td>Villrein felte dyr</td>
-                                    
                                     <td>75</td>
                                     <td></td>
                                     <td>63</td>
@@ -86,7 +82,6 @@
                                 </tr>
                                 <tr>
                                     <td>Småvilt solgte kort</td>
-                                    
                                     <td>13 998</td>
                                     <td>15 040</td>
                                     <td>13 942</td>
@@ -94,7 +89,6 @@
                                 </tr>
                                 <tr>
                                     <td>Fiske solgte kort</td>
-                                    
                                     <td>12 490</td>
                                     <td>20 050</td>
                                     <td>19 672</td>
@@ -115,19 +109,19 @@
                     <div class="content-box-right">
                         <div style="padding: 10px; font-weight: bold;">Regioner og regionsjefer</div>
                         <div style="margin-bottom: 5px;">
-                            <img src="../img/persons/regionsjef_jan_helge_nordby.jpg" />
+                            <img src="../img/persons/troms_kaare-rasmussen.jpg" />
                             <br>Troms: Kåre Rasmussen
                         </div>
                         <div style="margin-bottom: 5px;">
-                            <img src="../img/persons/regionsjef_jan_helge_nordby.jpg" />
+                            <img src="../img/persons/salten_jan-normann-nilsen.jpg" />
                             <br>Salten: Jan N. Nilsen
                         </div>
                         <div style="margin-bottom: 5px;">
-                            <img src="../img/persons/regionsjef_jan_helge_nordby.jpg" />
-                            <br>Helgeland: Wnche Hjelmseth
+                            <img src="../img/persons/helgeland_wenche-hjelmseth.jpg" />
+                            <br>Helgeland: Wenche Hjelmseth
                         </div>
                         <div style="margin-bottom: 5px;">
-                            <img src="../img/persons/regionsjef_jan_helge_nordby.jpg" />
+                            <img src="../img/persons/midt-norge_carl-libach.jpg" />
                             <br>Midt-Norge: Carl Libach
                         </div>
                         <div style="padding-bottom: 5px;">

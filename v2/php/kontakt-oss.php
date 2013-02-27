@@ -51,13 +51,13 @@
                             Kommunikasjonssjef
                             <br>Arnhild Holstad
                             <br>913 78 484
+                            <br><a href="mailto: ahd@statskog.no">Epost</a>
                         </div>
                     </div>
                 </div>
                 <div id="right-container" style="float: right;">
                     <div class="content-box-right">
-                        ?
-                    </div>
+                        &nbsp;                    </div>
                 </div>
                 <div style="clear: both;"></div>
             </div>

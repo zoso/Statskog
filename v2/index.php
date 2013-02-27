@@ -66,9 +66,9 @@
                     </div>
                     <div style="float: left; width: 313px; margin-right: 10px;">
                         <div class="content-box-front" style="text-align: center;">
-                            <img src="img/front_nokkeltall.jpg" />
-                            <img src="img/front_nokkeltall2.jpg" />
-                            <img src="img/front_nokkeltall3.jpg" />
+                            <img src="img/Graf02b.png" />
+                            <img src="img/Graf01.png" />
+                            <img src="img/Graf03.png" />
                         </div>
                         <div class="content-box-front">
                             <img style="border-radius: 5px;" src="img/front_tre.jpg" width="310" />

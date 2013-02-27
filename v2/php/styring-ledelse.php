@@ -51,25 +51,41 @@
                             <p>Staten eier Statskog. Eierskapet utøves av landbruks- og matministeren gjennom foretaksmøtet. Statskog SF er som statsforetak et eget juridisk selskap. Statskog har hovedkontor i Namsos, og har til sammen 16 lokalkontor fordelt på de fem regionene. Statskog har 13 ansatte.</p>
                             <p><b>Organisasjonskart:</b></p>
                             <img src="../img/statskog_org_kart.jpg" />
-
-                            <!--
-                            Styret:
-                            Styreleder: Harald Ellefsen
-                            Nestleder: Eli Reistad
-                            Styremedlem: Tom Lifjell
-                            Styremedlem: Kari Økland
-                            Styremedlem: Gunnar Olofsson
-                            Styremedlem: Siw Anita Kvam (ansatterepresentant)
-                            Styremedlem: Geir Hovland (ansatterepresentant)
-                            </p>
-                            -->
                         </div>
                     </div>
                 </div>
                     <div id="right-container" style="float: right;">
                         <div class="content-box-right">
-                            ?
+                            <div style="padding: 10px; font-weight: bold;">Styret:</div>
+                        <div style="margin-bottom: 5px;">
+                            <img src="../img/persons/regionsjef_jan_helge_nordby.jpg" />
+                            <br>Styreleder: Harald Ellefsen
                         </div>
+                        <div style="margin-bottom: 5px;">
+                            <img src="../img/persons/regionsjef_jan_helge_nordby.jpg" />
+                            <br>Nestleder: Eli Reistad
+                        </div>
+                        <div style="margin-bottom: 5px;">
+                            <img src="../img/persons/regionsjef_jan_helge_nordby.jpg" />
+                            <br>Styremedlem: Tom Lifjell
+                        </div>
+                        <div style="margin-bottom: 5px;">
+                            <img src="../img/persons/regionsjef_jan_helge_nordby.jpg" />
+                            <br>Styremedlem: Kari Økland
+                        </div>
+                        <div style="padding-bottom: 5px;">
+                            <img src="../img/persons/regionsjef_jan_helge_nordby.jpg" />
+                            <br>Styremedlem: Gunnar Olofsson
+                        </div>
+                        <div style="padding-bottom: 5px;">
+                            <img src="../img/persons/regionsjef_jan_helge_nordby.jpg" />
+                            <br>Styremedlem: Siw Anita Kvam (ansatterepresentant)
+                        </div>
+                        <div style="padding-bottom: 5px;">
+                            <img src="../img/persons/regionsjef_jan_helge_nordby.jpg" />
+                            <br>Styremedlem: Geir Hovland (ansatterepresentant)
+                        </div>
+                      </div> 
                     </div>
                     <div style="clear: both;"></div>
                 </div>

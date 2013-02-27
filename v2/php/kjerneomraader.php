@@ -101,7 +101,7 @@
                                 </tr>
                             </table>
                             <p>Det ble totalt sett avvirket 409 681 m3 i Statskogs skoger i 2012, vel 20 000 m3 mer enn året før. Avvirkningsnivået er i tråd med bestillingene til driftsselskapene SB Skog og Nordisk Tre. 
-                            </p><p>Forretningsområdet energi
+                            </p><p><b>Forretningsområdet energi</b><br>
                             Statskog har over flere år arbeidet systematisk med å utvikle foretakets kraftressurser. Det er så langt gitt konsesjon på tre prosjekter som utnytter foretakets fallressurser, et av disse vil starte kraftproduksjon i 2013. Ytterligere om lag 40 konsesjonssøknader ligger til behandling hos NVE. Statskog er sjelden eneeier i energiprosjektene vi engasjerer oss i. Vi samarbeider som oftest med ulike relevante partnere, og det varierer hvor stor eierandel Statskog har i de ulike selskapene.
                             </p>
                         </div>
@@ -109,7 +109,7 @@
                 </div>
                 <div id="right-container" style="float: right;">
                     <div class="content-box-right">
-                        ?
+                       &nbsp;
                     </div>
                 </div>
                 <div style="clear: both;"></div>

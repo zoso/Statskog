@@ -8,7 +8,7 @@
 
     //switch for production
 
-    if ($url[4] == "php") {
+    if ($url[3] == "php") {
         $prefix = "";
     }
 
@@ -19,6 +19,7 @@
     <li>
         <a href="#" class="">Om Statskog<span class="down"></span></a>
         <div class="sub-menu ">
+            <div><a href="<?php echo $prefix; ?>sentrale-mal-strategier.php">Sentrale mål og strategier</a></div>
             <div><a href="<?php echo $prefix; ?>samfunnsansvar.php">Samfunnsansvar</a></div>
             <div><a href="<?php echo $prefix; ?>kjerneomraader.php">Kjerneområder</a></div>
             <div><a href="<?php echo $prefix; ?>regioner.php">Regioner</a></div>
@@ -34,7 +35,7 @@
             <div><a href="<?php echo $prefix; ?>produkter-skog.php">Produkter skog</a></div>
             <div><a href="<?php echo $prefix; ?>skogsbilveier.php">Skogsbilveier</a></div>
             <div><a href="<?php echo $prefix; ?>solgte-arealer.php">Solgte arealer gjennom "arrinderingssalget"</a></div>
-            <div><a href="<?php echo $prefix; ?>energiprosjekter.php">Energiprosjekter</a></div>
+            <!-- <div><a href="<?php echo $prefix; ?>energiprosjekter.php">Energiprosjekter</a></div> -->
             <div><a href="<?php echo $prefix; ?>arealinndeling-storviltjakt.php">Arealinndeling storviltjakt</a></div>
         </div>
     </li>
