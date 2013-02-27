@@ -88,7 +88,7 @@
                         <div class="content-box-front" style="text-align: center;">
                             <img src="img/statskog-1-2-3.jpg" />
                             <a href="php/film-statskogs-utleiehytter.php"><img src="img/front_eiendom.jpg" /></a>
-                            <img src="img/front_energi.jpg" />
+                            <!-- <img src="img/front_energi.jpg" /> -->
                             <a href="php/film-statskogs-skogbruk.php"><img src="img/front_skog.jpg" /></a>
                             <a href="php/film-toppjakt.php"><img src="img/front_friluftsliv.jpg" /></a>
                         </div>
