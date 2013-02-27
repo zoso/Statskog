@@ -58,15 +58,15 @@
                         <div class="content-box-right">
                             <div style="padding: 10px; font-weight: bold;">Styret:</div>
                         <div style="margin-bottom: 5px;">
-                            <img src="../img/persons/styre_mann_1.jpg" />
+                            <img src="../img/persons/styre_mann_2.jpg" />
                             <br>Styreleder: Harald Ellefsen
                         </div>
                         <div style="margin-bottom: 5px;">
-                            <img src="../img/persons/styre_dame_1.jpg" />
+                            <img src="../img/persons/styre_dame_2.jpg" />
                             <br>Nestleder: Eli Reistad
                         </div>
                         <div style="margin-bottom: 5px;">
-                            <img src="../img/persons/styre_mann_2.jpg" />
+                            <img src="../img/persons/styre_mann_1.jpg" />
                             <br>Styremedlem: Tom Lifjell
                         </div>
                         <div style="margin-bottom: 5px;">
@@ -74,11 +74,11 @@
                             <br>Styremedlem: Kari Økland
                         </div>
                         <div style="padding-bottom: 5px;">
-                            <img src="../img/persons/styre_mann_1.jpg" />
+                            <img src="../img/persons/styre_mann_5.jpg" />
                             <br>Styremedlem: Gunnar Olofsson
                         </div>
                         <div style="padding-bottom: 5px;">
-                            <img src="../img/persons/styre_dame_2.jpg" />
+                            <img src="../img/persons/styre_dame_1.jpg" />
                             <br>Styremedlem: Siw Anita Kvam (ansatterepresentant)
                         </div>
                         <div style="padding-bottom: 5px;">
