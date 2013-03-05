@@ -14,16 +14,11 @@
         
         <link rel="stylesheet" href="css/styled.css">
         <link rel="stylesheet" href="css/normalize.css">
-        <!-- <link rel="stylesheet" href="css/ChartPop.css">
-        <link rel="stylesheet" href="css/main.css">
-        <link rel="stylesheet" href="css/jquery.pageslide.css"></script> -->
         <!-- <script src="js/vendor/modernizr-2.6.2.min.js"></script> -->
     </head>
     <body>
-        <!-- Add your site or application content here -->
         <div id="log"></div>
         <div id="top">
-            <!-- <a href="http://testserver.loc/statskog/v2"><div class="top-logo"></div></a> -->
             <?php 
                 include_once("php/logo.php") 
             ?>
@@ -87,10 +82,10 @@
                         </div>
                         <div class="content-box-front" style="text-align: center;">
                             <img src="img/statskog-1-2-3.jpg" />
-                            <a href="php/film-statskogs-utleiehytter.php"><img src="img/front_eiendom.jpg" /></a>
+                            <a href="php/film-statskogs-utleiehytter.php"><img src="img/front_eiendom2.jpg" /></a><br>
                             <!-- <img src="img/front_energi.jpg" /> -->
-                            <a href="php/film-statskogs-skogbruk.php"><img src="img/front_skog.jpg" /></a>
-                            <a href="php/film-toppjakt.php"><img src="img/front_friluftsliv.jpg" /></a>
+                            <a href="php/film-statskogs-skogbruk.php"><img src="img/front_skog2.jpg" /></a><br>
+                            <a href="php/film-toppjakt.php"><img src="img/front_friluftsliv2.jpg" /></a>
                         </div>
                     </div>
                 </div>

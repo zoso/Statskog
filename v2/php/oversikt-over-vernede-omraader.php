@@ -21,7 +21,7 @@
          <style>
             #top .top-bg {
                 background: url(../img/top_bg_oversikt.jpg) 50% 0 no-repeat;
-                height: 500px;
+                height: 400px;
             }
         </style>
     </head>
@@ -53,8 +53,9 @@
                         </div>
                     </div>
                     <div class="content-box">
-                        <div class="inner-box-front">
-                            <iframe width="610" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.arcgis.com/home/webmap/templates/OnePane/basicviewer/embed.html?webmap=638097407b8e4247a32b9d782e2c8a01&amp;gcsextent=10.4175,64.1282,12.8438,64.679&amp;displayslider=true&amp;displaylegend=true&amp;displaylayerlist=true&amp;theme=grey"></iframe>
+                        <div class="inner-box-front"><!--
+                            <iframe width="610" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.arcgis.com/home/webmap/templates/OnePane/basicviewer/embed.html?webmap=638097407b8e4247a32b9d782e2c8a01&amp;gcsextent=10.4175,64.1282,12.8438,64.679&amp;displayslider=true&amp;displaylegend=true&amp;displaylayerlist=true&amp;theme=grey"></iframe> -->
+                            <iframe width="610" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://statskog.maps.arcgis.com/home/webmap/embedViewer.html?webmap=344af89224744a208b4ca0714606e302&amp;extent=-8.6788,58.5618,38.5795,69.6023&amp;zoom=true&amp;scale=true"></iframe>
                         </div>
                     </div>
                 </div>
