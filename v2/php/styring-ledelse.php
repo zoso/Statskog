@@ -21,7 +21,7 @@
         <style>
             #top .top-bg {
                 background: url(../img/top_styring_ledelse.jpg) 50% 0 no-repeat;
-                height: 500px;
+                height: 400px;
             }
         </style>
     </head>
@@ -47,10 +47,24 @@
                 <div id="left-container" style="float: left;">
                     <div class="content-box">
                         <div class="inner-box-front">
-                            <h2>Styring og ledelse</h2>
-                            <p>Staten eier Statskog. Eierskapet utøves av landbruks- og matministeren gjennom foretaksmøtet. Statskog SF er som statsforetak et eget juridisk selskap. Statskog har hovedkontor i Namsos, og har til sammen 16 lokalkontor fordelt på de fem regionene. Statskog har 13 ansatte.</p>
-                            <p><b>Organisasjonskart:</b></p>
-                            <img src="../img/statskog_org_kart.jpg" />
+                            <h2>Eierstyring og selskapsledelse</h2>
+                            <b>Oppdrag</b>
+                            <p>Statskog skal forvalte, drive og utvikle statlige skog- og fjelleiendommer. Eiendommene skal drives effektivt med sikte på å oppnå et tilfredsstillende økonomisk resultat. Det skal drives et aktivt  naturvern og tas hensyn til friluftsinteresser. Ressursene skal utnyttes balansert, og fornybare ressurser skal tas vare på og utvikles videre.</p>
+                            <b>Verdier</b>
+                            <p>Samspillende, verdiutviklende, ansvarlig og modig</p>
+                            <b>Eier</b>
+                            <p>Statskog er et statsforetak. Eierskapet utøves av landbruks- og matministeren gjennom foretaksmøtet.</p>
+                            <p>Statskogs styrende organer beslutter virksomhetens grunnleggende styringsprinsipper. Disse består av konstitusjonelle prinsipper knyttet til det statlige eierskapet, vedtekter, statens eierstyringsprinsipper, verdigrunnlag, etiske retningslinjer for ansatte og policy for ledelse, styring og kontroll. Styringsprinsippene inkluderer også styreinstruks og administrerende direktørs stillingsinstruks og fullmakter.</p>
+                            <b>Foretaksmøtet</b>
+                            <p>Landbruks- og matdepartementet utøver den øverste myndighet i foretaket i foretaksmøtet. På det ordinære foretaksmøte skal følgende spørsmål behandles og avgjøres: Fastsetting av foretakets resultatregnskap og balanse, herunder anvendelse av årsoverskudd eller dekning av årsunderskudd, fastsetting av konsernresultatregnskap og konsernbalanse, og andre saker som etter lov eller vedtekter hører under foretaksmøtet, herunder valg av styret og fastsettelse av godtgjørelse for medlemmer av styret og styreutvalg. Departementets myndighet i foretaket kan ikke utøves utenom foretaksmøtet. Foretaksmøtet vedtar Statskogs vedtekter, herunder Statskogs formålsparagraf som setter rammer for den virksomheten Statskog kan drive. Ordinært foretaksmøte holdes hvert år innen utgangen av juni måned.</p>
+                            <b>Styret</b>
+                            <p>Styret har det overordnede ansvaret for forsvarlig ledelse av Statskog. Styret ansetter og avsetter administrerende direktør og skal føre tilsyn med hans/hennes ledelse av virksomheten. Styret skal beslutte Statskogs strategi, sørge for at Statskog er effektivt og betryggende organisert, beslutte budsjetter og påse betryggende formuesforvaltning, et godt arbeidsmiljø og påse at Statskog overholder formelle krav, lover og forskrifter.</p>
+                            <b>Revisor</b>
+                            <p>Statskog skal ha en eller flere revisorer, som velges av foretaksmøtet. Minst en skal være registrert eller statsautorisert.</p>
+                            <b>Rammeverk</b>
+                            <p>Styret og foretakets administrasjon vedtar rammeverket som virksomhetens aktiviteter skal utføres innenfor for å nå vedtatte målsetninger.</p>
+                            <b>Organisasjonskart:</b>
+                            <p><img src="../img/statskog_org_kart.jpg" /></p>
                         </div>
                     </div>
                 </div>

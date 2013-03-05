@@ -21,7 +21,7 @@
         <style>
             #top .top-bg {
                 background: url(../img/top_tall_grafer.jpg) 50% 0 no-repeat;
-                height: 500px;
+                height: 400px;
             }
         </style>
     </head>

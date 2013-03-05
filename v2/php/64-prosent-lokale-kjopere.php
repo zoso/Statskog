@@ -18,12 +18,14 @@
         <link rel="stylesheet" href="css/main.css">
         <link rel="stylesheet" href="css/jquery.pageslide.css"></script> -->
         <!-- <script src="js/vendor/modernizr-2.6.2.min.js"></script> -->
-        <style>
+
+        <!-- <style>
             #top .top-bg {
-                background: url(../img/top_samfunnsansvar.jpg) 50% 0 no-repeat;
+                background: url(../img/top_tall_grafer.jpg) 50% 0 no-repeat;
                 height: 400px;
             }
-        </style>
+        </style> -->
+
     </head>
     <body>
         <!-- Add your site or application content here -->
@@ -44,29 +46,21 @@
             </div> <!-- menu end -->
             <div style="clear: both;"></div>
             <div id="content-container">
-                <div id="left-container" style="float: left;">
+                 <div id="left-container" style="float: left;">
                     <div class="content-box">
                         <div class="inner-box-front">
-                            <h2>Samfunnsansvar</h2>
-                            <p><b>Statskog skal:</b>
-                            <p>- være en garantist for allmennhetens tilgang til jakt og fiske</p>
-                            <p>- legge til rette for allmennhetens friluftsliv</p>
-                            <p>- bidra til verdiskaping på fellesskapets ressurser</p>
-                            <p>- ivareta rettighetshavernes interesser</p>
-                            <p>- bidra til andres verdiskaping</p>
-                            <p>- være opptatt av samfunnsnytte og ringvirkninger </p> 
-                            <p>- ta hensyn til miljø og verneinteresser</p>
-                            <p>- bidra til de nasjonale klimamålene</p>
+                            <h2>64 prosent lokale kjøpere</h2>
+                            <p>Hele 64 prosent av kjøperne i Statskogs salg av en del spredte eiendommer er lokale skogeiere. Det viser at mange av landets private skogeiere har benyttet anledningen til å styrke sine næringsgrunnlag. Direktoratet for naturforvaltning (DN) har forkjøpsrett på samtlige eiendommer som blir lagt ut for salg. Dette er i tråd med et pålegg fra Stortinget, for at DN skal kunne benytte eiendommene til vern eller makeskifte knyttet til vern av private skogeiendommer. Som diagrammet viser har DN hittil kjøpt 16 prosent av eiendommene.</p>
                         </div>
                     </div>
-                </div> <!-- end left container -->
+                </div>
                 <div id="right-container" style="float: right;">
                     <div class="content-box-right">
-                        &nbsp;
+                        <img src="../img/Graf02b.png" width="270" />
                     </div>
                 </div>
+                <div style="clear: both;"></div>
             </div>
-            <div style="clear: both;"></div>
             <?php include_once("footer.php"); ?>
         </div><!-- wrapper end -->
     </body>

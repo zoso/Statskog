@@ -21,7 +21,7 @@
         <style>
             #top .top-bg {
                 background: url(../img/top_kontakt_oss.jpg) 50% 0 no-repeat;
-                height: 500px;
+                height: 400px;
             }
         </style>
     </head>
@@ -49,9 +49,8 @@
                         <div class="inner-box-front">
                             <h3>Kontakt oss</h3>
                             Kommunikasjonssjef
-                            <br>Arnhild Holstad
+                            <br><a class="front" href="mailto: ahd@statskog.no">Arnhild Holstad<span class="mail">&nbsp;</span></a>
                             <br>913 78 484
-                            <br><a href="mailto: ahd@statskog.no">Epost</a>
                         </div>
                     </div>
                 </div>

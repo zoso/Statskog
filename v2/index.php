@@ -12,7 +12,7 @@
 
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
         
-        <link rel="stylesheet" href="css/styled.css">
+        <link rel="stylesheet" href="css/styled.css?v=1">
         <link rel="stylesheet" href="css/normalize.css">
         <!-- <script src="js/vendor/modernizr-2.6.2.min.js"></script> -->
     </head>
@@ -48,23 +48,23 @@
                             </div>
                         </div>
                         <div class="content-box-front">
+                            <img style="border-radius: 5px;" src="img/front_admdir.jpg" width="310" />
+                            <div class="inner-box-front">
+                                <a class="front" href="php/adm-dir-har-ordet.php">Administrerende direktør har ordet</a>
+                            </div>
+                        </div>
+                        <div class="content-box-front">
                             <img style="border-radius: 5px;" src="img/front-app.jpg" />
                             <div class="inner-box-front">
                                 <a class="front" href="php/ny-tur-app.php">Ny tur app!</a>
                             </div>
                         </div>
-                        <div class="content-box-front">
-                            <img style="border-radius: 5px;" src="img/front_admdir.jpg" width="310" />
-                            <div class="inner-box-front">
-                                <a class="front" href="php/adm-dir-har-ordet.php">Adm. dir. har ordet</a>
-                            </div>
-                        </div>
                     </div>
                     <div style="float: left; width: 313px; margin-right: 10px;">
                         <div class="content-box-front" style="text-align: center;">
-                            <img src="img/Graf02b.png" />
-                            <img src="img/Graf01.png" />
-                            <img src="img/Graf03.png" />
+                            <a href="php/64-prosent-lokale-kjopere.php"><img src="img/Graf02b.png" /></a>
+                            <a href="php/45-energiprosjekter.php"><img src="img/Graf01.png" /></a>
+                            <a href="php/solgte-eiendommer-2012.php"><img src="img/Graf03.png" /></a>
                         </div>
                         <div class="content-box-front">
                             <img style="border-radius: 5px;" src="img/front-overrasker.jpg" width="310" />
@@ -87,6 +87,7 @@
                             <a href="php/film-statskogs-skogbruk.php"><img src="img/front_skog2.jpg" /></a><br>
                             <a href="php/film-toppjakt.php"><img src="img/front_friluftsliv2.jpg" /></a>
                         </div>
+
                     </div>
                 </div>
             </div>

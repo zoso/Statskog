@@ -21,7 +21,7 @@
         <style>
             #top .top-bg {
                 background: url(../img/top_styrets_aarsberetning.jpg) 50% 0 no-repeat;
-                height: 500px;
+                height: 400px;
             }
         </style>
     </head>
@@ -48,30 +48,27 @@
                     <div class="content-box">
                         <div class="inner-box-front">
                         <h2>Styrets årsberetning</h2>
-                        <b>Innledning</b>
-                        <br>Statskog SF er Norges største grunneier, og driver og utvikler om lag 60 millioner dekar. Dette tilsvarer om lag 20 % av arealet i Norge. Foretaket driver med skogbruk, jakt og fiske, arealutleie samt utvikling av energi-, areal- og mineralressurser.
-                        Statskog har eiendommer i 17 Fylker og har 16 kontorer. Statskog har hovedkontor i Namsos i Nord-Trøndelag.
-                        <p><b>Foretakets utsikter</b><br>
-                        Statskog har i 2012 innfridd styrets forventninger og mål til foretakets drift og økonomi. Skogkjøpet fra Orkla i 2010 var et strategisk viktig grep for Statskog. Arbeidet med å integrere eiendommene i den operative virksomheten har gått som planlagt. 
-                        Arronderingssalget som ble vedtatt av Stortinget, hvor Statskog skal gjennomføre et omfattende salg av spredte skogeiendommer, har gitt foretaket muligheten til å effektivisere driften, og foretaket er i rute med dette arbeidet.</p>
-                        <p>Foretaket påvirkes av konjunkturendringer på flere områder, hvor skogen er den viktigste. I 2012 gikk så vel påvirker priser og etterspørsel på tømmerprodukter. Etterspørselen etter massevirke har gått noe ned, mens etterspørselen etter sagtømmer har vært mer stabil.
-                        Statskog har fortsatt tilfredsstillende lønnsomhet i skogbruket, og styret er av den oppfatning at med robust driftsmodell og lave driftskostnader, så vil skogbruket fortsatt være lønnsomt.
-                        De største risikofaktorene som vil kunne påvirke Statskogs lønnsomhet i årene fremover er etterspørsel og priser på tømmer, og kraftprisene som påvirker foretakets inntekter fra utnyttelse av vann- og vindressurser.</p>
-                        <p>Den systematiske satsingen på utvikling av foretakets kraftressurser har begynt å gi resultater. Det er gitt konsesjon på tre prosjekter som utnytter foretakets fallressurser, og et av prosjektene, Muoidejohka Kraft AS, vil starte kraftproduksjon i 2013. Dette kraftverket ligger i Beiarn kommune og eies av Statskog Energi AS sammen med Småkraft AS.  
-                        Foretaket forventer flere konsesjoner i tiden som kommer. Åtte prosjekter er under behandling hos NVE og 29 prosjekter ligger i kø hos NVE. De fleste prosjektene er mindre småkraftprosjekter.
-                        Årsregnskapet er avlagt under forutsetning om fortsatt drift jfr. Regnskapslovens § 3-3. Det bekreftes at disse forutsetningene er til stede. Styret legger til grunn forutsetning for fortsatt drift ved avleggelsen av regnskapet.</p>
-                        <p><b>Redegjørelse for årsregnskapet</b><br>
+                        <p><b>Innledning</b></p>
+                        Statskog SF er et statsforetak eid av Landbruks- og matdepartementet. Foretaket har 16 kontorer og har hovedkontor i Namsos i Nord-Trøndelag.
+                        <p>Statskog er Norges største grunneier, og driver og utvikler eiendommer på om lag 60 millioner dekar. Dette tilsvarer om lag 20 prosent av arealet i Norge. Foretaket driver med skogbruk, jakt og fiske, arealutleie samt utvikling av energi-, areal- og mineralressurser.</p>
+                        <b>Sentrale forhold i 2012</b>
+                        <p>Statskog har i 2012 innfridd styrets forventninger og mål til foretakets drift og økonomi. Skogkjøpet fra Orkla i 2010 var et strategisk viktig grep for Statskog. Arbeidet med å integrere eiendommene i den operative virksomheten har gått som planlagt.</p>
+                        <p>Arronderingssalget som ble vedtatt av Stortinget, hvor Statskog skal gjennomføre et omfattende salg av spredte skogeiendommer, har gitt foretaket muligheten til å effektivisere driften, og foretaket er i rute med dette arbeidet.</p>
+                        <p>Statskog har hatt tilfredsstillende lønnsomhet i skogbruket, og styret er av den oppfatning at med en robust driftsmodell og lave driftskostnader, så vil skogbruket fortsatt være lønnsomt fremover.</p>
+                        <p>Den systematiske satsingen på utvikling av foretakets kraftressurser har begynt å gi resultater. Det er så langt gitt konsesjon på tre prosjekter som utnytter foretakets fallressurser, og et av prosjektene, Muoidejohka Kraft AS, vil starte kraftproduksjon i 2013. Dette kraftverket ligger i Beiarn kommune og eies av Statskog Energi AS sammen med Småkraft AS. Foretaket forventer flere konsesjoner i tiden som kommer. Ni prosjekter er under behandling hos NVE og 32 prosjekter ligger i kø hos NVE. De fleste prosjektene er småkraftprosjekter.</p>
+                        <p>De største risikofaktorene som vil kunne påvirke Statskogs lønnsomhet i årene fremover er etterspørsel og priser på tømmer, og kraftprisene som påvirker foretakets inntekter fra utnyttelse av vann- og vindressurser.</p>
+                        <b>Redegjørelse for årsregnskapet</b><br>
                         <i>Resultatregnskapet</i>
-                        <p>Statskog-konsernet hadde en brutto omsetning på 450 000 000 kroner i 2012, og et driftsresultat på 160 000 000 kroner. Resultatet før skatt var 100 000 000 kroner og årets resultat ble 90 000 000 kroner. (Beløp må korrigeres)
-                        Morselskapet Statskog SF hadde en brutto omsetning på 400 0000 000 kroner. Totalkapitalen i Statskog-konsernet var 2 300 000 000 kroner pr. 31.12.2012. Egenkapitalen utgjorde 1650 000 000 kroner. I morselskapet Statskog SF var totalkapitalen 2 300 000 000 kroner pr. 31.12.2012. (Beløp må korrigeres)</p>
-                        <p>Styret er tilfreds med resultatet i 2012. Resultatet er preget av sunn økonomi i den løpende driften, i tillegg til vesentlige engangsinntekter fra salg av spredte skogteiger og skogvernerstatninger. Etter oppkjøpet av skogselskaper fra Orkla-konsernet i 2010, har Statskog iverksatt et omfattende salg av spredte skogteiger i hele landet. Dette vil gi selskapet store inntekter i flere år.</p>
-                        <p>Skogbruket utgjør den største delen av Statskogs omsetning og driftsresultat. Skogbruksvirksomheten ga gode resultater i 2012, men resultatene ble svekket i forhold til 2011. Dette skyldes lavere virkespriser. Norske Skogs nedleggelse av en papirfabrikk, og konkursen i emballasjeprodusenten Peterson-gruppen vil kunne påvirke den nasjonale etterspørselen av skogsvirke, og dermed også prisene i årene som kommer.</p>
-                        <p>Statskogs øvrige virksomhet er i mindre grad påvirket av kortsiktige markedsforhold. Statskog satser på å utvikle vann- og vindkraftressursene som foretaket rår over. Arbeidet skjer i samarbeid med andre grunneiere og etablerte kraftselskaper. Statskog vil få inntekter fra dette arbeidet, både som fallrettseier og investor. I årene som kommer vil resultatandelen fra denne delen av virksomheten bli større enn den er i dag.</p>
+                        <p>Konsernet Statskog hadde en brutto omsetning på 450 millioner kroner i 2012, og et driftsresultat på 160  millioner kroner. (Beløp må korrigeres)Morselskapet Statskog SF hadde en brutto omsetning på 400 millioner kroner. Konsernets brutto omsetning var 2 300 millioner kroner per 31.12.2012. Egenkapitalen utgjorde 1650 millioner kroner. (Beløp må korrigeres)</p>
+                        <p>Resultatet er preget av sunn økonomi i den løpende driften, i tillegg til vesentlige engangsinntekter fra salg av spredte skogteiger og skogvernerstatninger. Etter oppkjøpet av skogselskaper fra Orkla-konsernet i 2010, har Statskog iverksatt et omfattende salg av spredte skogteiger i hele landet. Dette vil gi selskapet betydelige inntekter i flere år.</p>
+                        <p>Skogbruket utgjør den største delen av Statskogs omsetning og driftsresultat. Skogbruksvirksomheten ga tilfredsstillende resultater i 2012, men resultatene ble svekket i forhold til 2011. Dette skyldes lavere virkespriser. Norske Skogs nedleggelse av en papirfabrikk, og konkursen i emballasjeprodusenten Peterson-gruppen vil kunne påvirke den nasjonale etterspørselen av skogsvirke, og dermed også prisene i årene som kommer.</p>
+                        <p>Statskogs øvrige virksomhet er i mindre grad påvirket av kortsiktige markedsforhold. Statskog satser på å utvikle vann- og vindkraftressursene som foretaket rår over. Arbeidet skjer i samarbeid med andre grunneiere og etablerte kraftselskaper. Statskog vil få inntekter fra dette arbeidet, både som fallrettseier og medeier. I årene som kommer vil resultatandelen fra denne delen av virksomheten øke vesentlig.</p>
                         <p>De løpende inntektene fra jakt- og fiske har utviklet seg som forventet i 2012, med en liten reduksjon i inntektene fra småviltjakt. Det var varierende rypeforekomster høsten 2012.</p>
-                        <p><i>Kontantstrøm</i><br>
-                        Den løpende driften i Statskog gir en god positiv kontantstrøm. 
+                        <p>I 2012 har selskapet hatt store engangsinnbetalinger knyttet til salg av spredte skogteiger og skogvernerstatninger. Foretaket har benyttet disse ekstrainntektene til å redusere selskapets langsiktige gjeldsbelastning med 100 millioner kroner. Foretakets likviditet er således ikke vesentlig endret i løpet av 2012.</p>
+                        <i>Kontantstrøm</i><br>
+                        <p>Den løpende driften i Statskog gir en god positiv kontantstrøm. 
                         I 2012 har selskapet hatt store engangsinnbetalinger knyttet til salg av spredte skogteiger og skogvernerstatninger. Foretaket har benyttet disse ekstrainntektene til å redusere selskapets langsiktige gjeldsbelastning med 100 millioner kroner. Foretakets likviditet er således ikke vesentlig endret i løpet av 2012.</p>
-                        <p><i>Balanse</i><br>
+                        HER<p><i>Balanse</i><br>
                         Statskogs balanse er preget av høy egenkapitalandel, liten kortsiktig gjeld og god likviditet.
                         (Kommentere noen nøkkeltall når de er klare.)</p>
                         <i>Finansiell risiko og risikostyring</i><br>

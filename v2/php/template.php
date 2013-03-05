@@ -18,6 +18,14 @@
         <link rel="stylesheet" href="css/main.css">
         <link rel="stylesheet" href="css/jquery.pageslide.css"></script> -->
         <!-- <script src="js/vendor/modernizr-2.6.2.min.js"></script> -->
+
+        <!-- <style>
+            #top .top-bg {
+                background: url(../img/top_tall_grafer.jpg) 50% 0 no-repeat;
+                height: 400px;
+            }
+        </style> -->
+
     </head>
     <body>
         <!-- Add your site or application content here -->
@@ -27,7 +35,7 @@
             <?php include_once("logo.php") ?>
             <div class="top-container">
                 <div class="top-txt">
-                    <?php include_once("top-txt.php") ?>
+                    
                 </div>
             </div>
             <div class="top-bg"></div>

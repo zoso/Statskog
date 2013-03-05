@@ -21,7 +21,7 @@
         <style>
             #top .top-bg {
                 background: url(../img/top_regioner.jpg) 50% 0 no-repeat;
-                height: 500px;
+                height: 400px;
             }
         </style>
     </head>
@@ -47,12 +47,12 @@
                 <div id="left-container" style="float: left;">
                     <div class="content-box">
                         <div class="inner-box-front">
-                            <h2>Regioner</h2>
+                            <h2>Regioner (skal ut?)</h2>
                             <p>Statskogs grunn er delt inn i fem ulike regioner der de respektive regionsjefene har ansvar for drift og utvikling av eiendommene. De er også Statskogs kontakt med oppdragsgivere, offentlige myndigheter, rettighetshavere og interessegrupper i sin region.</p>
                             <p></p>
-                            <p>Salg av jakt- og fiskeprodukter/jaktstatistikk</p>
-                            <table width="100%" border="1" cellpadding="4">
-                                <tr style="font-weight: bold;">
+                            <p><b>Salg av jakt- og fiskeprodukter/jaktstatistikk</b></p>
+                            <table width="100%" border="0" cellpadding="4">
+                                <tr style="font-weight: bold;" class="line-over-under">
                                     <td></td>
                                     <td>2012</td>
                                     <td>2011</td>
@@ -94,7 +94,7 @@
                                     <td>19 672</td>
                                     <td>20 733</td>
                                 </tr>
-                                <tr>
+                                <tr class="line-under">
                                     <td>Hytteutleie utleiedøgn</td>
                                     <td>6 565</td>
                                     <td>5 900</td>

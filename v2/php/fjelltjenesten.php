@@ -21,7 +21,7 @@
         <style>
             #top .top-bg {
                 background: url(../img/top_fjelltjenesten.jpg) 50% 0 no-repeat;
-                height: 500px;
+                height: 400px;
             }
         </style>
     </head>
@@ -49,8 +49,8 @@
                         <div class="inner-box-front">
                             <h2>Fjelltjenesten</h2>
                             <p>Fjelltjenesten er Statskogs profesjonelle feltapparat knyttet til naturoppsyn, skjøtsel og registreringsarbeid i Nordland og Troms. Fjelltjenesten ble etablert i perioden 1984-1989, først i Troms som et samarbeid mellom Statskog og Fylkesmannens miljøvernavdeling. Målet var å få til en bedre og mer kostnadseffektiv felttjeneste med Statskog som arbeidsgiver og fylkesmannen som tjenestekjøper. Mye er endret siden den gang.</p>
-                            <p>I dag leverer Fjelltjenesten tjenester til en lang rekke oppdragsgivere. Det største volumet kommer fra SNO, Statskog SF og Landbruks- og matdepartementet. I tillegg kommer oppdrag for fylkesmenn, kommuner, forskningsinstitusjoner, elve- og grunneierlag, kraftlag m.v. Med en brei portefølje av oppgaver utfører Fjelltjenesten ofte mange oppgaver på samme felttur. Kombinasjonsmulighetene gir effektive arbeidsdager med kostnadseffektiv drift, god utnyttelse av ressurser og redusert belastning på miljøet.</p>
-                            <p>Fjelltjenesten er i dag ledet av Tore Bjørnstad, og har 16 ansatte tilknyttet Statskogs lokalkontorer fra Hattfjelldal i sør til Nordreisa i nord. Dette gir en desentralisert tilstedeværelse i sterke fagmiljø som sikrer god lokalkunnskap. De ansatte har brei naturfaglig kompetanse og lang erfaring innen naturoppsyn, registreringsarbeid, tilrettelegging for friluftsliv og skjøtsel. I tillegg til myndighet etter lov om statlig naturoppsyn, er alle i Fjelltjenesten tildelt begrenset politimyndighet.</p>
+                            <p>I dag leverer Fjelltjenesten tjenester til en lang rekke oppdragsgivere,  blant annet SNO, Statskog SF og Landbruks- og matdepartementet. Med en stor portefølje av oppgaver utfører Fjelltjenesten ofte mange oppgaver på samme felttur. Kombinasjonsmulighetene gir effektive arbeidsdager med kostnadseffektiv drift, god utnyttelse av ressurser og redusert belastning på miljøet.</p>
+                            <p>Fjelltjenesten har 16 ansatte tilknyttet Statskogs lokalkontorer fra Hattfjelldal i sør til Nordreisa i nord. Dette gir en desentralisert tilstedeværelse i sterke fagmiljø som sikrer god lokalkunnskap.</p>
                         </div>
                     </div>
                 </div>

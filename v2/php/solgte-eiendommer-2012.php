@@ -18,6 +18,14 @@
         <link rel="stylesheet" href="css/main.css">
         <link rel="stylesheet" href="css/jquery.pageslide.css"></script> -->
         <!-- <script src="js/vendor/modernizr-2.6.2.min.js"></script> -->
+
+        <!-- <style>
+            #top .top-bg {
+                background: url(../img/top_tall_grafer.jpg) 50% 0 no-repeat;
+                height: 400px;
+            }
+        </style> -->
+
     </head>
     <body>
         <!-- Add your site or application content here -->
@@ -27,7 +35,7 @@
             <?php include_once("logo.php") ?>
             <div class="top-container">
                 <div class="top-txt">
-                    <?php include_once("top-txt.php") ?>
+                    
                 </div>
             </div>
             <div class="top-bg"></div>
@@ -38,41 +46,23 @@
             </div> <!-- menu end -->
             <div style="clear: both;"></div>
             <div id="content-container">
-                <div class="content-box">
-                    <h2>Sentrale mål og strategier</h2>
-                    <p>Statskogs hovedmål er å være Norges mest profesjonelle grunneier. Vi er effektiv og brukerorientert, tenker langsiktig lønnsomhet basert på bærekraftig utnyttelse av ressurser på fellesskapets grunn.
-Innen skog betyr det at Statskog:
-•   skal være landets dyktigste industrielle skogeier
-•   avvirker bærekraftig gjennom effektiv drift
-•   deltar aktivt i tømmeromsetning (omsetningsleddet) gjennom eierposisjoner 
-
-
-
-Innen energi betyr det at Statskog skal:
-•   være landets ledende grunneier i utvikling av fornybare energiressurser 
-•   utvikle gode og robuste forretningsmodeller 
-•   skape lønnsomhet gjennom å bidra til effektiv utbygging og drift
-
-Innen eiendom betyr det at Statskog skal:
-•   være ledende på drift av utmarkseiendom i Norge
-•   være effektiv og brukerorientert
-•   ha oversikt og kontroll med eiendommer og ressurser
-•   identifisere potensielle utviklingsarealer og få disse innarbeidet i kommunale arealplaner
-•   realisere eiendommenes utviklingspotensial
-
-Innen friluftsliv betyr det at Statskog skal:
-•   øke bruk gjennom videreutvikling og tilgjengeliggjøring av jakt- og fiskeproduktene
-•   være landets ledende grunneier på kunnskapsbasert forvaltning av utmarksressurser
-•   være en garantist for allmennhetens tilgang til jakt og fiske
-•   være en profesjonell forvalter av fellesskapets jakt- og fiskeressurser
-</p>
+                 <div id="left-container" style="float: left;">
+                    <div class="content-box">
+                        <div class="inner-box-front">
+                            <h2>Solgte eiendommer i 2012</h2>
+                            <p>Da Statskog kjøpte Borregaard Skoger AS fra Orkla i desember 2010, bestemte Stortinget at Statskog skulle selge en del spredte skogeiendommer foretaket eide fra før. Salget skulle finansiere lånet Statskog fikk fra staten i forbindelse med oppkjøpet, men også gi foretaket en total eiendomsmasse som kan driftes mer effektivt. Salget begynte i 2011 og vil gå fram til 2017. Grafen viser hvor mye grunn som er solgt og hvor fram til utgangen av 2012. I hele salgsperioden vil det bli solgt om lag 500 000 daa, noe som gjør salget til det største statlige eiendomssalget i moderne tid.</p>
+                        </div>
+                    </div>
                 </div>
-                
+                <div id="right-container" style="float: right;">
+                    <div class="content-box-right">
+                        <img src="../img/Graf03.png" width="280" />
+                    </div>
+                </div>
+                <div style="clear: both;"></div>
             </div>
+            <?php include_once("footer.php"); ?>
         </div><!-- wrapper end -->
-        <div id="footer">
-            <a href="http://2011.statskog.no/" target="_blank">http://2011.statskog.no/</a>
-        </div>
     </body>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="../js/jquery.statskog.js"></script>

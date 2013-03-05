@@ -2,6 +2,7 @@ $(document).ready(function() {
     $(".sub-menu").hide();
     $("#main-menu li").on("mouseenter", function(e) {
         $elm = $(this);
+        
         $elm.find(".sub-menu").stop().show().animate({
             opacity: 1
         }, 500, function() {
@@ -15,9 +16,9 @@ $(document).ready(function() {
             $(this).hide()
         }); 
     }).on("click", function(e) {
-        l("> klikk > "+$(this).parent().children().length);
+       // l("> klikk > "+$(this).parent().children().length);
         if ($(this).children().length == 1) {
-            l("> no sub");
+            //l("> no sub");
         }
     })
 

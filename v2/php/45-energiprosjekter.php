@@ -18,12 +18,14 @@
         <link rel="stylesheet" href="css/main.css">
         <link rel="stylesheet" href="css/jquery.pageslide.css"></script> -->
         <!-- <script src="js/vendor/modernizr-2.6.2.min.js"></script> -->
-        <style>
+
+        <!-- <style>
             #top .top-bg {
-                background: url(../img/top_samfunnsansvar.jpg) 50% 0 no-repeat;
-                height: 400px;
+                background: url(../img/top_tall_grafer.jpg) 50% 0 no-repeat;
+                height: 400px; 
             }
-        </style>
+        </style>-->
+
     </head>
     <body>
         <!-- Add your site or application content here -->
@@ -44,29 +46,21 @@
             </div> <!-- menu end -->
             <div style="clear: both;"></div>
             <div id="content-container">
-                <div id="left-container" style="float: left;">
+                 <div id="left-container" style="float: left;">
                     <div class="content-box">
                         <div class="inner-box-front">
-                            <h2>Samfunnsansvar</h2>
-                            <p><b>Statskog skal:</b>
-                            <p>- være en garantist for allmennhetens tilgang til jakt og fiske</p>
-                            <p>- legge til rette for allmennhetens friluftsliv</p>
-                            <p>- bidra til verdiskaping på fellesskapets ressurser</p>
-                            <p>- ivareta rettighetshavernes interesser</p>
-                            <p>- bidra til andres verdiskaping</p>
-                            <p>- være opptatt av samfunnsnytte og ringvirkninger </p> 
-                            <p>- ta hensyn til miljø og verneinteresser</p>
-                            <p>- bidra til de nasjonale klimamålene</p>
+                            <h2>45 energiprosjekter</h2>
+                            <p>Som grunneier skal Statskog utvikle alle verdier på fellesskapets grunn. Vi har derfor i flere år kartlagt mulige kraftprosjekter på egen grunn, og nå begynner resultatet av dette arbeidet å vises. I samarbeid med andre berørte grunneiere og kraftaktører har vi fått konsesjon på fire kraftverk, ett av dem vil komme i drift i 2013. Det er sendt inn ytterligere 41 søknader om bygging av fornybar kraftproduksjon til Norges vassdrags- og energidirektorat (NVE).</p>
                         </div>
                     </div>
-                </div> <!-- end left container -->
+                </div>
                 <div id="right-container" style="float: right;">
                     <div class="content-box-right">
-                        &nbsp;
+                        <img src="../img/Graf01.png" width="270" />
                     </div>
                 </div>
+                <div style="clear: both;"></div>
             </div>
-            <div style="clear: both;"></div>
             <?php include_once("footer.php"); ?>
         </div><!-- wrapper end -->
     </body>
