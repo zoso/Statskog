@@ -18,12 +18,14 @@
         <link rel="stylesheet" href="css/main.css">
         <link rel="stylesheet" href="css/jquery.pageslide.css"></script> -->
         <!-- <script src="js/vendor/modernizr-2.6.2.min.js"></script> -->
-        <style>
+
+        <!-- <style>
             #top .top-bg {
-                background: url(../img/top_regnskap.jpg) 50% 0 no-repeat;
+                background: url(../img/top_tall_grafer.jpg) 50% 0 no-repeat;
                 height: 400px;
             }
-        </style>
+        </style> -->
+
     </head>
     <body>
         <!-- Add your site or application content here -->
@@ -45,47 +47,971 @@
             <div style="clear: both;"></div>
             <div id="content-container">
                  <div id="left-container" style="float: left;">
-                    <div class="content-box">
-                        <div class="inner-box-front">
-                            <h2>Regnskapsprinsipper Statskog konsern</h2>
-                            <p>Årsregnskapet er satt opp i henhold til regnskapslovens regnskapskapittel og er utarbeidet etter norske regnskapsstandarder og anbefalinger til god regnskapsskikk. Anvendte prinsipper er i henhold til tidligere år.</p>
-                            <b>Konsolidering</b>
-                            <p>Konsernregnskapet inkluderer Statskog Glomma AS, Statskog Børresen AS, Statskog Vafos AS, Inatur Nordic AS,  Statskog Energi AS, Statskog Energi Veiski AS, Statskog Vind AS, Stigafjell Vind AS, Skogvatnet Vind AS , Statskog Vind Midt-Norge og selskaper som Statskog SF har bestemmende innflytelse over. Bestemmende innflytelse oppnås normalt når konsernet eier mer enn 50 % av aksjene i selskapet, og konsernet er i stand til å utøve faktisk kontroll over selskapet. Minoritetsinteresser inngår i konsernets egenkapital.  Transaksjoner og mellomværende mellom selskapene i konsernet er eliminert. Konsernregnskapet er utarbeidet etter ensartede prinsipper, ved at datterselskapet følger de samme regnskapsprinsipper som morselskapet. Ved ulike prinsippendringer i selskapsregnskapene til datterselskaper er dette korrigert som prinsippendring mot egenkapitalen til konsernet.</p>
-                            <p>Oppkjøpsmetoden benyttes ved regnskapsføring av virksomhetssammenslutninger. Selskaper som er kjøpt eller solgt i løpet av året inkluderes i konsernregnskapet fra det tidspunktet kontroll oppnås og inntil kontroll opphører.</p>
-                            <p>Anskaffelseskost tilordnes identifiserbare eiendeler og gjeld i datterselskapene, som oppføres i konsernregnskapet til virkelig verdi på oppkjøpstidspunktet. Eventuell merverdi ut over hva som kan henføres til identifiserbare eiendeler og gjeld balanseføres som goodwill. Merverdier i konsernregnskapet avskrives lineært over de oppkjøpte eiendelenes forventede levetid. Eventuell goodwill avskrives over forventet levetid.</p>
-                            <p>Tilknyttede selskaper er enheter hvor konsernet har betydelig (men ikke bestemmende) innflytelse, over den finansielle og operasjonelle styringen(normalt ved eierandel på mellom 20 % og 50 %). Konsernregnskapet inkluderer konsernets andel av resultat fra tilknyttede selskaper regnskapsført etter egenkapitalmetoden fra det tidspunktet betydelig innflytelse oppnås og inntil slik innflytelse opphører. Midlertidig eierskap utover 50%  og uvesentlige eierandeler er ikke konsolidert inn, men behandlet etter  egenkapitalmetoden forutsatt at dette ikke har betydning for å bedømme konsernets stilling og resultat.</p>
-                            <p>Når konsernets tapsandel overstiger investeringen i et tilknyttet selskap, reduseres konsernets balanseførte verdi til null og ytterligere tap regnskapsføres ikke med mindre konsernet har en forpliktelse til å dekke dette tapet.</p>
-                            <b>Beste estimat</b>
-                            <p>Ledelsen har brukt estimater og forutsetninger som har påvirket resultatregnskapet og verdsettelsen av eiendeler og gjeld, samt usikre eiendeler og forpliktelser på balansedagen under utarbeidelsen av årsregnskapet i henhold til god regnskapsskikk.<br>Betingede tap som er sannsynlige og kvantifiserbare kostnadsføres løpende.</p>
-                            <b>Valuta</b>
-                            <p>Transaksjoner i utenlandsk valuta omregnes til kursen på transaksjonstidspunktet. Pengeposter i utenlandsk valuta omregnes til norske kroner ved å benytte balansedagens kurs. Ikke-pengeposter som måles til historisk kurs uttrykt i utenlandsk valuta, omregnes til norske kroner ved å benytte valutakursen på transaksjonstidspunktet. Ikke-pengeposter som måles til virkelig verdi uttrykt i utenlandsk valuta, omregnes til valutakursen fastsatt på måletidspunktet. Valutakursendringer resultatføres løpende i regnskapsperioden under andre finansposter.</p>
-                            <b>Driftsinntekter</b>
-                            <p>Aktivitet på egen grunn klassifiseres som ordinær driftsinntekt og inntektsføres på leveringstidspunktet eller når den er opptjent. Honorar for aktivitet som drives for andre offentlige etater føres brutto som ordinær driftsinntekt. Kostnader relatert til disse aktivitetene fremkommer under ordinære driftskostnader. Ved salg med lang kredittid og rente lavere enn markedsrenten, foretas neddiskontering av salgssum og fordring med basis i renten på 3-årig statsobligasjoner.</p>
-                            <b>Skatter</b>
-                            <p>Skattekostnaden i resultatregnskapet inkluderer betalbare skatter og endring i utsatt skatt. Utsatt skatt/skattefordel er beregnet med 28 % ut fra midlertidige forskjeller mellom regnskapsmessige og skattemessige balanseverdier samt fremførbare underskudd og effekt av gjennomsnittsligning for skogbruket som eksisterer på balansedagen. Skatteøkende og skattereduserende midlertidige forskjeller som reverserer eller kan reversere i samme periode er utlignet. Netto utsatt skattefordel balanseføres i den grad det er sannsynlig at denne kan bli nyttegjort.</p>
-                            <b>Eiendeler</b>
-                            <p>Eiendeler bestemt til varig eie eller bruk samt fordringer med forfall senere enn ett år fra regnskapsårets slutt klassifiseres som anleggsmidler. Fordringer som knyttes til varekretsløpet klassifiseres som omløpsmidler selv om de forfaller mer enn et år etter regnskapsåret. Øvrige eiendeler klassifiseres som omløpsmidler.</p>
-                            <b>Omløpsmidler</b>
-                            <p>Kortsiktige plasseringer omfatter verdipapirer og fondsandeler styrt som en handelsportefølje og vurderes til gjeldende markedsverdi på avslutningstidspunktet. Verdiendringer av plasseringene resultatføres på egen linje i resultatregnskapet. Fordringer fastsettes til pålydende med fradrag for forventet tap. Beholdning av tømmer verdsettes til laveste av tilvirkningskost og forventet salgspris. Tilvirkningskost omfatter direkte lønn og direkte kostnader relatert til tømmerdriften. Øvrige beholdninger verdsettes til anskaffelseskost med fradrag for ukurans.</p>
-                            <b>Anleggsmidler</b>
-                            <p>Anleggsmidler vurderes til anskaffelseskost, fratrukket av- og nedskrivninger. Langsiktig gjeld balanseføres til nominelt beløp på etableringstidspunktet. Aksjer klassifiseres som anleggsmidler dersom investeringene anses å være av langsiktig art.</p>
-                            <b>Varige driftsmidler</b>
-                            <p>Varige driftsmidler vurderes og balanseføres til anskaffelseskost og avskrives lineært over driftsmidlets forventede levetid. Direkte vedlikehold av driftsmidler kostnadsføres løpende under driftskostnader, mens påkostninger eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med driftsmidlet. Dersom gjenvinnbart beløp av driftsmiddelet er lavere enn balanseført verdi foretas nedskrivning til gjenvinnbart beløp. Gjenvinnbart beløp er det høyeste av netto salgsverdi og verdi i bruk. Verdi i bruk er nåverdien av de fremtidige kontantstrømmene som eiendelen forventes å generere.</p>
-                            <b>Datterselskap og tilknyttet selskap</b>
-                            <p>Datterselskap og tilknyttede selskap vurderes etter egenkapitalmetoden i selskapsregnskapet. Investeringen er vurdert til anskaffelseskost og justeres for resultatandel og egenkapitaltransaksjoner. Det er foretatt nedskrivning til virkelig verdi når verdifall skyldes årsaker som ikke kan antas å være forbigående og det må anses nødvendig etter god regnskapsskikk. Nedskrivninger er reversert når grunnlaget for nedskrivning ikke lenger er til stede.<br>
-                            Utbytte, konsernbidrag og andre utdelinger fra datterselskap føres mot bokført verdi samme år som det er avsatt i givers regnskap. Overstiger utbyttet / konsernbidraget andel av opptjent resultat etter anskaffelsestidspunktet, representerer den overskytende del tilbakebetaling av investert kapital, og utdelingene er fratrukket investeringens verdi i balansen til morselskapet. Andre langsiktige aksjer er vurdert til kostpris. I de tilfellene den virkelige verdi er lavere enn kostprisen og dette ikke er forbigående er det foretatt nedskrivning.</p>
-                            <b>Pensjoner</b>
-                            <p>Pensjonsforpliktelser (direkte finansierte og fondsbaserte ytelser) er beregnet etter lineær opptjening til nåverdien av de fremtidige pensjonsytelsene som er opptjent på balansedagen. Fremtidige pensjonsytelser er beregnet med utgangspunkt i forventet lønn på pensjonstidspunktet. Pensjonsmidlene er vurdert til markedsverdi. Netto pensjonskostnad (brutto pensjonskostnad  minus estimert avkastning på pensjonsmidlene) inngår i posten lønn og andre personalkostnader. Brutto pensjonskostnad består av nåverdien av periodens pensjonsopptjening, rentekostnad av pensjonsforpliktelsen og resultatført virkning av estimatendringer. I balansen vises netto pensjonsforpliktelse som langsiktig gjeld, og ved netto pensjonsmidler vises dette som andre langsiktige fordringer.<br>Selskapets tilskuddsplaner er behandlet i henhold til NRS – standard for pensjonskostnader og årets pensjonspremie er kostnadsført som lønn og personalkostnader.  Endringer i forpliktelsen som skyldes endringer i pensjonsplaner fordeles over antatt gjenværende opptjeningstid.  Endringer i forpliktelsen og pensjonsmidlene som skyldes endringer i og avvik i beregningsforutsetningene (estimatendringer) fordeles over antatt gjennomsnittlig gjenværende opptjeningstid  hvis avvikende ved årets begynnelse overstiger 10 % av det største av brutto pensjonsforpliktelser og pensjonsmidler.</p>
-                            <b>Kontantstrømoppstilling</b>
-                            <p>Kontantstrømoppstillingen er utarbeidet etter den indirekte metode. Kontanter og kontantekvivalenter omfatter kontanter, bankinnskudd og andre kortsiktige, likvide plasseringer.</p>
+                    <div class="content-box" style="width: 960px;">
+                      <div class="inner-box-front">
+                            <h2>Resultatregnskap Statskog</h2>
+                            Beløp i 1000 kroner
+                            <table width="100%" border="0" cellpadding="4" class="tb">
+                               <tr>
+                                  <td colspan="2" class="bold center">Konsern</td>
+                                  <td></td>
+                                  <td></td>
+                                  <td colspan="2" class="bold center">Statskog SF</td>
+                               </tr>
+                               <tr class="line-over-under">
+                                  <td class="bold center col-grey">2012</td>
+                                  <td class="bold center">2011</td>
+                                  <td></td>
+                                  <td class="center">Noter</td>
+                                  <td class="bold center">2012</td>
+                                  <td class="bold center">2011</td>
+                               </tr>
+                               <tr>
+                                  <td class="bold right col-grey">443 728</td>
+                                  <td class="bold right">398 367</td>
+                                  <td class="bold">DRIFTSINNTEKTER</td>
+                                  <td class="center">1</td>
+                                  <td class="bold right col-grey">380 538</td>
+                                  <td class="bold right">307 275</td>
+                               </tr>
+                               <tr>
+                                  <td class="col-grey">&nbsp;</td>
+                                  <td></td>
+                                  <td></td>
+                                  <td class="center"></td>
+                                  <td class="col-grey">&nbsp;</td>
+                                  <td></td>
+                              </tr>
+                               <tr>
+                                  <td class="right col-grey">98 215</td>
+                                  <td class="right">98 548</td>
+                                  <td>Varekostnad</td>
+                                  <td class="center"></td>
+                                  <td class="right col-grey">56 357</td>
+                                  <td class="right">54 469</td>
+                               </tr>
+                               <tr>
+                                  <td class="right col-grey">95 284</td>
+                                  <td class="right">93 764</td>
+                                  <td>Lønnskostnad</td>
+                                  <td class="center">3</td>
+                                  <td class="right col-grey">94 503</td>
+                                  <td class="right">86 480</td>
+                               </tr>
+                               <tr>
+                                  <td class="right col-grey">73 308</td>
+                                  <td class="right">85 044</td>
+                                  <td>Annen driftskostnad</td>
+                                  <td class="center"> </td>
+                                  <td class="right col-grey">61 709</td>
+                                  <td class="right">67 151</td>
+                               </tr>
+                               <tr>
+                                  <td class="right col-grey">16 679</td>
+                                  <td class="right">11 285</td>
+                                  <td>Avskrivning på varige driftsmidler</td>
+                                  <td class="center">5</td>
+                                  <td class="right col-grey">6 339</td>
+                                  <td class="right">5 631</td>
+                               </tr>
+                               <tr class="bold line-over-under">
+                                  <td class="right col-grey">283 485</td>
+                                  <td class="right">288 642</td>
+                                  <td>SUM DRIFTSKOSTNADER</td>
+                                  <td class="center"></td>
+                                  <td class="right col-grey">218 908</td>
+                                  <td class="right">213 731</td>
+                               </tr>
+                               <tr>
+                                  <td class="col-grey">&nbsp;</td>
+                                  <td></td>
+                                  <td></td>
+                                  <td class="center"></td>
+                                  <td class="col-grey">&nbsp;</td>
+                                  <td></td>
+                               </tr>
+                               <tr class="bold line-over-under">
+                                  <td class="right col-grey">160 243</td>
+                                  <td class="right">109 725</td>
+                                  <td>DRIFTSRESULTAT</td>
+                                  <td class="center"></td>
+                                  <td class="right col-grey">161 630</td>
+                                  <td class="right">93 544</td>
+                               </tr>
+                               <tr>
+                                  <td class="col-grey">&nbsp;</td>
+                                  <td></td>
+                                  <td></td>
+                                  <td class="center"></td>
+                                  <td class="col-grey">&nbsp;</td>
+                                  <td></td>
+                               </tr>
+                               <tr>
+                                  <td class="right col-grey">-8 933</td>
+                                  <td class="right">-1 796</td>
+                                  <td>Inntekt på investering i datterselskap og tilknyttede selskap</td>
+                                  <td class="center">6</td>
+                                  <td class="right col-grey">5 106</td>
+                                  <td class="right">17 685</td>
+                               </tr>
+                               <tr>
+                                  <td class="right col-grey">3 170</td>
+                                  <td class="right">5 076</td>
+                                  <td>Finansinntekt</td>
+                                  <td class="center">8</td>
+                                  <td class="right col-grey">4 397</td>
+                                  <td class="right">8 694</td>
+                               </tr>
+                               <tr>
+                                  <td class="right col-grey">-23 062</td>
+                                  <td class="right">-24 903</td>
+                                  <td>Finanskostnad</td>
+                                  <td class="center">8</td>
+                                  <td class="right col-grey">-23 169</td>
+                                  <td class="right">-25 178</td>
+                               </tr>
+                               <tr>
+                                  <td class="right col-grey">-639</td>
+                                  <td class="right"></td>
+                                  <td>Nedskrivning av finansielle anleggsmidler</td>
+                                  <td class="center"></td>
+                                  <td class="right col-grey">-639</td>
+                                  <td class="right"></td>
+                               </tr>
+                               <tr>
+                                  <td class="right col-grey">12 050</td>
+                                  <td class="right">-1 523</td>
+                                  <td>Verdiendring av markedsbaserte plasseringer</td>
+                                  <td class="center">9</td>
+                                  <td class="right col-grey">11 381</td>
+                                  <td class="right">-1 651</td>
+                               </tr>
+                               <tr class="bold line-over-under">
+                                  <td class="right col-grey">-17 415</td>
+                                  <td class="right">-23 146</td>
+                                  <td>SUM FINANSPOSTER</td>
+                                  <td class="center"></td>
+                                  <td class="right col-grey">-2 925</td>
+                                  <td class="right">-449</td>
+                               </tr>
+                               <tr>
+                                  <td class="col-grey">&nbsp;</td>
+                                  <td></td>
+                                  <td></td>
+                                  <td class="center"></td>
+                                  <td class="col-grey">&nbsp;</td>
+                                  <td></td>
+                               </tr>
+                               <tr class="bold line-over-under">
+                                  <td class="right col-grey">142 828</td>
+                                  <td class="right">86 579</td>
+                                  <td>ORDINÆRT RESULTAT FØR SKATTEKOSTNAD</td>
+                                  <td class="center"></td>
+                                  <td class="right col-grey">158 705</td>
+                                  <td class="right">93 095</td>
+                               </tr>
+                               <tr>
+                                  <td class="col-grey">&nbsp;</td>
+                                  <td></td>
+                                  <td></td>
+                                  <td class="center"></td>
+                                  <td class="col-grey">&nbsp;</td>
+                                  <td></td>
+                               </tr>
+                               <tr>
+                                  <td class="right col-grey">24 806</td>
+                                  <td class="right">11 188</td>
+                                  <td>Skattekostnad på ordinært resultat</td>
+                                  <td class="center">10</td>
+                                  <td class="right col-grey">20 995</td>
+                                  <td class="right">6 920</td>
+                               </tr>
+                               <tr class="bold line-over-under">
+                                  <td class="right col-grey">118 022</td>
+                                  <td class="right">75 390</td>
+                                  <td>ÅRSRESULTAT</td>
+                                  <td></td>
+                                  <td class="right col-grey">137 710</td>
+                                  <td class="right">86 174</td>
+                               </tr>
+                               <tr>
+                                  <td></td>
+                                  <td></td>
+                                  <td></td>
+                                  <td></td>
+                                  <td></td>
+                                  <td></td>
+                               </tr>
+                               <tr>
+                                  <td></td>
+                                  <td></td>
+                                  <td class="bold">Overføringer og disponering av resultat:</td>
+                                  <td></td>
+                                  <td></td>
+                                  <td></td>
+                               </tr>
+                               <tr>
+                                  <td class="right col-grey">28 700</td>
+                                  <td class="right">40 100</td>
+                                  <td>Utbytte</td>
+                                  <td></td>
+                                  <td class="right col-grey">28 700</td>
+                                  <td class="right">40 100</td>
+                               </tr>
+                               <tr>
+                                  <td class="right col-grey">89 322</td>
+                                  <td class="right">35 290</td>
+                                  <td>Annen egenkapital</td>
+                                  <td></td>
+                                  <td class="right col-grey">109 010</td>
+                                  <td class="right">46 074</td>
+                               </tr>
+                               <tr class="bold line-over-under">
+                                  <td class="right col-grey">118 022</td>
+                                  <td class="right">75 390</td>
+                                  <td>SUM DISPONERT</td>
+                                  <td></td>
+                                  <td class="right col-grey">137 710</td>
+                                  <td class="right">86 174</td>
+                               </tr>
+                            </table>
+                            <h2>Balanse Statskog</h2>
+                            Beløp i 1000 kroner
+                            <table width="100%" border="0" cellpadding="4" class="tb">
+                            <tr>
+                                  <td colspan="2" class="bold center">Konsern</td>
+                                  <td></td>
+                                  <td></td>
+                                  <td colspan="2" class="bold center">Statskog SF</td>
+                               </tr>
+                           <tr class="bold line-over-under">
+                              <td class="center col-grey">2012</td>
+                              <td class="center">2011</td>
+                              <td>EIENDELER</td>
+                              <td></td>
+                              <td class="center col-grey">2012</td>
+                              <td class="center">2011</td>
+                           </tr>
+                           <tr>
+                             <td class=" col-grey">&nbsp;</td>
+                              <td></td>
+                              <td></td>
+                              <td></td>
+                              <td class=" col-grey">&nbsp;</td>
+                              <td></td>
+                           </tr>
+                           <tr>
+                              <td class=" col-grey">&nbsp;</td>
+                             <td></td>
+                              <td class="bold">ANLEGGSMIDLER</td>
+                              <td></td>
+                              <td class=" col-grey">&nbsp;</td>
+                              <td></td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">10 724</td>
+                              <td class="right">14 944</td>
+                              <td>Fallrettigheter</td>
+                              <td class="center">5</td>
+                              <td class="right col-grey">10 724</td>
+                              <td class="right">10 724</td>
+                           </tr>
+                           <tr class="bold">
+                              <td class="right col-grey">10 724</td>
+                              <td class="right">14 944</td>
+                              <td>Sum imaterielle eiendeler</td>
+                              <td class="center"></td>
+                              <td class="right col-grey">10 724</td>
+                              <td class="right">10 724</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">1 717 906</td>
+                              <td class="right">1 718 650</td>
+                              <td>Skogeiendommer og tomter</td>
+                              <td class="center">5</td>
+                              <td class="right col-grey">73 631</td>
+                              <td class="right">74 374</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">64 253</td>
+                              <td class="right">71 405</td>
+                              <td>Bygninger</td>
+                              <td class="center">5</td>
+                              <td class="right col-grey">7 824</td>
+                              <td class="right">8 523</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">22 941</td>
+                              <td class="right">11 770</td>
+                              <td>Maskiner, inventar og kunst</td>
+                              <td class="center">5</td>
+                              <td class="right col-grey">17 544</td>
+                              <td class="right">11 317</td>
+                           </tr>
+                           <tr class="bold">
+                              <td class="right col-grey">1 805 100</td>
+                              <td class="right">1 801 825</td>
+                              <td>Sum varige driftsmidler</td>
+                              <td class="center"></td>
+                              <td class="right col-grey">98 999</td>
+                              <td class="right">94 214</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">48 394</td>
+                              <td class="right">34 953</td>
+                              <td>Investeringer i datterselskap og tilknyttede selskap</td>
+                              <td class="center">6</td>
+                              <td class="right col-grey">1 810 606</td>
+                              <td class="right">1 783 502</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">1 424</td>
+                              <td class="right">2 705</td>
+                              <td>Investeringer i aksjer og andeler</td>
+                              <td class="center">7</td>
+                              <td class="right col-grey">1 189</td>
+                              <td class="right">1 506</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">393</td>
+                              <td class="right">19 011</td>
+                              <td>Andre fordringer</td>
+                              <td class="center">11</td>
+                              <td class="right col-grey">293</td>
+                              <td class="right">14 993</td>
+                           </tr>
+                           <tr class="bold">
+                              <td class="right col-grey">50 211</td>
+                              <td class="right">56 670</td>
+                              <td>Sum finansielle anleggsmidler</td>
+                              <td></td>
+                              <td class="right col-grey">1 812 088</td>
+                              <td class="right">1 800 001</td>
+                           </tr>
+                           <tr class="bold line-over-under">
+                              <td class="right col-grey">1 866 035</td>
+                              <td class="right">1 873 439</td>
+                              <td>Sum anleggsmidler</td>
+                              <td></td>
+                              <td class="right col-grey">1 921 811</td>
+                              <td class="right">1 904 939</td>
+                           </tr>
+                           <tr>
+                              <td class=" col-grey">&nbsp;</td>
+                              <td></td>
+                              <td></td>
+                              <td></td>
+                              <td class=" col-grey">&nbsp;</td>
+                              <td></td>
+                           </tr>
+                           <tr>
+                              <td class=" col-grey">&nbsp;</td>
+                              <td></td>
+                              <td class="bold">OMLØPSMIDLER</td>
+                              <td></td>
+                              <td class=" col-grey">&nbsp;</td>
+                              <td></td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">6 824</td>
+                              <td class="right">6 906</td>
+                              <td>Varer</td>
+                              <td class="center">12</td>
+                              <td class="right col-grey">6 824</td>
+                              <td class="right">6 850</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">5 000</td>
+                              <td class="right">5 000</td>
+                              <td>Aksjer</td>
+                              <td class="center">13</td>
+                              <td class="right col-grey"></td>
+                              <td class="right"></td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">32 781</td>
+                              <td class="right">36 597</td>
+                              <td>Kundefordringer</td>
+                              <td class="center">14</td>
+                              <td class="right col-grey">25 761</td>
+                              <td class="right">30 384</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">-0</td>
+                              <td class="right"></td>
+                              <td>Fordring konsernselskap</td>
+                              <td class="center"></td>
+                              <td class="right col-grey">20 739</td>
+                              <td class="right">52 159</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">13 764</td>
+                              <td class="right">27 514</td>
+                              <td>Andre fordringer</td>
+                              <td class="center"></td>
+                              <td class="right col-grey">9 585</td>
+                              <td class="right">22 794</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">234 033</td>
+                              <td class="right">196 583</td>
+                              <td>Markedsbaserte plasseringer</td>
+                              <td class="center">9</td>
+                              <td class="right col-grey">230 136</td>
+                              <td class="right">177 456</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">52 054</td>
+                              <td class="right">84 124</td>
+                              <td>Bankinnskudd, kontanter og lignende</td>
+                              <td class="center">15</td>
+                              <td class="right col-grey">35 744</td>
+                              <td class="right">54 927</td>
+                           </tr>
+                           <tr class="bold line-over-under">
+                              <td class="right col-grey">344 456</td>
+                              <td class="right">356 723</td>
+                              <td>Sum omløpsmidler</td>
+                              <td></td>
+                              <td class="right col-grey">328 789</td>
+                              <td class="right">344 569</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">&nbsp;</td>
+                              <td class="right"></td>
+                              <td></td>
+                              <td></td>
+                              <td class="right col-grey"></td>
+                              <td class="right"></td>
+                           </tr>
+                           <tr class="bold line-over-under">
+                              <td class="right col-grey">2 210 491</td>
+                              <td class="right">2 230 162</td>
+                              <td>SUM EIENDELER</td>
+                              <td></td>
+                              <td class="right col-grey">2 250 600</td>
+                              <td class="right">2 249 508</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">&nbsp;</td>
+                              <td class="right"></td>
+                              <td></td>
+                              <td></td>
+                              <td class=" col-grey">&nbsp;</td>
+                              <td></td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">&nbsp;</td>
+                              <td class="right"></td>
+                              <td></td>
+                              <td></td>
+                              <td class=" col-grey">&nbsp;</td>
+                              <td></td>
+                           </tr>
+                           <tr class="bold line-over-under">
+                              <td class="center col-grey">2012</td>
+                              <td class="center">2011</td>
+                              <td>GJELD OG EGENKAPITAL</td>
+                              <td></td>
+                              <td class="center col-grey">2012</td>
+                              <td class="center">2011</td>
+                           </tr>
+                           <tr>
+                              <td class=" col-grey">&nbsp;</td>
+                              <td></td>
+                              <td></td>
+                              <td></td>
+                              <td class=" col-grey">&nbsp;</td>
+                              <td></td>
+                           </tr>
+                           <tr>
+                              <td class=" col-grey">&nbsp;</td>
+                              <td></td>
+                              <td class="bold">EGENKAPITAL</td>
+                              <td></td>
+                              <td class=" col-grey">&nbsp;</td>
+                              <td></td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">1 335 000</td>
+                              <td class="right">1 335 000</td>
+                              <td>Selskapskapital</td>
+                              <td class="center">16</td>
+                              <td class="right col-grey">1 335 000</td>
+                              <td class="right">1 335 000</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">19 253</td>
+                              <td class="right">19 253</td>
+                              <td>Annen innskutt selskapskapital</td>
+                              <td class="center">16</td>
+                              <td class="right col-grey">19 253</td>
+                              <td class="right">19 253</td>
+                           </tr>
+                           <tr class="bold">
+                              <td class="right col-grey">1 354 253</td>
+                              <td class="right">1 354 253</td>
+                              <td>Sum innskutt egenkapital</td>
+                              <td class="center"></td>
+                              <td class="right col-grey">1 354 253</td>
+                              <td class="right">1 354 253</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">332 594</td>
+                              <td class="right">243 272</td>
+                              <td>Annen egenkapital</td>
+                              <td class="center">16</td>
+                              <td class="right col-grey">369 297</td>
+                              <td class="right">260 287</td>
+                           </tr>
+                           <tr class="bold">
+                              <td class="right col-grey">332 594</td>
+                              <td class="right">243 272</td>
+                              <td>Sum opptjent egenkapital</td>
+                              <td></td>
+                              <td class="right col-grey">369 297</td>
+                              <td class="right">260 287</td>
+                           </tr>
+                           <tr class="bold line-over-under">
+                              <td class="right col-grey">1 686 847</td>
+                              <td class="right">1 597 525</td>
+                              <td>Sum egenkapital</td>
+                              <td></td>
+                              <td class="right col-grey">1 723 551</td>
+                              <td class="right">1 614 540</td>
+                           </tr>
+                           <tr>
+                              <td class=" col-grey">&nbsp;</td>
+                              <td></td>
+                              <td></td>
+                              <td></td>
+                              <td class=" col-grey">&nbsp;</td>
+                              <td></td>
+                           </tr>
+                           <tr>
+                              <td class=" col-grey">&nbsp;</td>
+                              <td></td>
+                              <td class="bold">GJELD</td>
+                              <td></td>
+                              <td class=" col-grey">&nbsp;</td>
+                              <td></td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">44 828</td>
+                              <td class="right">19 934</td>
+                              <td>Utsatt skatt</td>
+                              <td class="center">10</td>
+                              <td class="right col-grey">24 555</td>
+                              <td class="right">3 560</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">2 076</td>
+                              <td class="right">2 700</td>
+                              <td>Pensjonsforpliktelser</td>
+                              <td class="center">4</td>
+                              <td class="right col-grey">2 076</td>
+                              <td class="right">2 303</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">20 923</td>
+                              <td class="right">22 408</td>
+                              <td>Andre avsetninger for forpliktelser</td>
+                              <td class="center"></td>
+                              <td class="right col-grey">20 923</td>
+                              <td class="right">22 408</td>
+                           </tr>
+                           <tr class="bold">
+                              <td class="right col-grey">67 827</td>
+                              <td class="right">45 042</td>
+                              <td>Sum avsetning for forpliktelser</td>
+                              <td class="center"></td>
+                              <td class="right col-grey">47 554</td>
+                              <td class="right">28 271</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">375 000</td>
+                              <td class="right">475 000</td>
+                              <td>Ansvarlig lån</td>
+                              <td class="center">17</td>
+                              <td class="right col-grey">375 000</td>
+                              <td class="right">475 000</td>
+                           </tr>
+                           <tr class="bold line-over-under">
+                              <td class="right col-grey">442 827</td>
+                              <td class="right">520 042</td>
+                              <td>Sum langsiktig gjeld</td>
+                              <td></td>
+                              <td class="right col-grey">422 554</td>
+                              <td class="right">503 271</td>
+                           </tr>
+                           <tr>
+                              <td class=" col-grey">&nbsp;</td>
+                              <td></td>
+                              <td></td>
+                              <td></td>
+                              <td class=" col-grey">&nbsp;</td>
+                              <td></td>
+                           </tr>
+                           <tr>
+                              <td class=" col-grey">&nbsp;</td>
+                              <td></td>
+                              <td class="bold">KORTSIKTIG GJELD</td>
+                              <td></td>
+                              <td class=" col-grey">&nbsp;</td>
+                              <td></td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">16 229</td>
+                              <td class="right">18 867</td>
+                              <td>Leverandørgjeld</td>
+                              <td></td>
+                              <td class="right col-grey">12 719</td>
+                              <td class="right">14 007</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">0</td>
+                              <td class="right"></td>
+                              <td>Kortsiktig gjeld til konsernselskap</td>
+                              <td></td>
+                              <td class="right col-grey">27 881</td>
+                              <td class="right">29 863</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey"></td>
+                              <td class="right"></td>
+                              <td>Betalbar skatt </td>
+                              <td class="center">10</td>
+                              <td class="right col-grey"></td>
+                              <td class="right"></td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">5 160</td>
+                              <td class="right">6 598</td>
+                              <td>Skyldig offentlige avgifter</td>
+                              <td class="center"></td>
+                              <td class="right col-grey">5 002</td>
+                              <td class="right">5 493</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">28 700</td>
+                              <td class="right">40 100</td>
+                              <td>Utbytte</td>
+                              <td class="center"></td>
+                              <td class="right col-grey">28 700</td>
+                              <td class="right">40 100</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">30 728</td>
+                              <td class="right">47 030</td>
+                              <td>Annen kortsiktig gjeld </td>
+                              <td class="center">18</td>
+                              <td class="right col-grey">30 194</td>
+                              <td class="right">42 232</td>
+                           </tr>
+                           <tr class="bold line-over-under">
+                              <td class="right col-grey">80 817</td>
+                              <td class="right">112 596</td>
+                              <td>Sum kortsiktig gjeld</td>
+                              <td></td>
+                              <td class="right col-grey">104 496</td>
+                              <td class="right">131 696</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey"></td>
+                              <td class="right"></td>
+                              <td></td>
+                              <td></td>
+                              <td class="right col-grey"></td>
+                              <td class="right"></td>
+                           </tr>
+                           <tr class="bold line-over-under">
+                              <td class="right col-grey">2 210 491</td>
+                              <td class="right">2 230 162</td>
+                              <td>SUM GJELD OG EGENKAPITAL</td>
+                              <td></td>
+                              <td class="right col-grey">2 250 600</td>
+                              <td class="right">2 249 508</td>
+                           </tr>
+                        </table>
+                        <h2>Kontantstrømoppstilling</h2>
+                       	Beløp i 1000 kroner
+                        <table width="100%" border="0" cellpadding="4" class="tb">
+                           <tr>
+                                  <td colspan="2" class="bold center">Konsern</td>
+                                  <td></td>
+                                  <td colspan="3" class="bold center">Statskog SF</td>
+                               </tr>
+                           <tr class="bold center">
+                              <td class="col-grey">2011</td>
+                              <td>2010</td>
+                              <td></td>
+                              <td class="col-grey">2011</td>
+                              <td>2010</td>
+                           </tr>
+                           <tr>
+                             <td class="col-grey">&nbsp;</td>
+                              <td></td>
+                              <td></td>
+                              <td class="col-grey">&nbsp;</td>
+                              <td></td>
+                           </tr>
+                           <tr>
+                              <td class="col-grey">&nbsp;</td>
+                              <td></td>
+                              <td class="bold">Kontantstrøm fra operasjonelle aktiviteter</td>
+                              <td class="col-grey">&nbsp;</td>
+                              <td></td>
+                           </tr>
+                           <tr>
+                              <td class="col-grey">&nbsp;</td>
+                              <td></td>
+                              <td></td>
+                              <td class="col-grey">&nbsp;</td>
+                              <td></td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">142 828</td>
+                              <td class="right">34 922</td>
+                              <td>Resultat før skatt</td>
+                              <td class="right col-grey">158 705</td>
+                              <td class="right">34 922</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey"></td>
+                              <td class="right"></td>
+                              <td>Årets betalte skatter</td>
+                              <td class="right col-grey"></td>
+                              <td class="right"></td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">16 679</td>
+                              <td class="right">5 536</td>
+                              <td>Årets ordinære avskrivninger</td>
+                              <td class="right col-grey">6 339</td>
+                              <td class="right">5 536</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">-2 803</td>
+                              <td class="right"></td>
+                              <td>Gevinst/tap aksjer og andeler</td>
+                              <td class="right col-grey">-7 237</td>
+                              <td class="right"></td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">-61 523</td>
+                              <td class="right">-18 334</td>
+                              <td>Gevinst/tap salg av anleggsmidler</td>
+                              <td class="right col-grey">-54 727</td>
+                              <td class="right">-18 334</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">-7 958</td>
+                              <td class="right">-11 869</td>
+                              <td>Verdiendring markedsbaserte finansielle omløpsmidler</td>
+                              <td class="right col-grey">-7 680</td>
+                              <td class="right">-11 869</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">8 933</td>
+                              <td class="right">-1 830</td>
+                              <td>Ikke utbetalt resultatandel datter- og tilknyttede selskap</td>
+                              <td class="right col-grey">-5 106</td>
+                              <td class="right">-1 830</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">82</td>
+                              <td class="right">-2 295</td>
+                              <td>Endring i varebeholdning</td>
+                              <td class="right col-grey">26</td>
+                              <td class="right">1 621</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">#REF!</td>
+                              <td class="right">-52 607</td>
+                              <td>Endring i fordringer</td>
+                              <td class="right col-grey">#REF!</td>
+                              <td class="right">8 601</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">-49 790</td>
+                              <td class="right">43 269</td>
+                              <td>Endring i andre tidsavgrensningsposter</td>
+                              <td class="right col-grey">-17 284</td>
+                              <td class="right">17 571</td>
+                           </tr>
+                           <tr class="bold line-over-under">
+                              <td class="right col-grey">#REF!</td>
+                              <td class="right">-3 209</td>
+                              <td>Netto likviditetsendring fra virksomheten</td>
+                              <td class="right col-grey">#REF!</td>
+                              <td class="right">36 217</td>
+                           </tr>
+                           <tr>
+                              <td class="col-grey">&nbsp;</td>
+                              <td></td>
+                              <td></td>
+                              <td class="col-grey">&nbsp;</td>
+                              <td></td>
+                           </tr>
+                           <tr>
+                              <td class="col-grey">&nbsp;</td>
+                              <td></td>
+                              <td class="bold">Kontantstrøm fra investeringsaktiviteter</td>
+                              <td class="col-grey">&nbsp;</td>
+                              <td></td>
+                           </tr>
+                           <tr>
+                              <td class="col-grey">&nbsp;</td>
+                              <td></td>
+                              <td></td>
+                              <td class="col-grey">&nbsp;</td>
+                              <td></td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">-4 876</td>
+                              <td class="right">-10 233</td>
+                              <td>Investering i varige driftsmidler</td>
+                              <td class="right col-grey">-4 876</td>
+                              <td class="right">-10 233</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">65 234</td>
+                              <td class="right">18 770</td>
+                              <td>Salg av varige driftsmidler (salgssum)</td>
+                              <td class="right col-grey">55 484</td>
+                              <td class="right">18 770</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">-64 000</td>
+                              <td class="right"></td>
+                              <td>Investering i verdipapirer</td>
+                              <td class="right col-grey">-45 000</td>
+                              <td class="right"></td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">13 633</td>
+                              <td class="right">43 613</td>
+                              <td>Salg av verdipapir (salgssum)</td>
+                              <td class="right col-grey">24 018</td>
+                              <td class="right">43 613</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">-16 537</td>
+                              <td class="right">-1 710 174</td>
+                              <td>Endring i andre langsiktige investeringer</td>
+                              <td class="right col-grey">-12 314</td>
+                              <td class="right">-1 749 589</td>
+                           </tr>
+                           <tr class="bold line-over-under">
+                              <td class="right col-grey">-6 546</td>
+                              <td class="right">-1 658 024</td>
+                              <td>Netto likviditetsendring fra investeringer</td>
+                              <td class="right col-grey">17 312</td>
+                              <td class="right">-1 697 439</td>
+                           </tr>
+                           <tr>
+                              <td class="col-grey">&nbsp;</td>
+                              <td></td>
+                              <td></td>
+                              <td class="col-grey">&nbsp;</td>
+                              <td></td>
+                           </tr>
+                           <tr>
+                              <td class="col-grey">&nbsp;</td>
+                              <td></td>
+                              <td class="bold">Kontantstrøm fra finansieringsaktiviteter</td>
+                              <td class="col-grey">&nbsp;</td>
+                              <td></td>
+                           </tr>
+                           <tr>
+                              <td class="col-grey">&nbsp;</td>
+                              <td></td>
+                              <td></td>
+                              <td class="col-grey">&nbsp;</td>
+                              <td></td>
+                           </tr>
+                           <tr>
+                              <td class="col-grey">&nbsp;</td>
+                              <td></td>
+                              <td>Nedbetaling av gjeld</td>
+                              <td class="col-grey">&nbsp;</td>
+                              <td></td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey"></td>
+                              <td class="right">475 000</td>
+                              <td>Innbetaling ansvarlig lånekapital</td>
+                              <td class="right col-grey"></td>
+                              <td class="right">475 000</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey"></td>
+                              <td class="right">1 250 000</td>
+                              <td>Innbetaling av selskapskapital</td>
+                              <td class="right col-grey"></td>
+                              <td class="right">1 250 000</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">-11 300</td>
+                              <td class="right">-10 100</td>
+                              <td>Betalt utbytte</td>
+                              <td class="right col-grey">-11 300</td>
+                              <td class="right">-10 100</td>
+                           </tr>
+                           <tr class="bold line-over-under">
+                              <td class="right col-grey">-11 300</td>
+                              <td class="right">1 714 900</td>
+                              <td>Netto likviditetsendring fra finansiering</td>
+                              <td class="right col-grey">-11 300</td>
+                              <td class="right">1 714 900</td>
+                           </tr>
+                           <tr>
+                              <td class="col-grey">&nbsp;</td>
+                              <td class="right"></td>
+                              <td></td>
+                              <td class="col-grey">&nbsp;</td>
+                              <td></td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">#REF!</td>
+                              <td class="right">53 667</td>
+                              <td>Netto endring likvider i året</td>
+                              <td class="right col-grey">#REF!</td>
+                              <td class="right">53 678</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">97 129</td>
+                              <td class="right">14 233</td>
+                              <td>Likviditetsbeholdning 01.01.</td>
+                              <td class="right col-grey">67 901</td>
+                              <td class="right">14 223</td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey"></td>
+                              <td class="right">29 229</td>
+                              <td>Tilgang likvider oppkjøp</td>
+                              <td class="right col-grey"></td>
+                              <td class="right"></td>
+                           </tr>
+                           <tr>
+                              <td class="right col-grey">-8 437</td>
+                              <td class="right"></td>
+                              <td>Avgang likvider endring i prinsipp for konsolidering</td>
+                              <td class="right col-grey"></td>
+                              <td class="right"></td>
+                           </tr>
+                           <tr class="bold line-over-under">
+                              <td class="right col-grey">#REF!</td>
+                              <td class="right">97 129</td>
+                              <td>Likviditetsbeholdning 31.12.</td>
+                              <td class="right col-grey">#REF!</td>
+                              <td class="right">67 901</td>
+                           </tr>
+                        </table>
                         </div>
                     </div>
                 </div>
-                <div id="right-container" style="float: right;">
-                    <div class="content-box-right">
-                        &nbsp;
-                    </div>
-                </div>
+                
                 <div style="clear: both;"></div>
             </div>
             <?php include_once("footer.php"); ?>
