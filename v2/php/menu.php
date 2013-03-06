@@ -1,22 +1,21 @@
 <?php
-    // $str = $_SERVER['SCRIPT_NAME'];
-    //basename $(dirname $str);
-
-    $url = explode("/", $_SERVER['PHP_SELF']);
-    
-    $prefix = "php/";
-
-    //switch for production
+    $url = explode("/", $_SERVER['PHP_SELF']);    
+    $myurl = explode(".", $_SERVER['SERVER_NAME']);
     $nr = 3;
-
-    if ($url[3] == "php") {
+    $prefix = "php/";
+    if ($myurl[0] == 'testserver') {
+        $nr = 3;
+    } else {
+        $nr = 4;
+    }
+    if ($url[$nr] == "php") {
         $prefix = "";
     }
-
-    //var_dump($url);
-    
 ?>
 <ul id="main-menu" class="main-menu">
+    <!-- <li>
+        <a href="../index.php">Forsiden</a>
+    </li> -->
     <li>
         <a href="#" class="">Om Statskog<span class="down"></span></a>
         <div class="menu-arrow"></div>
@@ -37,12 +36,13 @@
         <a href="#" class="">Arealene i kart<span class="down"></span></a>
         <div class="sub-menu">
             <div class="sub">
-                <div><a href="<?php echo $prefix; ?>oversikt-over-vernede-omraader.php">Statskogs eindommer</a></div>
-                <div><a href="<?php echo $prefix; ?>produkter-skog.php">Produkter skog</a></div>
+                <!-- <div><a href="<?php echo $prefix; ?>oversikt-over-vernede-omraader.php">Statskogs eindommer</a></div> -->
+                <div><a href="<?php echo $prefix; ?>oversikt-over-vernede-omraader.php">Oversikt over vernede områder</a></div>
+                <div><a href="<?php echo $prefix; ?>produktiv-skog.php">Produktiv skog</a></div>
                 <div><a href="<?php echo $prefix; ?>skogsbilveier.php">Skogsbilveier</a></div>
-                <div><a href="<?php echo $prefix; ?>solgte-arealer.php">Solgte arealer</a></div>
-                <div><a href="<?php echo $prefix; ?>solgte-arealer.php">Reindriftsområder</a></div>
-                <div><a href="<?php echo $prefix; ?>solgte-arealer.php">Vernede områder</a></div>
+                <div><a href="<?php echo $prefix; ?>solgte-arealer.php">Solgte arealer i 2011 og 2012</a></div>
+                <!-- <div><a href="<?php echo $prefix; ?>reindriftsomrader.php">Reindriftsområder</a></div> -->
+                
                 <!-- <div><a href="<?php echo $prefix; ?>energiprosjekter.php">Energiprosjekter</a></div> -->
                 <!-- <div><a href="<?php echo $prefix; ?>arealinndeling-storviltjakt.php">Arealinndeling storviltjakt</a></div> -->
             </div>

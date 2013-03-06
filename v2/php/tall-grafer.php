@@ -47,7 +47,7 @@
                  <div id="left-container" style="float: left;">
                     <div class="content-box">
                         <div class="inner-box-front">
-                            <h3>Tall og grafer</h3>
+                            <h3>Nøkkelall og grafer</h3>
                         </div>
                     </div>
                 </div>
