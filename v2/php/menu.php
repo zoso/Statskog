@@ -26,7 +26,7 @@
                 <div><a href="<?php echo $prefix; ?>sentrale-mal-strategier.php">Sentrale mål og strategier</a></div>
                 <div><a href="<?php echo $prefix; ?>samfunnsansvar.php">Samfunnsansvar</a></div>
                 <div><a href="<?php echo $prefix; ?>kjerneomraader.php">Aktiviteter innenfor kjerneområdene</a></div>
-                <div><a href="<?php echo $prefix; ?>regioner.php">Regioner</a></div>
+                <!--<div><a href="<?php echo $prefix; ?>regioner.php">Regioner</a></div>-->
                 <div><a href="<?php echo $prefix; ?>fjelltjenesten.php">Fjelltjenesten</a></div>
                 <div><a href="<?php echo $prefix; ?>styring-ledelse.php">Styring og ledelse</a></div>
                 <div><a href="<?php echo $prefix; ?>hoydepunkter-2012.php">Viktige hendelser i 2012</a></div>
@@ -41,7 +41,7 @@
                 <div><a href="<?php echo $prefix; ?>produkter-skog.php">Produkter skog</a></div>
                 <div><a href="<?php echo $prefix; ?>skogsbilveier.php">Skogsbilveier</a></div>
                 <div><a href="<?php echo $prefix; ?>solgte-arealer.php">Solgte arealer</a></div>
-                <div><a href="<?php echo $prefix; ?>solgte-arealer.php">Reindriftsoråder</a></div>
+                <div><a href="<?php echo $prefix; ?>solgte-arealer.php">Reindriftsområder</a></div>
                 <div><a href="<?php echo $prefix; ?>solgte-arealer.php">Vernede områder</a></div>
                 <!-- <div><a href="<?php echo $prefix; ?>energiprosjekter.php">Energiprosjekter</a></div> -->
                 <!-- <div><a href="<?php echo $prefix; ?>arealinndeling-storviltjakt.php">Arealinndeling storviltjakt</a></div> -->

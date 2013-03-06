@@ -67,26 +67,27 @@
                             <a href="php/solgte-eiendommer-2012.php"><img src="img/Graf03.png" /></a>
                         </div>
                         <div class="content-box-front">
-                            <img style="border-radius: 5px;" src="img/front-overrasker.jpg" width="310" />
+                            <img style="border-radius: 5px;" src="img/front-overrasker2.jpg" width="310" />
                             <div class="inner-box-front">
                                 <a class="front" href="php/vekker-oppsikt.php">Statskog vekker oppsikt</a>
                             </div>
                         </div>
                     </div>
                     <div style="float: left; width: 313px;">
+                        <div class="content-box-front" style="text-align: center;">
+                            <img src="img/statskog-1-2-3.jpg" />
+                            <a href="php/film-statskogs-utleiehytter.php"><img src="img/front_eiendom2.jpg" /></a><br>
+                            <a href="#"><img src="img/front_energi2.jpg" /></a><br>
+                            <a href="php/film-statskogs-skogbruk.php"><img src="img/front_skog2.jpg" /></a><br>
+                            <a href="php/film-toppjakt.php"><img src="img/front_friluftsliv2.jpg" /></a>
+                        </div>
                         <div class="content-box-front">
                             <img style="border-radius: 5px;" src="img/fiskevann.png" width="310" />
                             <div class="inner-box-front">
                                 <a class="front" href="php/fulle-fiskevann-venter.php">Fulle fiskevann venter</a>
                             </div>
                         </div>
-                        <div class="content-box-front" style="text-align: center;">
-                            <img src="img/statskog-1-2-3.jpg" />
-                            <a href="php/film-statskogs-utleiehytter.php"><img src="img/front_eiendom2.jpg" /></a><br>
-                            <!-- <img src="img/front_energi.jpg" /> -->
-                            <a href="php/film-statskogs-skogbruk.php"><img src="img/front_skog2.jpg" /></a><br>
-                            <a href="php/film-toppjakt.php"><img src="img/front_friluftsliv2.jpg" /></a>
-                        </div>
+                        
 
                     </div>
                 </div>

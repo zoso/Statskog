@@ -35,3 +35,10 @@ ul.main-menu li:hover{background-color:#fefefe;-webkit-box-shadow:0 2px 3px rgba
 .line-under{border-bottom:1px #000 solid;}
 .line-over{border-top:1px #000 solid;}
 .line-over-under{border-bottom:1px #000 solid;border-top:1px #000 solid;}
+.line-right{border-right:1px #000 solid;}
+.bold{font-weight:bold;}
+.center{text-align:center;}
+.right{text-align:right;}
+.left{text-align:left;}
+.col-grey{background-color:#eee;}
+.tb{font-size:11px;}

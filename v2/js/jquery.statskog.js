@@ -16,7 +16,7 @@ $(document).ready(function() {
             $(this).hide()
         }); 
     }).on("click", function(e) {
-       // l("> klikk > "+$(this).parent().children().length);
+        // l("> klikk > "+$(this).parent().children().length);
         if ($(this).children().length == 1) {
             //l("> no sub");
         }
@@ -26,6 +26,4 @@ $(document).ready(function() {
     function l(str, type) {
         //log.append("> "+str+"<br>");
     }
-
-    //l("ready");
 });

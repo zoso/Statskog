@@ -57,7 +57,7 @@
                         <p>Statskog har hatt tilfredsstillende lønnsomhet i skogbruket, og styret er av den oppfatning at med en robust driftsmodell og lave driftskostnader, så vil skogbruket fortsatt være lønnsomt fremover.</p>
                         <p>Den systematiske satsingen på utvikling av foretakets kraftressurser har begynt å gi resultater. Det er så langt gitt konsesjon på tre prosjekter som utnytter foretakets fallressurser, og et av prosjektene, Muoidejohka Kraft AS, vil starte kraftproduksjon i 2013. Dette kraftverket ligger i Beiarn kommune og eies av Statskog Energi AS sammen med Småkraft AS. Foretaket forventer flere konsesjoner i tiden som kommer. Ni prosjekter er under behandling hos NVE og 32 prosjekter ligger i kø hos NVE. De fleste prosjektene er småkraftprosjekter.</p>
                         <p>De største risikofaktorene som vil kunne påvirke Statskogs lønnsomhet i årene fremover er etterspørsel og priser på tømmer, og kraftprisene som påvirker foretakets inntekter fra utnyttelse av vann- og vindressurser.</p>
-                        <b>Redegjørelse for årsregnskapet</b><br>
+                        <b>Redegjørelse for årsregnskapet</b><br><br>
                         <i>Resultatregnskapet</i>
                         <p>Konsernet Statskog hadde en brutto omsetning på 450 millioner kroner i 2012, og et driftsresultat på 160  millioner kroner. (Beløp må korrigeres)Morselskapet Statskog SF hadde en brutto omsetning på 400 millioner kroner. Konsernets brutto omsetning var 2 300 millioner kroner per 31.12.2012. Egenkapitalen utgjorde 1650 millioner kroner. (Beløp må korrigeres)</p>
                         <p>Resultatet er preget av sunn økonomi i den løpende driften, i tillegg til vesentlige engangsinntekter fra salg av spredte skogteiger og skogvernerstatninger. Etter oppkjøpet av skogselskaper fra Orkla-konsernet i 2010, har Statskog iverksatt et omfattende salg av spredte skogteiger i hele landet. Dette vil gi selskapet betydelige inntekter i flere år.</p>
@@ -68,36 +68,53 @@
                         <i>Kontantstrøm</i><br>
                         <p>Den løpende driften i Statskog gir en god positiv kontantstrøm. 
                         I 2012 har selskapet hatt store engangsinnbetalinger knyttet til salg av spredte skogteiger og skogvernerstatninger. Foretaket har benyttet disse ekstrainntektene til å redusere selskapets langsiktige gjeldsbelastning med 100 millioner kroner. Foretakets likviditet er således ikke vesentlig endret i løpet av 2012.</p>
-                        HER<p><i>Balanse</i><br>
-                        Statskogs balanse er preget av høy egenkapitalandel, liten kortsiktig gjeld og god likviditet.
-                        (Kommentere noen nøkkeltall når de er klare.)</p>
-                        <i>Finansiell risiko og risikostyring</i><br>
-                        Foretakets finansielle risiko økte i 2010 gjennom opptak av 475 millioner kroner i ansvarlig lån fra eieren. Denne risikoen er redusert gjennom gjeldsreduksjon på 100 millioner kroner i løpet av 2012. 
-                        Statskog hadde en finansportefølje på om lag 230 millioner kroner pr. 31.12.2012. Finansporteføljen forvaltes under et regime med lav risiko.
-                        <i>Arbeidsmiljø og personal</i>
+                        <i>Balanse</i>
+                        <p>Statskogs balanse er preget av høy egenkapitalandel, liten kortsiktig gjeld og god likviditet.</p>
+                        <b>Fortsatt drift</b>
+                        <p>Årsregnskapet er avlagt under forutsetning om fortsatt drift jfr. Regnskapslovens § 3-3. Det bekreftes at disse forutsetningene er til stede. Styret legger til grunn forutsetning for fortsatt drift ved avleggelsen av regnskapet.</p>
+                        <b>Eierstyring og selskapsledelse – styrets arbeid</b>
+                        <p>Styrets arbeid er basert på Statskogs prinsipper for god eierstyring og selskapsledelse. Prinsippene gir retningslinjer som klargjør rolledelingen mellom eier, styret og ledelsen i Statskog SF. Statskogs prinsipper for eierstyring og selskapsledelse bygger på Norsk anbefaling for eierstyring og selskapsledelse, men avviker der hvor særlige bestemmelser i statsforetaksloven eller Statskogs vedtekter stiller andre krav til foretaket. Gjeldende prinsipper for eierstyring og virksomhetsledelse finnes på foretakets hjemmesider <a href="http://www.statskog.no">www.statskog.no</a>.</p>
+                        <p>Styret gjennomførte sju styremøter i 2012, hvorav en telefonkonferanse.</p>
+                        <b>Retningslinjer for fastsettelse av lønn og annen godtgjørelse til ledende ansatte</b>
+                        <p>Styret i Statskog SF mener de ansatte er foretakets viktigste ressurs, og er opptatt av å tilby konkurransedyktige vilkår slik at foretaket tiltrekker seg og beholder dyktige medarbeidere. Lederlønningene skal være konkurransedyktige, men foretaket skal ikke være lønnsledende.
+                        Styret erklærer at lederlønnspolitikken og retningslinjene for lederlønnsfastsettelse som foretaksmøtet vedtok 15. juni 2012, er blitt etterlevd i 2012 innenfor de rammene retningslinjene gir. Det vises til note 3 i årsregnskapet for ytterligere informasjon.</p>
+                        <b>Arbeidsmiljø og personal</b>
                         <p>Statskog er en inkluderende arbeidslivsbedrift. Arbeidet med helse, miljø og sikkerhet drives i samsvar med lover og forskrifter. Det foreligger et overordnet internkontrollsystem for virksomheten samlet, og for de enkelte deler av driften, hvor ansvarsforhold og rutiner er beskrevet. Foretaket avgir en årlig HMS-rapport med faste sjekkpunkter på om arbeidet drives som foreskrevet og etter de målsettingene som er satt.</p>
                         <p>I 2012 har foretaket arbeidet med gjennomgang og revidering av eksisterende internkontrollsystem med fokus på dokumentasjon og system for melding og håndtering av avvik. Et nytt verktøy vil bli tatt i bruk i 2013. Det er gjennomført risikovurderinger tilknyttet alenearbeid og identifisert tiltak i forhold til kartlagt risiko.</p>
                         <p>Gjennomsnittsalder ved utgangen av 2012 var 48,6 år (47,9 år ved forrige årsskifte). Turnover blant fast ansatte er på 2,36 prosent. Statskog hadde ved årsskiftet 137 ansatte, hvorav ti i midlertidige stillinger. Det innebærer en oppgang på to ansatte fra forrige årsskifte.  Fem kvinner og tretten menn hadde redusert arbeidstid i 2012. De vanligste grunnene til redusert arbeidstid er omsorg for barn/familie, delpensjon og sesongsvingninger.</p>
-                        <p>Statskog foretok sju tilsettinger i 2012, hvorav fem i fast stilling.
-                        Statskog reviderte i 2012 egne seniorpolitiske retningslinjer med sikte på tilpasning til pensjonsreformen og øvrige endringer i arbeidslivet. Nye rammer og retningslinjer er utarbeidet og gjort gjeldende fra 1. januar 2013.</p>
-                        <p>Alle medarbeidere skal ha like muligheter til videreutvikling, og alle skal ha en individuell kompetanseutviklingsplan. Foretaket gjennomfører årlige utviklingssamtaler, som også omfatter spørsmål om samarbeid og arbeidsmiljø. Revidering av metodikk og verktøy for gjennomføring av utviklingssamtalen ble startet opp i 2012 med sikte på tilpassing til Statskogs strategi for perioden 2011-2015. Nye rammer og verktøy blir tatt i bruk i 2013.</p>
-                        <p>Statskog startet i 2012 opp et eget lederutviklingsprogram for samtlige ledere i Statskog. Ett av formålene med programmet er å styrke kompetanse og ferdigheter i mål- og resultatoppfølging både på individ- og organisasjonsnivå.</p>
-                        <p>Totalt ble det utført 1 312 overtidstimer i 2012, og 1 105 ubekvemstimer. Kompensert overtid benyttes hovedsakelig i administrative stillinger, mens kompensert ubekvemstid hovedsakelig benyttes ved arbeid i felt. Sykefraværet for 2012 var 3,1 prosent. Dette er 1,2 prosent lavere enn året før. Sykefraværet for kvinner var 5,2 prosent og for menn 2,0 prosent. Det er registrert en arbeidsulykke som har medført sykefravær.</p>
-                        <p><b>Likestilling</b><br>
-                        I 2012 var 35 % av de som jobber i Statskog kvinner (48 av 137)</p>
-                        <p><b>Diskriminering</b><br>
-                        Statskog er medlem i nettverk om mangfold for heleide statlige virksomheter, og rapporterer årlig til Integrerings- og mangfoldsdirektoratet (IMDI).</p>
-                        <p>I hver stillingsutlysning oppfordrer vi særskilt personer med innvandrerbakgrunn og personer med nedsatt funksjonsevne til å søke. Samtlige av disse som er kvalifisert til stillingen blir innkalt til intervju. I 2012 førte det til ansettelse av en person med opprinnelse fra Hviterussland.</p>
-                        <p><b>Ytre miljø</b><br>
-                        Statskog påvirker lokalt det ytre miljøet der vi drifter skogen. Vi drifter imidlertid med et 100-års perspektiv og i henhold til ISO 14001 og Norsk PEFC-standard, og tenker langsiktig lønnsomhet basert på bærekraftig utnyttelse av ressursene på fellesskapets grunn.</p>
+                        <p>Statskog foretok sju tilsettinger i 2012, hvorav fem i fast stilling.</p>
+                        <p>Statskog reviderte i 2012 egne seniorpolitiske retningslinjer med sikte på tilpasning til pensjonsreformen og øvrige endringer i arbeidslivet. Nye rammer og retningslinjer er utarbeidet og gjort gjeldende fra 1. januar 2013.</p>
+                        <b>Bedriftskultur og ledelse</b>
+                        <p>Foretaket utarbeidet i 2012 en plan for kulturimplementering, og gjennomførte i den forbindelse en prestasjonsdriveranalyse som har gitt kunnskap om styrker og svakheter i organisasjonen. Som et ledd i arbeidet med bedriftskultur  ble det i 2012 igangsatt et lederutviklingsprogram for samtlige ledere i Statskog, der ett av formålene med programmet er å styrke kompetanse og ferdigheter i strategisk arbeid, herunder mål- og resultatoppfølging både på individ- og organisasjonsnivå. Videre er metodikk og verktøy for gjennomføring av utviklingssamtalen revidert med sikte på tilpasning til Statskogs strategi og fremtid,  nye rammer og verktøy blir tatt i bruk i 2013. Leder og medarbeider skal sammen definere utviklingsmål, og alle skal ha en individuell kompetanseutviklingsplan. Gjennom disse tiltakene prioriterer Statskog å utvikle lederskap og medarbeiderskap.</p>
+                        <p>Sykefraværet for 2012 var 3,1 prosent. Dette er 1,2 prosent lavere enn året før. Sykefraværet for kvinner var 5,2 prosent og for menn 2,0 prosent. Det er registrert en arbeidsulykke som har medført sykefravær.</p>
+                        <b>Likestilling og diskriminering</b>
+                        <p>Statskogs rekrutteringspolitikk vektlegger god kjønns- og aldersfordeling blant medarbeiderne. Ved utlysning av stillinger oppfordres kvalifiserte kandidater til å søke uansett alder, kjønn, funksjonshemming eller kulturell bakgrunn. Denne oppfordringen skal også gjenspeiles ved utvelgelse av aktuelle kandidater.</p>
+                        <p>Lønns- og arbeidsvilkår i Statskog skal ikke favorisere kjønn, og Statskogs lønnspolitikk har kjønnsnøytrale kriterier for lønnsfastsettelse. I sammenliknbare stillinger i Statskog har kvinner og menn lik lønn. I 2012 var 35 prosent av de som jobber i Statskog kvinner (48 av 137). Ledergruppen består av ni menn og tre kvinner. På mellomledernivå er kvinneandelen 25 prosent.  Statskog vil fortsette innsatsen for å rekruttere flere kvinner til høyere fagstillinger og lederstillinger.</p>
+                        <p>Statskog er medlem i nettverk om mangfold for heleide statlige virksomheter, og rapporterer årlig til Integrerings- og mangfoldsdirektoratet (IMDI). Samtlige personer med innvandringsbakgrunn og personer med nedsatt fuinksjonsevne som er kvalifisert til stillingen blir innkalt til intervju i forbindelse med stillingsutlysninger. I 2012 førte det til ansettelse av en person med utenlandsk opprinnelse</p>
+                        <b>Ytre miljø</b>
+                        <p>Statskog påvirker lokalt det ytre miljøet der vi driver skogen. Vi driver i henhold til ISO 14001 og Norsk PEFC-standard, og tenker langsiktig lønnsomhet basert på bærekraftig utnyttelse av ressursene på fellesskapets grunn.</p>
                         <p>Enhver energiproduksjon, selv om det handler om småkraftproduksjon av ren, fornybar energi, medfører lokal påvirkning av det ytre miljøet. Statskog søker imidlertid å påvirke miljøet minst mulig ved oppsettelse av et hvert anlegg vi er hel- eller deleier i.</p>
-                        <p>I forbindelse med oppsyn i fjellet, bruker Statskog Fjelltjenesten en del snøskuter. rskl. 3-3a
-                        NRS 16</p>
-                        <p><b>Årsberetning</b><br>
-                        pkt 2.10</p>
-                        <p><b>Eierstyring og virksomhetsledelse</b><br>
-                        Statskogs prinsipper for god eierstyring og selskapsledelse gir retningslinjer som klargjør rolledelingen mellom eier, styret og ledelsen i Statskog SF. Statskogs prinsipper for eierstyring og selskapsledelse bygger på Norsk anbefaling for eierstyring og selskapsledelse, men avviker der hvor særlige bestemmelser i statsforetaksloven eller Statskogs vedtekter stiller andre krav til foretaket. Gjeldende prinsipper for eierstyring og virksomhetsledelse finnes på foretakets hjemmesider <a href="http://www.statskog.no">www.statskog.no</a>
-                        </p>
+                        <p>I forbindelse med oppsyn i fjellet, bruker Statskog Fjelltjenesten en del snøskuter.</p>
+                        <b>Resultatdisponering</b>
+                        <p>Styret foreslår ovenfor foretakemøtet følgende disponering av årets resultat for Statskog SF:</p>
+                        <table width="100%" border="0" cellpadding="4">
+                            <tr class="line-over-under" style="font-weight: bold;">
+                                <td>Tall i 1000 kroner</td>
+                                <td>&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td>Utbytte</td>
+                                <td align="right">30 000</td>
+                            </tr>
+                            <tr>
+                                <td>Annen egenkapital</td>
+                                <td align="right">60 000</td>
+                            </tr>
+                            <tr class="line-over-under" style="font-weight: bold;">
+                                <td>Total disponert</td>
+                                <td align="right">90 000</td>
+                            </tr>
+                        </table>
                     </div>
                         </div>    
                     </div>
