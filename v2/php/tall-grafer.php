@@ -45,27 +45,27 @@
             <div style="clear: both;"></div>
             <div id="content-container">
                  <div id="left-container" style="float: left;">
-                    <div class="content-box" style="width: 960px;">
+                    <div class="content-box">
                         <div class="inner-box-front">
                             <h2>Hovedtall - Statskog - 5 års sammendrag</h2>
                             <table width="100%" border="0" cellpadding="4" class="tb">
                                <tr class="bold">
-                                  <td width="40%"></td>
-                                  <td width="10%"></td>
-                                  <td width="10%" class="right">Konsern</td>
-                                  <td width="10%" class="right">Konsern*</td>
-                                  <td width="10%" class="right">Statskog SF</td>
-                                  <td width="10%" class="right">Statskog SF</td>
-                                  <td width="10%" class="right">Statskog SF</td>
+                                  <td width="24%"></td>
+                                  <td width="13%"></td>
+                                  <td width="15%" valign="bottom" class="right">Konsern</td>
+                                  <td width="12%" valign="bottom" class="right">Konsern*</td>
+                                  <td width="12%" valign="bottom" class="right">Statskog SF</td>
+                                  <td width="12%" valign="bottom" class="right">Statskog SF</td>
+                                  <td width="12%" valign="bottom" class="right">Statskog SF</td>
                                </tr>
                                <tr class="line-under">
                                  <td>Tall i 1000 kr.</td>
                                  <td></td>
-                                  <td class="right">2012</td>
-                                  <td class="right">2011</td>
-                                  <td class="right">2010</td>
-                                  <td class="right">2009</td>
-                                  <td class="right">2008</td>
+                                  <td class="right bold">2012</td>
+                                  <td class="right bold">2011</td>
+                                  <td class="right bold">2010</td>
+                                  <td class="right bold">2009</td>
+                                  <td class="right bold">2008</td>
                               </tr>
                                <tr>
                                   <td>Driftsinntekter</td>
@@ -240,7 +240,17 @@
                         </div>
                     </div>
                 </div>
-               
+               <div id="right-container" style="float: right;">
+                    <div class="content-box-right">
+                        &nbsp;
+                        <div class="inner-box-front">
+                        	<img src="../img/egenkapitalandel.png" />
+                            <img src="../img/totalkapitalrentabilitet.png" />
+                            <img src="../img/egenkapitalrentabilitet.png" />
+                            <p>&nbsp;</p>
+                        </div>
+                    </div>
+                </div>
                 <div style="clear: both;"></div>
             </div>
             <?php include_once("footer.php"); ?>

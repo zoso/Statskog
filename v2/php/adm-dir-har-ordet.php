@@ -71,9 +71,10 @@
                     </div>
                 <div style="clear: both;"></div>
             </div>
-            
+            <?php include_once("footer.php"); ?>
         </div><!-- wrapper end -->
-        <?php include_once("footer.php"); ?>
+        
+        
     </body>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="../js/jquery.statskog.js"></script>

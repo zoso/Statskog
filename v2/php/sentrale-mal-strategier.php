@@ -77,7 +77,7 @@
                         &nbsp;
                         <div class="inner-box-front">
                             <img src="../img/adm-dir-maal.jpg" />
-                            <p>&nbsp;</p>
+                            <p><a class="front" href="adm-dir-har-ordet.php">Administrerende direktør</a></p>
                         </div>
                     </div>
                 </div>
