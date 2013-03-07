@@ -65,8 +65,9 @@
                     </div>
                 </div>
                 <div id="right-container" style="float: right;">
+                    <img class="image-rounded-shadow" src="../img/historisk-tre.jpg" width="310" />
                     <div class="content-box-right">
-                        &nbsp;
+                        
                     </div>
                 </div>
                 <div style="clear: both;"></div>

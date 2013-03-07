@@ -53,7 +53,7 @@
                     </div>
                     <div class="content-box">
                         <div class="inner-box-front">
-                            <iframe width="610" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.arcgis.com/home/webmap/templates/OnePane/basicviewer/embed.html?webmap=638097407b8e4247a32b9d782e2c8a01&amp;gcsextent=10.4175,64.1282,12.8438,64.679&amp;displayslider=true&amp;displaylegend=true&amp;displaylayerlist=true&amp;theme=grey"></iframe>
+                            <iframe width="610" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://statskog.maps.arcgis.com/home/webmap/embedViewer.html?webmap=99118e9a20794b5484e23c38efd7ea22&amp;extent=-8.1728,58.2214,39.6276,69.8776"></iframe>
                         </div>
                     </div>
                 </div>

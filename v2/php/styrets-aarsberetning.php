@@ -121,11 +121,97 @@
                     
                     <div id="right-container" style="float: right;">
                         <div class="content-box-right">
-                            <div style="padding: 10px; font-weight: bold;">Styret:</div>
-                            <div style="margin-bottom: 5px;">
-                                <img src="../img/persons/styre_mann_2.jpg" />
-                                <br>Styreleder: Harald Ellefsen
+                            <div class="inner-box-front">
+                                <div style="width: 260px; height: 160px;">
+                                    <div style="float: left; width: 130px;">
+                                        <img src="../img/persons/styre_mann_2.jpg" />
+                                    </div>
+                                    <div class="info-img">
+                                        <div>Harald</div>
+                                        <div>Ellefsen</div>
+                                        <div style="font-style: italic; color: #54ad13;">Styreleder</div>
+                                        <div style="border-bottom: 2px solid #000">&nbsp;</div>
+                                    </div>
+                                </div>
+                                <div style="width: 260px; height: 160px;">
+                                    <div style="float: left; width: 130px;">
+                                        <img src="../img/persons/styre_dame_2.jpg" />
+                                    </div>
+                                    <div class="info-img">
+                                        <div>Eli</div>
+                                        <div>Reistad</div>
+                                        <div>Nestleder</div>
+                                        <div style="border-bottom: 2px solid #000">&nbsp;</div>
+                                    </div>
+                                </div>
+                                <div style="width: 260px; height: 160px;">
+                                    <div style="float: left; width: 130px;">
+                                        <img src="../img/persons/styre_mann_1.jpg" />
+                                    </div>
+                                    <div class="info-img">
+                                        <div>Tom</div>
+                                        <div>Lifjell</div>
+                                        <div>Styremedlem</div>
+                                        <div style="border-bottom: 2px solid #000">&nbsp;</div>
+                                    </div>
+                                </div>
+                                <div style="width: 260px; height: 160px;">
+                                    <div style="float: left; width: 130px;">
+                                        <img src="../img/persons/styremedlem_kari-okland.jpg" />
+                                    </div>
+                                    <div class="info-img">
+                                        <div>Kari</div>
+                                        <div>Økland</div>
+                                        <div>Styremedlem</div>
+                                        <div style="border-bottom: 2px solid #000">&nbsp;</div>
+                                    </div>
+                                </div>
+                                <div style="width: 260px; height: 160px;">
+                                    <div style="float: left; width: 130px;">
+                                        <img src="../img/persons/styre_mann_5.jpg" />
+                                    </div>
+                                    <div class="info-img">
+                                        <div>Gunnar</div>
+                                        <div>Olofsson</div>
+                                        <div>Styremedlem</div>
+                                        <div style="border-bottom: 2px solid #000">&nbsp;</div>
+                                    </div>
+                                </div>
+                                <div style="width: 260px; height: 160px;">
+                                    <div style="float: left; width: 130px;">
+                                        <img src="../img/persons/styre_dame_1.jpg" />
+                                    </div>
+                                    <div class="info-img">
+                                        <div>Siw Anita</div>
+                                        <div>Kvam</div>
+                                        <div>Styremedlem</div>
+                                        <div style="border-bottom: 2px solid #000">&nbsp;</div>
+                                    </div>
+                                </div>
+                                <div style="width: 260px; height: 160px;">
+                                    <div style="float: left; width: 130px;">
+                                        <img src="../img/persons/styre_mann_4.jpg" />
+                                    </div>
+                                    <div class="info-img">
+                                        <div>Geir</div>
+                                        <div>Hovland</div>
+                                        <div>Styremedlem</div>
+                                        <div style="border-bottom: 2px solid #000">&nbsp;</div>
+                                    </div>
+                                </div>
+                                <p style="height: 100px;">&nbsp;</p>
                             </div>
+                            <!-- <div style="padding: 10px; font-weight: bold;">Styret:</div> -->
+                            <!-- <div style="margin-bottom: 5px; width: 260px; height: 400px">
+                                <div style="float: left; width: 120px; height: 150px;">
+                                    <img src="../img/persons/styre_mann_2.jpg" />
+                                </div>
+                                <div style="float: left; width: 120px;">
+                                    Harald<br>Ellefsen<br>Styreleder
+                                </div>
+                            </div>
+
+
                             <div style="margin-bottom: 5px;">
                                 <img src="../img/persons/styre_dame_2.jpg" />
                                 <br>Nestleder: Eli Reistad
@@ -149,7 +235,7 @@
                             <div style="padding-bottom: 5px;">
                                 <img src="../img/persons/styre_mann_4.jpg" />
                                 <br>Styremedlem: Geir Hovland (ansatterepresentant)
-                            </div>
+                            </div> -->
                       </div> 
                		</div>
                 <div style="clear: both;"</div>

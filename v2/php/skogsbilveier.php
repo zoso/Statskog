@@ -55,7 +55,7 @@
                     </div>
                     <div class="content-box">
                         <div class="inner-box-front">
-                            <iframe width="610" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.arcgis.com/home/webmap/templates/OnePane/basicviewer/embed.html?webmap=638097407b8e4247a32b9d782e2c8a01&amp;gcsextent=10.4175,64.1282,12.8438,64.679&amp;displayslider=true&amp;displaylegend=true&amp;displaylayerlist=true&amp;theme=grey"></iframe>
+                            <iframe width="610" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://statskog.maps.arcgis.com/home/webmap/embedViewer.html?webmap=b99eb4c44f454758ba07be4dfcbc5cc6&amp;extent=-7.0798,58.87,42.5061,70.7765"></iframe>
                         </div>
                     </div>
                 </div>

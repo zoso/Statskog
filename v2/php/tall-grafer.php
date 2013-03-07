@@ -239,6 +239,46 @@
                         </table>
                         </div>
                     </div>
+                   <div class="content-box">
+                    	<div class="inner-box-front">
+                        	<h2>Sykefravær</h2>
+                    		<table width="100%" border="0" cellpadding="4" class="tb">
+                               <tr class="bold line-over-under">
+                                  <td width="17%">År</td>
+                                  <td width="15%">2012</td>
+                                  <td width="17%">2011</td>
+                                  <td width="17%">2010</td>
+                                  <td width="17%">2009</td>
+                                  <td width="17%">2008</td>
+                               </tr>
+                               
+                               <tr>
+                                  <td>Kvinner</td>
+                                  <td>5,2%</td>
+                                  <td>8,1%</td>
+                                  <td>3,0%</td>
+                                  <td>2,4%</td>
+                                  <td>Ikke spesifisert</td>
+                               </tr>
+                               <tr>
+                                  <td>Menn</td>
+                                  <td>2,0%</td>
+                                  <td>2,3%</td>
+                                  <td>3,1%</td>
+                                  <td>4%</td>
+                                  <td>Ikke spesifisert</td>
+                               </tr>
+                               <tr>
+                                  <td>Alle</td>
+                                  <td>3,1%</td>
+                                  <td>4,3%</td>
+                                  <td>3,1%</td>
+                                  <td>3,4%</td>
+                                  <td>4%</td>
+                               </tr>
+                            </table>
+                       </div>
+                   </div>
                 </div>
                <div id="right-container" style="float: right;">
                     <div class="content-box-right">

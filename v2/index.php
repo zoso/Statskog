@@ -12,21 +12,24 @@
 
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
         
-        <link rel="stylesheet" href="css/styled.css?v=1">
+        <link rel="stylesheet" href="css/styled.css?v=3">
         <link rel="stylesheet" href="css/normalize.css">
+        
         <!-- <script src="js/vendor/modernizr-2.6.2.min.js"></script> -->
     </head>
     <body>
         <div id="log"></div>
         <div id="top">
             <?php 
-                include_once("php/logo.php") 
+                include_once("php/logo.php");
             ?>
             <div class="top-container">
                 <div class="top-txt">
-                    <?php 
-                        include_once("php/top-txt.php") 
-                    ?>
+                    <h1>Årsrapport 2012</h1>
+                    2012 ble nok et godt år for Statskog.
+                    Den <br>underliggende driften var solid.<br>
+                    I tillegg fikk foretaket store engangsinntekter<br>
+                    gjennom salg av eiendom og vern av områder.
                 </div>
             </div>
             <div class="top-bg"></div>
@@ -42,7 +45,7 @@
                 <div id="left-container">
                     <div style="float: left; width: 313px; margin-right: 10px;">
                         <div class="content-box-front">
-                            <img style="border-radius: 5px;" src="img/tmp_pic.jpg" width="310" />
+                            <img class="image-rounded" src="img/tmp_pic.jpg" width="310" />
                             <div class="inner-box-front">
                                 <a class="front" href="php/rev-enn-rype.php">Skyt heller rev enn rype</a>
                             </div>
@@ -54,7 +57,7 @@
                             </div>
                         </div>
                         <div class="content-box-front">
-                            <img style="border-radius: 5px;" src="img/front-app.jpg" />
+                            <img class="image-rounded" src="img/front-app.jpg" />
                             <div class="inner-box-front">
                                 <a class="front" href="php/ny-tur-app.php">Ny tur app!</a>
                             </div>
@@ -67,7 +70,7 @@
                             <a href="php/solgte-eiendommer-2012.php"><img src="img/Graf03.png" /></a>
                         </div>
                         <div class="content-box-front">
-                            <img style="border-radius: 5px;" src="img/front-overrasker2.jpg" width="310" />
+                            <img class="image-rounded" src="img/front-overrasker2.jpg" width="310" />
                             <div class="inner-box-front">
                                 <a class="front" href="php/vekker-oppsikt.php">Statskog vekker oppsikt</a>
                             </div>
@@ -82,13 +85,51 @@
                             <a href="php/film-toppjakt.php"><img src="img/front_friluftsliv2.jpg" /></a>
                         </div>
                         <div class="content-box-front">
-                            <img style="border-radius: 5px;" src="img/fiskevann.png" width="310" />
+                            <img class="image-rounded" src="img/fiskevann.png" width="310" />
                             <div class="inner-box-front">
                                 <a class="front" href="php/fulle-fiskevann-venter.php">Fulle fiskevann venter</a>
                             </div>
                         </div>
-                        
-
+                        <div class="content-box-front">
+                            <div class="inner-box-front">
+                                <h2>Sykefravær</h2>
+                                <table width="100%" border="0" cellpadding="4" class="tb">
+                                   <tr class="bold line-over-under">
+                                      <td width="17%">År</td>
+                                      <td width="15%">2012</td>
+                                      <td width="17%">2011</td>
+                                      <td width="17%">2010</td>
+                                      <td width="17%">2009</td>
+                                      <td width="17%">2008</td>
+                                   </tr>
+                                   
+                                   <tr>
+                                      <td>Kvinner</td>
+                                      <td>5,2%</td>
+                                      <td>8,1%</td>
+                                      <td>3,0%</td>
+                                      <td>2,4%</td>
+                                      <td>Ikke spesifisert</td>
+                                   </tr>
+                                   <tr>
+                                      <td>Menn</td>
+                                      <td>2,0%</td>
+                                      <td>2,3%</td>
+                                      <td>3,1%</td>
+                                      <td>4%</td>
+                                      <td>Ikke spesifisert</td>
+                                   </tr>
+                                   <tr>
+                                      <td>Alle</td>
+                                      <td>3,1%</td>
+                                      <td>4,3%</td>
+                                      <td>3,1%</td>
+                                      <td>3,4%</td>
+                                      <td>4%</td>
+                                   </tr>
+                                </table>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
