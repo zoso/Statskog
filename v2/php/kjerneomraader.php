@@ -204,6 +204,13 @@
                 </div>
                 <div id="right-container" style="float: right;">
                     <div class="content-box-right">
+                    	<div class="inner-box-front">
+                        	<img src="../img/statskog-1-2-3.jpg" />
+                            <a href="film-statskogs-utleiehytter.php"><img src="../img/front_eiendom2.jpg" /></a><br>
+                            <!-- <a href="#"><img src="img/front_energi2.jpg" /></a><br> -->
+                            <a href="film-statskogs-skogbruk.php"><img src="../img/front_skog2.jpg" /></a><br>
+                            <a href="film-toppjakt.php"><img src="../img/front_friluftsliv2.jpg" /></a>
+                        </div>
                        &nbsp;
                     </div>
                 </div>

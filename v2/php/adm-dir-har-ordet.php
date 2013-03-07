@@ -62,9 +62,14 @@
                     <div id="right-container" style="float: right;">
                         <div class="content-box-right">
                             &nbsp;
+                            <div class="inner-box-front">
+                            	<a href="64-prosent-lokale-kjopere.php"><img src="../img/Graf02b.png" width="260" /></a>
+                            	<a href="45-energiprosjekter.php"><img src="../img/Graf01.png" width="260" /></a>
+                            	<a href="solgte-eiendommer-2012.php"><img src="../img/Graf03.png" width="260" /></a>
+                            </div>
                         </div>
                     </div>
-                <div style="clear: both;"</div>
+                <div style="clear: both;"></div>
             </div>
             
         </div><!-- wrapper end -->

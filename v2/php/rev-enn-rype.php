@@ -64,6 +64,41 @@
                 </div>
                 <div id="right-container" style="float: right;">
                     <div class="content-box-right">
+                    	<div class="inner-box-front">
+                        <p style="padding: 10px"><b>Salg av jakt- og fiskeprodukter/jaktstatistikk</b></p>
+						<div style="margin: auto; width: 235px;">
+                        	<table width="230px" border="0" cellpadding="4">
+                              <tr style="font-weight: bold;" class="line-over-under">
+                                <td></td>
+                                <td class="right">2012</td>
+                              </tr>
+                              <tr>
+                                <td class="left">Elg felte dyr</td>
+                                <td class="right">1 274</td>
+                              </tr>
+                              <tr>
+                                <td class="left">Hjort felte dyr</td>
+                                <td class="right">58</td>
+                              </tr>
+                              <tr>
+                                <td class="left">Villrein felte dyr</td>
+                                <td class="right">75</td>
+                              </tr>
+                              <tr>
+                                <td class="left">Småvilt solgte kort</td>
+                                <td class="right">13 998</td>
+                              </tr>
+                              <tr>
+                                <td class="left">Fiske solgte kort</td>
+                                <td class="right">12 490</td>
+                              </tr>
+                              <tr class="line-under">
+                                <td class="left">Hytteutleie utleiedøgn</td>
+                                <td class="right">6 565</td>
+                              </tr>
+                            </table>
+                       </div>
+                       </div>
                         &nbsp;
                     </div>
                 </div>

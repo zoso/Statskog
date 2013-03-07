@@ -66,6 +66,10 @@
                 <div id="right-container" style="float: right;">
                     <div class="content-box-right">
                         &nbsp;
+                        <div class="inner-box-front">
+                        	<img src="../img/vekker-oppsikt-2.jpg" />
+                            <p>&nbsp;</p>
+                        </div>
                     </div>
                 </div>
                 <div style="clear: both;"></div>

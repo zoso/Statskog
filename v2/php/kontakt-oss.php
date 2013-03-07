@@ -55,8 +55,13 @@
                     </div>
                 </div>
                 <div id="right-container" style="float: right;">
-                    <div class="content-box-right">
-                        &nbsp;                    </div>
+                    <div class="content-box-right" style="height: 300px;">
+                        <div class="inner-box-front">
+                        	<p>&nbsp;</p>
+                            <img src="../img/arnhild-holstad.jpg" />
+                            <p>Arnhild Holstad</p>
+                        </div>                    
+                    </div>
                 </div>
                 <div style="clear: both;"></div>
             </div>

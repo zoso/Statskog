@@ -41,6 +41,11 @@
                  <div id="left-container" style="float: left;">
                     <div class="content-box">
                         <div class="inner-box-front">
+                            <h2>Friluftsliv</h2>Statskog tilrettelegger for jakt, fiske og friluftsliv. Arbeidet omfatter forvaltning, drift og utvikling av utmarksproduktene storviltjakt, småviltjakt, fiske og utleie av husvære – samt tilrettelegging for annet friluftsliv.
+                        </div>
+                    </div>
+                    <div class="content-box">
+                        <div class="inner-box-front">
                             <iframe width="610" height="343" src="http://www.youtube.com/embed/osQQfYVDDuk" frameborder="0" allowfullscreen></iframe>
                         </div>
                     </div>

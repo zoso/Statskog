@@ -1,6 +1,6 @@
 .heading{font-size:14px;font-weight:bold;color:#54ad13;}
 body{margin:0;padding:0;background-color:#fff;font-family:Verdana;font-size:12px;background-color:#ededed;}
-h2,h3{font-family:"Trebuchet MS";font-weight:bold;font-size:20px;}
+h2,h3{font-family:"Trebuchet MS";font-weight:bold;font-size:20px;line-height:1px;}
 #log{}
 #top{width:100%;margin:0 auto;height:400px;position:relative;}
 #top .top-container{width:100%;}
@@ -42,3 +42,4 @@ ul.main-menu li:hover{background-color:#fefefe;-webkit-box-shadow:0 2px 3px rgba
 .left{text-align:left;}
 .col-grey{background-color:#eee;}
 .tb{font-size:11px;}
+tr:hover td{background-color:#eee;}

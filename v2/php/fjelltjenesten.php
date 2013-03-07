@@ -56,7 +56,10 @@
                 </div>
                 <div id="right-container" style="float: right;">
                     <div class="content-box-right">
-                        &nbsp;
+                    	<div class="inner-box-front" style="text-align: center">
+                        	&nbsp;
+                        	<img src="../img/statskog-fjelltjenesten.jpg" />
+                        </div>
                     </div>
                 </div>
                 <div style="clear: both;"></div>

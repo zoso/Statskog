@@ -41,6 +41,11 @@
                  <div id="left-container" style="float: left;">
                     <div class="content-box">
                         <div class="inner-box-front">
+                            <h2>Eiendom</h2>Statskog har til formål selv, gjennom deltagelse eller i samarbeid med andre, å forvalte, drive og utvikle statlige skog- og fjelleiendommer med tilhørende ressurser og annen tilgrensende virksomhet. Eiendommene skal drives effektivt med sikte på å oppnå et tilfredsstillende økonomisk resultat. Det skal drives aktivt naturvern og tas hensyn til friluftslivet. Ressursene skal utnyttes balansert, og fornybare ressurser skal tas vare på og utvikles videre.
+                        </div>
+                    </div>
+                    <div class="content-box">
+                        <div class="inner-box-front">
                             <iframe width="610" height="343" src="http://www.youtube.com/embed/itN_Ww_sRkg" frameborder="0" allowfullscreen></iframe>
                         </div>
                     </div>

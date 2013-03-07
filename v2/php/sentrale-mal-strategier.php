@@ -75,6 +75,10 @@
                 <div id="right-container" style="float: right;">
                     <div class="content-box-right">
                         &nbsp;
+                        <div class="inner-box-front">
+                            <img src="../img/adm-dir-maal.jpg" />
+                            <p>&nbsp;</p>
+                        </div>
                     </div>
                 </div>
                 <div style="clear: both;"></div>
