@@ -21,7 +21,7 @@
 
         <style>
             #top .top-bg {
-                background: url(../img/top_tall_grafer.jpg) 50% 0 no-repeat;
+                background: url(../img/top/fjell.jpg) 50% 0 no-repeat;
                 height: 400px;
             }
         </style>

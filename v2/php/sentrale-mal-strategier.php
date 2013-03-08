@@ -20,7 +20,7 @@
         <!-- <script src="js/vendor/modernizr-2.6.2.min.js"></script> -->
         <style>
             #top .top-bg {
-                background: url(../img/top/Sentrale_maal.jpg) 50% 0 no-repeat;
+                background: url(../img/top/sentrale_maal.jpg) 50% 0 no-repeat;
                 height: 400px;
             }
         </style>

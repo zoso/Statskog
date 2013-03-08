@@ -20,7 +20,7 @@
         <!-- <script src="js/vendor/modernizr-2.6.2.min.js"></script> -->
         <style>
             #top .top-bg {
-                background: url(../img/top_tall_grafer.jpg) 50% 0 no-repeat;
+                background: url(../img/top/Hovedtall.jpg) 50% 0 no-repeat;
                 height: 400px;
             }
         </style>
@@ -39,7 +39,7 @@
             <div class="top-bg"></div>
         </div>
         <div id="wrapper"><!-- wrapper -->
-            <div id="menu-container" style="display: none"> <!-- menu -->
+            <div id="menu-container"> <!-- menu -->
                 <?php include_once("menu.php"); ?>
             </div> <!-- menu end -->
             <div style="clear: both;"></div>
@@ -285,9 +285,9 @@
                     <div class="content-box-right">
                         &nbsp;
                         <div class="inner-box-front">
-                        	<img src="../img/egenkapitalandel.png" />
-                            <img src="../img/totalkapitalrentabilitet.png" />
-                            <img src="../img/egenkapitalrentabilitet.png" />
+                        	 <img src="../img/egenkapitalandel.jpg" width="280" />
+                            <img src="../img/totalkapitalrentabilitet.jpg" width="280" />
+                            <img src="../img/egenkapitalrentabilitet.jpg" width="280" />
                             <p>&nbsp;</p>
                         </div>
                     </div>
