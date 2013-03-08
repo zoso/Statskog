@@ -18,7 +18,6 @@
     </li> -->
     <li>
         <a href="#" class="">Om Statskog<span class="down"></span></a>
-        <div class="menu-arrow"></div>
         <div class="sub-menu">
             <!-- <div class="down-arrow">&nbsp;</div> -->
             <div class="sub">
