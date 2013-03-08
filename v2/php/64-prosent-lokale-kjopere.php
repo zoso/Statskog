@@ -50,6 +50,7 @@
                     <div class="content-box">
                         <div class="inner-box-front">
                             <h2>64 prosent lokale kjøpere</h2>
+                            <div class="border-down">&nbsp;</div>
                             <p>Hele 64 prosent av kjøperne i Statskogs salg av en del spredte eiendommer er lokale skogeiere. Det viser at mange av landets private skogeiere har benyttet anledningen til å styrke sine næringsgrunnlag. Direktoratet for naturforvaltning (DN) har forkjøpsrett på samtlige eiendommer som blir lagt ut for salg. Dette er i tråd med et pålegg fra Stortinget, for at DN skal kunne benytte eiendommene til vern eller makeskifte knyttet til vern av private skogeiendommer. Som diagrammet viser har DN hittil kjøpt 16 prosent av eiendommene.</p>
                         </div>
                     </div>

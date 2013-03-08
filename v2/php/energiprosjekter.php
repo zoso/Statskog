@@ -47,7 +47,8 @@
                  <div id="left-container" style="float: left;">
                     <div class="content-box">
                         <div class="inner-box-front">
-                            <h3>Energiprosjekter</h3>
+                            <h2>Energiprosjekter</h2>
+                            <div class="border-down">&nbsp;</div>
                             <p>Statskog har i samarbeid med andre berørte grunneiere og kraftaktører fått konsesjon på fire kraftverk, ett av dem vil komme i drift i 2013. Ved utgangen av 2012 var det sendt inn ytterligere 41 søknader om bygging av fornybar kraftproduksjon til Norges vassdrags- og energidirektorat (NVE). Kartet viser hvor disse til sammen 45 kraftverkene ligger/planlegges.</p>
                         </div>
                     </div>

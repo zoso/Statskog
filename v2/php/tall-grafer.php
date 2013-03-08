@@ -48,6 +48,7 @@
                     <div class="content-box">
                         <div class="inner-box-front">
                             <h2>Hovedtall - Statskog - 5 års sammendrag</h2>
+                            <div class="border-down">&nbsp;</div>
                             <table width="100%" border="0" cellpadding="4" class="tb">
                                <tr class="bold">
                                   <td width="24%"></td>

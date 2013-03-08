@@ -48,6 +48,7 @@
                     <div class="content-box" style="width: 960px;">
                         <div class="inner-box-front">
                             <h2>Noter</h2>
+                            <div class="border-down">&nbsp;</div>
                             <b>Note 1 - Driftsinntekter</b>
                             <table width="100%" border="0" cellpadding="4" class="tb">
                                 <tr class="bold">

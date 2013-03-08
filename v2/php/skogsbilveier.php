@@ -47,10 +47,11 @@
                  <div id="left-container" style="float: left;">
                     <div class="content-box">
                         <div class="inner-box-front">
-                            <h3>Skogsbilveier</h3>
-                            <p>Statskog har ansvar knyttet til 1 475 skogbilveianlegg og 6 300 km skogsbilvei. Ofte er skogsbilveiene til nytte for langt flere enn skogeierne, da særlig til friluftsbruk eller ulike eksterne rettighetshavere. De aller fleste veiene er på foretakets egne eiendommer. På enkelte veier har Statskog ansvar alene, mens andre veier er fellesveier. Det er utfordrende å holde alle veiene ved like, særlig i de periodene det ikke tas ut skog. Derfor er det bomavgift på noen av veiene og noen veier er stengt for allmenn ferdsel på grunn av dårlig standard. For hver kubikkmeter tømmer Statskog avvirker, bruker vi 20-25 kroner til bygging, opprusting og vedlikehold av skogsveier</p>
-                            <p>Solgte arealer i 2011 og 2012</p>
-                            <p>For å betale ned lånet Statskog fikk fra staten ved kjøp av Orklas skogeiendommer og samtidig få en bedre arrondert, eller driftsmessig, eiendomsmasse, er Statskog i ferd med å selge ut til sammen om lag 500 000 daa bestående av spredte skogeiendommer Statskog eide før kjøpet av Orklas skogeiendommer. Kartet viser hvilke eiendommer som er solgt så langt. Salget avsluttes i 2017.</p>
+                            <h2>Skogsbilveier</h2>
+                            <div class="border-down">&nbsp;</div>
+                            Statskog har ansvar knyttet til 1 475 skogbilveianlegg og 6 300 km skogsbilvei. Ofte er skogsbilveiene til nytte for langt flere enn skogeierne, da særlig til friluftsbruk eller ulike eksterne rettighetshavere. De aller fleste veiene er på foretakets egne eiendommer. På enkelte veier har Statskog ansvar alene, mens andre veier er fellesveier. Det er utfordrende å holde alle veiene ved like, særlig i de periodene det ikke tas ut skog. Derfor er det bomavgift på noen av veiene og noen veier er stengt for allmenn ferdsel på grunn av dårlig standard. For hver kubikkmeter tømmer Statskog avvirker, bruker vi 20-25 kroner til bygging, opprusting og vedlikehold av skogsveier.
+                            <p><b>Solgte arealer i 2011 og 2012</b><br>
+                            For å betale ned lånet Statskog fikk fra staten ved kjøp av Orklas skogeiendommer og samtidig få en bedre arrondert, eller driftsmessig, eiendomsmasse, er Statskog i ferd med å selge ut til sammen om lag 500 000 daa bestående av spredte skogeiendommer Statskog eide før kjøpet av Orklas skogeiendommer. Kartet viser hvilke eiendommer som er solgt så langt. Salget avsluttes i 2017.</p>
                         </div>
                     </div>
                     <div class="content-box">

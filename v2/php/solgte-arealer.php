@@ -47,8 +47,9 @@
                  <div id="left-container" style="float: left;">
                     <div class="content-box">
                         <div class="inner-box-front">
-                            <h3>Solgte arealer i 2011 og 2012</h3>
-                            <p>For å betale ned lånet Statskog fikk fra staten ved kjøp av Orklas skogeiendommer og samtidig få en bedre arrondert, eller driftsmessig, eiendomsmasse, er Statskog i ferd med å selge ut til sammen om lag 500 000 daa bestående av spredte skogeiendommer Statskog eide før kjøpet av Orklas skogeiendommer.</p><p>Kartet viser hvilke eiendommer som er solgt så langt. Salget avsluttes i 2017.</p>
+                            <h2>Solgte arealer i 2011 og 2012</h2>
+                            <div class="border-down">&nbsp;</div>
+                            For å betale ned lånet Statskog fikk fra staten ved kjøp av Orklas skogeiendommer og samtidig få en bedre arrondert, eller driftsmessig, eiendomsmasse, er Statskog i ferd med å selge ut til sammen om lag 500 000 daa bestående av spredte skogeiendommer Statskog eide før kjøpet av Orklas skogeiendommer.<p>Kartet viser hvilke eiendommer som er solgt så langt. Salget avsluttes i 2017.</p>
                         </div>
                     </div>
                     <div class="content-box">
@@ -59,7 +60,10 @@
                 </div>
                 <div id="right-container" style="float: right;">
                     <div class="content-box-right">
-                        &nbsp;
+                        <div class="inner-box-front">
+                            <span style="color: #f47320; font-size: 90px">17%</span>
+                            <p><span class="sitat">STATSKOG FORVALTER EN FEMTEDEL AV FASTLANDS-NORGE. 17 PROSENT AV DENNE GRUNNEN BESTÅR AV SKOG.</span>    
+                        </div>
                     </div>
                 </div>
                 <div style="clear: both;"></div>

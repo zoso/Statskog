@@ -48,7 +48,8 @@
                     <div class="content-box">
                         <div class="inner-box-front">
                             <h2>Produktiv skog</h2>
-                            <p>Statskog forvalter en femtedel av fastlands-Norge. 17 prosent av denne grunnen består av skog, resten ligger over skoggrensen. Produktiv skog, det vil si områder med god nok skog til at det kan drives aktivt skogbruk, er det på 47 prosent av Statskogs skogarealer. Statskogs produktive skog utgjør seks prosent av den totale produktive skogen i Norge.</p>
+                            <div class="border-down">&nbsp;</div>
+                            Statskog forvalter en femtedel av fastlands-Norge. 17 prosent av denne grunnen består av skog, resten ligger over skoggrensen. Produktiv skog, det vil si områder med god nok skog til at det kan drives aktivt skogbruk, er det på 47 prosent av Statskogs skogarealer. Statskogs produktive skog utgjør seks prosent av den totale produktive skogen i Norge.
                         </div>
                     </div>
                     <div class="content-box">
@@ -59,7 +60,10 @@
                 </div>
                 <div id="right-container" style="float: right;">
                     <div class="content-box-right">
-                            &nbsp;
+                        <div class="inner-box-front">
+                            <span style="color: #f47320; font-size: 90px">17%</span>
+                            <p><span class="sitat">STATSKOG FORVALTER EN FEMTEDEL AV FASTLANDS-NORGE. 17 PROSENT AV DENNE GRUNNEN BESTÅR AV SKOG.</span>    
+                        </div>
                     </div>
                 </div>
                 <div style="clear: both;"></div>

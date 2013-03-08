@@ -48,22 +48,23 @@
                     <div class="content-box">
                         <div class="inner-box-front">
                             <h2>Samfunnsansvar</h2>
-                            <p><b>Statskog skal:</b>
-                            <p>- være en garantist for allmennhetens tilgang til jakt og fiske</p>
-                            <p>- legge til rette for allmennhetens friluftsliv</p>
-                            <p>- bidra til verdiskaping på fellesskapets ressurser</p>
-                            <p>- ivareta rettighetshavernes interesser</p>
-                            <p>- bidra til andres verdiskaping</p>
-                            <p>- være opptatt av samfunnsnytte og ringvirkninger </p> 
-                            <p>- ta hensyn til miljø og verneinteresser</p>
-                            <p>- bidra til de nasjonale klimamålene</p>
+                            <div class="border-down">&nbsp;</div>
+                            <span><b>Statskog skal:</b></span>
+
+                            <li class="list"><span>være en garantist for allmennhetens tilgang til jakt og fiske</span></li>
+                            <li class="list"><span>legge til rette for allmennhetens friluftsliv</span></li>
+                            <li class="list"><span>bidra til verdiskaping på fellesskapets ressurs</span></li>
+                            <li class="list"><span>ivareta rettighetshavernes interesser</span></li>
+                            <li class="list"><span>bidra til andres verdiskaping</span></li>
+                            <li class="list"><span>være opptatt av samfunnsnytte og ringvirkninger</span></li> 
+                            <li class="list"><span>ta hensyn til miljø og verneinteresser</span></li>
+                            <li class="list"><span>bidra til de nasjonale klimamålene</span></li>
                         </div>
                     </div>
                 </div> <!-- end left container -->
                 <div id="right-container" style="float: right;">
-                    <div class="content-box-right">
-                        &nbsp;
-                    </div>
+                    <img class="image-rounded-shadow" src="../img/samfunnsansvar.jpg" />
+                    
                 </div>
             </div>
             <div style="clear: both;"></div>

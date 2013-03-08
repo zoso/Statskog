@@ -47,7 +47,8 @@
                  <div id="left-container" style="float: left;">
                     <div class="content-box">
                         <div class="inner-box-front">
-                            <h3>Arealinndeling storviltjakt</h3>
+                            <h2>Arealinndeling storviltjakt</h2>
+                            <div class="border-down">&nbsp;</div>
                             <p>Statskog SF har jaktfelt i de fleste av landets fylker med elgjakt (unntatt Finnmark). Jaktfeltene ligger ved kysten, i skogen og opp mot høgfjellet og snaufjellet. Jegere kan velge mellom jakt nær bilvei eller med flere timers gange inn i jaktfeltet. I dette brede spekteret av tilbud, kan mange jaktlag finne sitt drømmeterreng. Mange jaktfelt er delt i perioder, både for å gi flere jegere/jaktlag tilbud, og for å sikre at stort nok antall dyr blir felt. Årlig kvote som forvaltes av Statskog er i underkant av 1 500 elg og i underkant av 200 hjort.</p><p>Det gis også tilbud om villreinjakt og rådyrjakt på Statskogs grunn. Tildeling av tilbud skjer etter søknad og trekning.</p>
                         </div>
                     </div>

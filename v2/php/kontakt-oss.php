@@ -47,7 +47,8 @@
                  <div id="left-container" style="float: left;">
                     <div class="content-box">
                         <div class="inner-box-front">
-                            <h3>Kontakt oss</h3>
+                            <h2>Kontakt oss</h2>
+                            <div class="border-down">&nbsp;</div>
                             Kommunikasjonssjef
                             <br><a class="front" href="mailto: ahd@statskog.no">Arnhild Holstad<span class="mail">&nbsp;</span></a>
                             <br>913 78 484
@@ -55,12 +56,11 @@
                     </div>
                 </div>
                 <div id="right-container" style="float: right;">
-                    <div class="content-box-right" style="height: 300px;">
+                    <div class="content-box-right">
+                        <img class="image-rounded" src="../img/arnhild-holstad.jpg" width="300" />
                         <div class="inner-box-front">
-                        	<p>&nbsp;</p>
-                            <img src="../img/arnhild-holstad.jpg" />
-                            <p>Arnhild Holstad</p>
-                        </div>                    
+                            Arnhild Holstad
+                        </div>                 
                     </div>
                 </div>
                 <div style="clear: both;"></div>

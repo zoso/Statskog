@@ -48,63 +48,117 @@
                     <div class="content-box">
                         <div class="inner-box-front">
                             <h2>Eierstyring og selskapsledelse</h2>
-                            <b>Oppdrag</b>
-                            <p>Statskog skal forvalte, drive og utvikle statlige skog- og fjelleiendommer. Eiendommene skal drives effektivt med sikte på å oppnå et tilfredsstillende økonomisk resultat. Det skal drives et aktivt  naturvern og tas hensyn til friluftsinteresser. Ressursene skal utnyttes balansert, og fornybare ressurser skal tas vare på og utvikles videre.</p>
-                            <b>Verdier</b>
-                            <p>Samspillende, verdiutviklende, ansvarlig og modig</p>
-                            <b>Eier</b>
-                            <p>Statskog er et statsforetak. Eierskapet utøves av landbruks- og matministeren gjennom foretaksmøtet.</p>
+                            <div class="border-down">&nbsp;</div>
+                            <b>Oppdrag</b><br>
+                            Statskog skal forvalte, drive og utvikle statlige skog- og fjelleiendommer. Eiendommene skal drives effektivt med sikte på å oppnå et tilfredsstillende økonomisk resultat. Det skal drives et aktivt  naturvern og tas hensyn til friluftsinteresser. Ressursene skal utnyttes balansert, og fornybare ressurser skal tas vare på og utvikles videre.
+                            <p><b>Verdier</b><br>
+                            Samspillende, verdiutviklende, ansvarlig og modig</p>
+                            <p><b>Eier</b><br>
+                            Statskog er et statsforetak. Eierskapet utøves av landbruks- og matministeren gjennom foretaksmøtet.</p>
                             <p>Statskogs styrende organer beslutter virksomhetens grunnleggende styringsprinsipper. Disse består av konstitusjonelle prinsipper knyttet til det statlige eierskapet, vedtekter, statens eierstyringsprinsipper, verdigrunnlag, etiske retningslinjer for ansatte og policy for ledelse, styring og kontroll. Styringsprinsippene inkluderer også styreinstruks og administrerende direktørs stillingsinstruks og fullmakter.</p>
-                            <b>Foretaksmøtet</b>
-                            <p>Landbruks- og matdepartementet utøver den øverste myndighet i foretaket i foretaksmøtet. På det ordinære foretaksmøte skal følgende spørsmål behandles og avgjøres: Fastsetting av foretakets resultatregnskap og balanse, herunder anvendelse av årsoverskudd eller dekning av årsunderskudd, fastsetting av konsernresultatregnskap og konsernbalanse, og andre saker som etter lov eller vedtekter hører under foretaksmøtet, herunder valg av styret og fastsettelse av godtgjørelse for medlemmer av styret og styreutvalg. Departementets myndighet i foretaket kan ikke utøves utenom foretaksmøtet. Foretaksmøtet vedtar Statskogs vedtekter, herunder Statskogs formålsparagraf som setter rammer for den virksomheten Statskog kan drive. Ordinært foretaksmøte holdes hvert år innen utgangen av juni måned.</p>
-                            <b>Styret</b>
-                            <p>Styret har det overordnede ansvaret for forsvarlig ledelse av Statskog. Styret ansetter og avsetter administrerende direktør og skal føre tilsyn med hans/hennes ledelse av virksomheten. Styret skal beslutte Statskogs strategi, sørge for at Statskog er effektivt og betryggende organisert, beslutte budsjetter og påse betryggende formuesforvaltning, et godt arbeidsmiljø og påse at Statskog overholder formelle krav, lover og forskrifter.</p>
-                            <b>Revisor</b>
-                            <p>Statskog skal ha en eller flere revisorer, som velges av foretaksmøtet. Minst en skal være registrert eller statsautorisert.</p>
-                            <b>Rammeverk</b>
-                            <p>Styret og foretakets administrasjon vedtar rammeverket som virksomhetens aktiviteter skal utføres innenfor for å nå vedtatte målsetninger.</p>
+                            <p><b>Foretaksmøtet</b><br>
+                            Landbruks- og matdepartementet utøver den øverste myndighet i foretaket i foretaksmøtet. På det ordinære foretaksmøte skal følgende spørsmål behandles og avgjøres: Fastsetting av foretakets resultatregnskap og balanse, herunder anvendelse av årsoverskudd eller dekning av årsunderskudd, fastsetting av konsernresultatregnskap og konsernbalanse, og andre saker som etter lov eller vedtekter hører under foretaksmøtet, herunder valg av styret og fastsettelse av godtgjørelse for medlemmer av styret og styreutvalg. Departementets myndighet i foretaket kan ikke utøves utenom foretaksmøtet. Foretaksmøtet vedtar Statskogs vedtekter, herunder Statskogs formålsparagraf som setter rammer for den virksomheten Statskog kan drive. Ordinært foretaksmøte holdes hvert år innen utgangen av juni måned.</p>
+                            <p><b>Styret</b><br>
+                            Styret har det overordnede ansvaret for forsvarlig ledelse av Statskog. Styret ansetter og avsetter administrerende direktør og skal føre tilsyn med hans/hennes ledelse av virksomheten. Styret skal beslutte Statskogs strategi, sørge for at Statskog er effektivt og betryggende organisert, beslutte budsjetter og påse betryggende formuesforvaltning, et godt arbeidsmiljø og påse at Statskog overholder formelle krav, lover og forskrifter.</p>
+                            <p><b>Revisor</b><br>
+                            Statskog skal ha en eller flere revisorer, som velges av foretaksmøtet. Minst en skal være registrert eller statsautorisert.</p>
+                            <p><b>Rammeverk</b><br>
+                            Styret og foretakets administrasjon vedtar rammeverket som virksomhetens aktiviteter skal utføres innenfor for å nå vedtatte målsetninger.</p>
                             <b>Organisasjonskart:</b>
                             <p><img src="../img/statskog_org_kart.jpg" /></p>
                         </div>
                     </div>
                 </div>
                     <div id="right-container" style="float: right;">
+                        <div id="right-container" style="float: right;">
                         <div class="content-box-right">
-                            <div style="padding: 10px; font-weight: bold;">Styret:</div>
-                            <div style="margin-bottom: 5px;">
-                                <img src="../img/persons/styre_mann_2.jpg" />
-                                <br>Styreleder: Harald Ellefsen
-                            </div>
-                            <div style="margin-bottom: 5px;">
-                                <img src="../img/persons/styre_dame_2.jpg" />
-                                <br>Nestleder: Eli Reistad
-                            </div>
-                            <div style="margin-bottom: 5px;">
-                                <img src="../img/persons/styre_mann_1.jpg" />
-                                <br>Styremedlem: Tom Lifjell
-                            </div>
-                            <div style="margin-bottom: 5px;">
-                                <img src="../img/persons/styremedlem_kari-okland.jpg" />
-                                <br>Styremedlem: Kari Økland
-                            </div>
-                            <div style="padding-bottom: 5px;">
-                                <img src="../img/persons/styre_mann_5.jpg" />
-                                <br>Styremedlem: Gunnar Olofsson
-                            </div>
-                            <div style="padding-bottom: 5px;">
-                                <img src="../img/persons/styre_dame_1.jpg" />
-                                <br>Styremedlem: Siw Anita Kvam (ansatterepresentant)
-                            </div>
-                            <div style="padding-bottom: 5px;">
-                                <img src="../img/persons/styre_mann_4.jpg" />
-                                <br>Styremedlem: Geir Hovland (ansatterepresentant)
+                            <div class="inner-box-front">
+                                <div style="width: 260px; height: 160px;">
+                                    <div style="float: left; width: 130px;">
+                                        <img src="../img/persons/styre_mann_2.jpg" />
+                                    </div>
+                                    <div class="info-img">
+                                        <div>Harald</div>
+                                        <div>Ellefsen</div>
+                                        <div class="stilling">Styreleder</div>
+                                        <div style="border-bottom: 2px solid #000">&nbsp;</div>
+                                    </div>
+                                </div>
+                                <div style="width: 260px; height: 160px;">
+                                    <div style="float: left; width: 130px;">
+                                        <img src="../img/persons/styre_dame_2.jpg" />
+                                    </div>
+                                    <div class="info-img">
+                                        <div>Eli</div>
+                                        <div>Reistad</div>
+                                        <div class="stilling">Nestleder</div>
+                                        <div style="border-bottom: 2px solid #000">&nbsp;</div>
+                                    </div>
+                                </div>
+                                <div style="width: 260px; height: 160px;">
+                                    <div style="float: left; width: 130px;">
+                                        <img src="../img/persons/styre_mann_1.jpg" />
+                                    </div>
+                                    <div class="info-img">
+                                        <div>Tom</div>
+                                        <div>Lifjell</div>
+                                        <div class="stilling">Styremedlem</div>
+                                        <div style="border-bottom: 2px solid #000">&nbsp;</div>
+                                    </div>
+                                </div>
+                                <div style="width: 260px; height: 160px;">
+                                    <div style="float: left; width: 130px;">
+                                        <img src="../img/persons/styremedlem_kari-okland.jpg" />
+                                    </div>
+                                    <div class="info-img">
+                                        <div>Kari</div>
+                                        <div>Økland</div>
+                                        <div class="stilling">Styremedlem</div>
+                                        <div style="border-bottom: 2px solid #000">&nbsp;</div>
+                                    </div>
+                                </div>
+                                <div style="width: 260px; height: 160px;">
+                                    <div style="float: left; width: 130px;">
+                                        <img src="../img/persons/styre_mann_5.jpg" />
+                                    </div>
+                                    <div class="info-img">
+                                        <div>Gunnar</div>
+                                        <div>Olofsson</div>
+                                        <div class="stilling">Styremedlem</div>
+                                        <div style="border-bottom: 2px solid #000">&nbsp;</div>
+                                    </div>
+                                </div>
+                                <div style="width: 260px; height: 160px;">
+                                    <div style="float: left; width: 130px;">
+                                        <img src="../img/persons/styre_dame_1.jpg" />
+                                    </div>
+                                    <div class="info-img">
+                                        <div>Siw Anita</div>
+                                        <div>Kvam</div>
+                                        <div class="stilling">Styremedlem</div>
+                                        <div style="border-bottom: 2px solid #000">&nbsp;</div>
+                                    </div>
+                                </div>
+                                <div style="width: 260px; height: 160px;">
+                                    <div style="float: left; width: 130px;">
+                                        <img src="../img/persons/styre_mann_4.jpg" />
+                                    </div>
+                                    <div class="info-img">
+                                        <div>Geir</div>
+                                        <div>Hovland</div>
+                                        <div class="stilling">Styremedlem</div>
+                                        <div style="border-bottom: 2px solid #000">&nbsp;</div>
+                                    </div>
+                                </div>
+                                <p style="height: 55px;">&nbsp;</p>
                             </div>
                       </div> 
                     </div>
-                    <div style="clear: both;"></div>
-                </div>
-            <?php include_once("footer.php"); ?>
+                <div style="clear: both;"</div>
+            </div>
+           
         </div><!-- wrapper end -->
+        <?php include_once("footer.php"); ?>
     </body>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="../js/jquery.statskog.js"></script>

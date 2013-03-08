@@ -41,7 +41,9 @@
                  <div id="left-container" style="float: left;">
                     <div class="content-box">
                         <div class="inner-box-front">
-                            <h2>Skog</h2>Innenfor rammene av bransjestandard for et bærekraftig skogbruk og Statskogs policy, skal Statskogs muligheter for skogproduksjon på egne eiendommer, utnyttes som grunnlag for økonomisk verdiskapning og høye skogverdier. Dette skal skje ved gjennomføring av lønnsomme enkelttiltak, i hovedsak med sikte på leveranse av skurtømmer, massevirke og energivirke.
+                            <h2>Skog</h2>
+                            <div class="border-down">&nbsp;</div>
+                            Innenfor rammene av bransjestandard for et bærekraftig skogbruk og Statskogs policy, skal Statskogs muligheter for skogproduksjon på egne eiendommer, utnyttes som grunnlag for økonomisk verdiskapning og høye skogverdier. Dette skal skje ved gjennomføring av lønnsomme enkelttiltak, i hovedsak med sikte på leveranse av skurtømmer, massevirke og energivirke.
                         </div>
                     </div>
                     <div class="content-box">

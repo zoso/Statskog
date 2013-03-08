@@ -48,26 +48,24 @@
                     <div class="content-box">
                         <div class="inner-box-front">
                             <h2>Viktige hendelser i 2012</h2>
-                            <p>- Region Sør-Norge har etter Orkla-kjøpet ca. 500 hytteeiendommer med til sammen ca. 1000 bygninger. Statskog vil selge ut 250 av disse eiendommene i årene som kommer. Salget er i gang, og vi solgte åtte hytter i 2012.</p>
-                            <p>- Statskog har, sammen med Vågå kommune, bidratt til å utvikle Lemonsjøen i Vågå til en hyttedestinasjon av betydning. I 2012 solgte vi retten til å bygge ut et nytt delfelt med 88 tomter til selskapet Lemonsjøen utvikling</p>
-                            <p>- 30. juni arrangerte IL og UL Heimhug, IL Vinger og Statskog den tradisjonsrike Skogvokterdagen på Storjord for 13. gang.  Det kom hele 2800 besøkende. Miljøet rundt Skogvokterdagen er unikt med storslått natur, bålkaffe, grilling, lokal mat og lokale utstillere.</p>
-                            <p>- Statskog fikk konsesjon på Stigafjellet vindkraftanlegg </p>
-                            <p>- NVE ga konsesjon på vannkraftverket Veiski. Prosjektet er et samarbeid mellom Norsk Vannkraftproduksjon og Statskog.</p>
-                            <p>- Sammen med samarbeidspartnerne Friluftsrådenes Landsforbund, Bedriftsidretten og Det norske Skogselskap, lanserte Statskog GodTur-appen i 2012. Her får folk et eget gratis turbibliotek i hånda</p>
-                            <p>- Statskog fikk som tilrettelegger for friluftsliv satt opp og åpnet Allmenningsbua på Hinnøya. Den åpne bua ble raskt et yndet turmål for Harstad og omegns befolkning.</p>
-                            <p>- Et eget regionutvalg for Troms ble valgt i samarbeid med regionrådene i Troms samt Troms Jeger og Fiskerforening og Norske Reindriftssamers Landsforbund. Regionutvalget skal bidra til en best mulig og omforent forvaltning av Statskogs grunn i Troms.</p>
+                            <div class="border-down">&nbsp;</div>
+                            <li class="list"><span>Region Sør-Norge har etter Orkla-kjøpet ca. 500 hytteeiendommer med til sammen ca. 1000 bygninger. Statskog vil selge ut 250 av disse eiendommene i årene som kommer. Salget er i gang, og vi solgte åtte hytter i 2012.</span></li>
+                            <li class="list"><span>Statskog har, sammen med Vågå kommune, bidratt til å utvikle Lemonsjøen i Vågå til en hyttedestinasjon av betydning. I 2012 solgte vi retten til å bygge ut et nytt delfelt med 88 tomter til selskapet Lemonsjøen utvikling</span></li>
+                            <li class="list"><span>30. juni arrangerte IL og UL Heimhug, IL Vinger og Statskog den tradisjonsrike Skogvokterdagen på Storjord for 13. gang.  Det kom hele 2800 besøkende. Miljøet rundt Skogvokterdagen er unikt med storslått natur, bålkaffe, grilling, lokal mat og lokale utstillere.</span></li>
+                            <li class="list"><span>Statskog fikk konsesjon på Stigafjellet vindkraftanlegg</span></li>
+                            <li class="list"><span>NVE ga konsesjon på vannkraftverket Veiski. Prosjektet er et samarbeid mellom Norsk Vannkraftproduksjon og Statskog.</span></li>
+                            <li class="list"><span>Sammen med samarbeidspartnerne Friluftsrådenes Landsforbund, Bedriftsidretten og Det norske Skogselskap, lanserte Statskog GodTur-appen i 2012. Her får folk et eget gratis turbibliotek i hånda.</span></li>
+                            <li class="list"><span>Statskog fikk som tilrettelegger for friluftsliv satt opp og åpnet Allmenningsbua på Hinnøya. Den åpne bua ble raskt et yndet turmål for Harstad og omegns befolkning.</span></li>
+                            <li class="list"><span>Et eget regionutvalg for Troms ble valgt i samarbeid med regionrådene i Troms samt Troms Jeger og Fiskerforening og Norske Reindriftssamers Landsforbund. Regionutvalget skal bidra til en best mulig og omforent forvaltning av Statskogs grunn i Troms.</span></li>
                         </div>
                     </div>
                 </div>
                 <div id="right-container" style="float: right;">
+                    <img class="image-rounded-shadow" src="../img/hendelse_hytte.jpg" />
+                    <br><br>
+                    <img class="image-rounded-shadow" src="../img/hendelse_vann.jpg" />
                     <div class="content-box-right">
-                        &nbsp;
-                        <div class="inner-box-front">
-                        	<img src="../img/hendelse_hytte.jpg" />
-                            <p>&nbsp;</p>
-                            <img src="../img/hendelse_vann.jpg" />
-                            <p>&nbsp;</p>
-                        </div>
+                        
                     </div>
                 </div>
                 <div style="clear: both;"></div>

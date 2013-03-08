@@ -41,16 +41,16 @@
                     <div class="content-box">
                         <div class="inner-box-front">
                             <h2>- Skyt heller rev enn rype</h2>
-                            <p>Statskog er seg svært bevisst at rypebestanden jevnt over synker. I 2012 oppfordret foretaket jegerne til heller å jakte på rypas verste fiende, reven.</p>
+                            <div class="border-down">&nbsp;</div>
+                            Statskog er seg svært bevisst at rypebestanden jevnt over synker. I 2012 oppfordret foretaket jegerne til heller å jakte på rypas verste fiende, reven.
                             <p>– Særlig vinterjakt tærer på bestanden. Antall ryper i terrenget nå har mye å si for hvor mange det blir til høsten. Jo flere stamfugl, desto bedre, sier fagsjef Jo Inge Breisjøberget i Statskog.
                             Rypejakta varer ut februar i sør og til 15. mars de fleste steder i nord. Brorparten av jegerne jakter på høsten, men en del holder koken vinteren gjennom.</p>
                             <p>– Med mer dagslys og finere vær, er jakt på senvinteren en fin naturopplevelse. Vi unner jegerne jakta, men oppfordrer likevel til heller å skyte smårovvilt som rev, mink og mår, sier han.</p>
-                            <p><b>Mindre rype, mer rev</b></p>
-                            Rypebestanden har vært på full fart nedover de siste årene. Jaktsesongen 2010/2011 ga en hyggelig oppgang, men 195 000 skutte ryper er likevel bare halvparten så mange som ti år tidligere.
-                            Samtidig skytes det svært få rev i forhold til tidligere. Sist jaktsesong ble det registrert 24 000 skutte rødrev, som også er halvparten av hva som var vanlig på 70-tallet.</p>
+                            <p><b>Mindre rype, mer rev</b><br>
+                            Rypebestanden har vært på full fart nedover de siste årene. Jaktsesongen 2010/2011 ga en hyggelig oppgang, men 195 000 skutte ryper er likevel bare halvparten så mange som ti år tidligere. Samtidig skytes det svært få rev i forhold til tidligere. Sist jaktsesong ble det registrert 24 000 skutte rødrev, som også er halvparten av hva som var vanlig på 70-tallet.</p>
                             <p>– Færre ryper og flere rev er en uheldig kombinasjon, som også rypejegerne har all grunn til å ønske snudd, mener fagsjefen i Statskog.</p>  
                             <p>Reven er et av de mest effektive rovdyrene. Dersom den kommer over egg og fugleunger, spiser den det den kan få, ikke bare fra rype, men også skogsfugl og hare.</p>
-                            <p><b>Rev i dagslys</b></p>
+                            <b>Rev i dagslys</b><br>
                             Tradisjonelt er rovdyra vanskeligere å jakte på enn rype og annet småvilt. På seinvinteren er forskjellen mindre.
                             <p>– Rypa er vanskeligere å komme inn på vinterstid enn om høsten, så for de fleste er nok jaktopplevelsen viktigere enn matauken. Samtidig er det på vinteren revejakt er på sitt beste, sier Breisjøberget.</p>
                             <p>Revene er i brunsttiden og er aktive større deler av døgnet. De er ikke bare lettere å få øye på.</p>

@@ -41,7 +41,8 @@
                     <div class="content-box">
                         <div class="inner-box-front">
                             <h2>Statskog vekker oppmerksomhet</h2>
-                            <p>Statskogs har lenge arbeidet med å finne løsninger som operasjonaliserer strategien. Nå vekker dette arbeidet ekstern oppsikt. Det har blant annet gitt seg utslag i at Statskog ved Ronald Gåsvær nylig ble utfordret til å være med på Beslutningsstøttedagen (fast møteplass der viksomhetsstyring står i fokus).</p>
+                            <div class="border-down">&nbsp;</div>
+                            Statskogs har lenge arbeidet med å finne løsninger som operasjonaliserer strategien. Nå vekker dette arbeidet ekstern oppsikt. Det har blant annet gitt seg utslag i at Statskog ved Ronald Gåsvær nylig ble utfordret til å være med på Beslutningsstøttedagen (fast møteplass der viksomhetsstyring står i fokus).
                             <p>- I Statskog har vi jobbet med løsninger for å gjøre strategien styrbar ganske lenge nå. Vi ønsker system for å kunne følge med og måle at strategien blir fulgt. Rett og slett en slags støttesystemer for å nå målene våre, sier økonomisjef Ronald Gåsvær.</p>
                             <p>Dette er det ikke mange som er gode på. Det var gjennom samarbeid med Agresso at invitasjonen til å presentere arbeidet på Beslutningsstøttedagen kom. Agresso synes måten Statskog har jobbet med måling av strategioppnåelse på var så interessant at de utfordret Statskog til å være med.</p>
                             <p>- De ga uttrykk for at de er særlig imponert over måten vi har jobbet forut for utvikling av målesystemer. Mange går rett på verktøyet uten å reflektere over hva en vil og hvorfor, og da oppnår en ikke like mye, sier Gåsvær. Og legger til at bedrifter som ønsker å gjøre dette må gjøre mye av jobben selv. En vil ikke lykkes om alt settes bort til eksterne.</p>
@@ -64,13 +65,8 @@
                     </div>
                 </div>
                 <div id="right-container" style="float: right;">
-                    <div class="content-box-right">
-                        &nbsp;
-                        <div class="inner-box-front">
-                        	<img src="../img/vekker-oppsikt-2.jpg" />
-                            <p>&nbsp;</p>
-                        </div>
-                    </div>
+                    <img class="image-rounded-shadow" src="../img/vekker-oppsikt-2.jpg" />
+                    
                 </div>
                 <div style="clear: both;"></div>
                 

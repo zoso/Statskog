@@ -48,18 +48,17 @@
                     <div class="content-box">
                         <div class="inner-box-front">
                             <h2>Aktiviteter innenfor kjerneområdene</h2>
-                            <p>Statskogs kjerneområder er skog, energi, eiendom og jakt, fiske og friluftsliv. Aktivitetene innen skog og energi er organisert som regionovergripende forretningsområder, mens ansvaret i de andre kjerneområdene ligger på regionnivå.</p>
-
-                            <p><b>Eiendom</b></p>
-                            <p>Statskogs fem regioner har ansvar for kjerneområdene friluftsliv og eiendom. Regionene skal drifte og utvikle eiendommene. De er også Statskogs kontakt med oppdragsgivere, offentlige myndigheter, rettighetshavere og interessegrupper i sin region.</p>
+                            <div class="border-down">&nbsp;</div>
+                            <span class="ingress">Statskogs kjerneområder er skog, energi, eiendom og jakt, fiske og friluftsliv. Aktivitetene innen skog og energi er organisert som regionovergripende forretningsområder, mens ansvaret i de andre kjerneområdene ligger på regionnivå.</span>
+                            <p><b>Eiendom</b><br>
+                            Statskogs fem regioner har ansvar for kjerneområdene friluftsliv og eiendom. Regionene skal drifte og utvikle eiendommene. De er også Statskogs kontakt med oppdragsgivere, offentlige myndigheter, rettighetshavere og interessegrupper i sin region.</p>
                             <b>Areal per region:</b><br>
                             Troms 12 000 km2<br>
                             Salten 8 600 km2<br>
                             Helgeland 9 000 km2<br>
                             Midt-Norge 10 000 km2<br>
                             Sør-Norge 20 400 km2<br>
-                            </p>
-                            <p>Det meste av grunnen i Midt-Norge og Sør-Norge er statsallmenning.<br></p>
+                            Det meste av grunnen i Midt-Norge og Sør-Norge er statsallmenning.<br></p>
                             <p>
                             <p>Sum festekontrakter: Statskog har om lag 11 000 festekontrakter til bostad- og fritidsformål, i hovedsak fritidsfester.</p>
                             <p>I Troms og Nordland bidrar Statskog med en million årlig til næringsutviklingsprosjekter. De respektive fylkeskommunene bidrar også med en million kroner hver, slik at næringsaktører i hvert av fylkene kan søke fra en årlig pott på to millioner kroner om støtte til næringsutviklingsprosjekter. I 2012 ble det gitt støtte til om lag 20 prosjekter i Troms og Nordland.</p>

@@ -9,6 +9,13 @@
 @font-size: 12px;
 @menu-width: 960px;
 
+// farger
+@blagronn: #004c6b;
+@eiendombla: #252f66;
+@energiorange: #cf621c;
+@skoggronn: #006e78;
+@friluftslivr0d: #892530;
+
 .rounded-corners(@r: 5px) {
 	-webkit-border-radius: @r;
 	-moz-border-radius: @r;
@@ -89,11 +96,11 @@ body {
 h2,
 h3 {
     font-family: @font-heading;
-    font-weight: 700;
     font-size: 20px;
     line-height: 1px;
     font-weight: 400;
     text-transform: uppercase;
+    margin-bottom: 25px;
 }
 
 #log {
@@ -284,6 +291,15 @@ ul.main-menu li:hover {
     .drop-shadow(0, 2px, 3px, .3px);
 }
 
+li.list {
+    color: green;
+    margin-left: 14px;
+    margin-bottom: 3px;
+}
+
+li.list span {
+    color: black;
+}
 
 /* end menu */
 .content-box {
@@ -304,7 +320,7 @@ ul.main-menu li:hover {
 }
 
 .inner-box-front {
-    padding: 10px;
+    padding: 15px;
 }
 
 .content-box-right {
@@ -326,6 +342,10 @@ ul.main-menu li:hover {
 .image-rounded-shadow {
     .rounded-corners(10px);
     .shadow();
+}
+
+.border-down {
+    border-top: 2px solid #000;
 }
 
 /* icons */
@@ -368,8 +388,14 @@ ul.main-menu li:hover {
 /* historie */
 .year {
     font-size: 28px;
-    color: #eb620b;
-    padding: 10px;
+    color: @blagronn;
+    font-family: @font-heading;
+    font-weight: 400;
+}
+
+.ingress {
+    font-size: 12px;
+    color: #333;
 }
 
 /* tables */
@@ -418,6 +444,11 @@ tr:hover td {
     background-color: #eee;
 }
 
+#historie tr:hover td {
+    background-color: #fff;
+
+}
+
 /* styrets beretning - sidebar */
 .info-img {
     float: left; 
@@ -426,4 +457,41 @@ tr:hover td {
     width: 120px; 
     text-align: left;
     margin-left: 10px;
+    font-family: @font-heading;
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.stilling {
+    color: @blagronn;
+    font-style: italic;
+}
+
+
+.sitat {
+    padding: 10px;
+    font-family: @font-heading;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.small-heading {
+    font-family: @font-heading;
+    font-weight: 400;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.blue {
+    color: @blagronn;
+}
+
+hr { 
+    display: block; 
+    height: 1px;
+    border: 0; 
+    border-top: 1px solid #ccc;
+    margin: 1em 0; padding: 0; 
 }

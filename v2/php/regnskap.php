@@ -50,13 +50,14 @@
                     <div class="content-box" style="width: 960px;">
                       <div class="inner-box-front">
                             <h2>Resultatregnskap Statskog</h2>
-                            Beløp i 1000 kroner
+                            <div class="border-down">&nbsp;</div>
+                            
                             <table width="100%" border="0" cellpadding="4" class="tb">
                                <tr>
-                                  <td colspan="2" class="bold center">Konsern</td>
+                                  <td colspan="2" class="small-heading" style="color: #004c6b;">Statskog Konsern</td>
+                                  <td class="small-heading">(Beløp i 1000 kroner)</td>
                                   <td></td>
-                                  <td></td>
-                                  <td colspan="2" class="bold center">Statskog SF</td>
+                                  <td colspan="2" class="small-heading" style="color: #cf621c;">Statskog SF</td>
                                </tr>
                                <tr class="line-over-under">
                                   <td class="bold center col-grey">2012</td>
@@ -275,14 +276,14 @@
                                   <td class="right">86 174</td>
                                </tr>
                             </table>
+                            <p>&nbsp;</p>
                             <h2>Balanse Statskog</h2>
-                            Beløp i 1000 kroner
                             <table width="100%" border="0" cellpadding="4" class="tb">
-                            <tr>
-                                  <td colspan="2" class="bold center">Konsern</td>
+                              <tr>
+                                  <td colspan="2" class="small-heading" style="color: #004c6b;">Statskog Konsern</td>
+                                  <td class="small-heading">(Beløp i 1000 kroner)</td>
                                   <td></td>
-                                  <td></td>
-                                  <td colspan="2" class="bold center">Statskog SF</td>
+                                  <td colspan="2" class="small-heading" style="color: #cf621c;">Statskog SF</td>
                                </tr>
                            <tr class="bold line-over-under">
                               <td class="center col-grey">2012</td>
@@ -733,13 +734,14 @@
                               <td class="right">2 249 508</td>
                            </tr>
                         </table>
+                        <p>&nbsp;</p>
                         <h2>Kontantstrømoppstilling</h2>
-                       	Beløp i 1000 kroner
                         <table width="100%" border="0" cellpadding="4" class="tb">
-                           <tr>
-                                  <td colspan="2" class="bold center">Konsern</td>
+                            <tr>
+                                  <td colspan="2" class="small-heading" style="color: #004c6b;">Statskog Konsern</td>
+                                  <td class="small-heading">(Beløp i 1000 kroner)</td>
                                   <td></td>
-                                  <td colspan="3" class="bold center">Statskog SF</td>
+                                  <td colspan="2" class="small-heading" style="color: #cf621c;">Statskog SF</td>
                                </tr>
                            <tr class="bold center">
                               <td class="col-grey">2011</td>

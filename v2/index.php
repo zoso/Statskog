@@ -51,7 +51,7 @@
                             </div>
                         </div>
                         <div class="content-box-front">
-                            <img style="border-radius: 5px;" src="img/front_admdir.jpg" width="310" />
+                            <img class="image-rounded" src="img/front_admdir.jpg" width="310" />
                             <div class="inner-box-front">
                                 <a class="front" href="php/adm-dir-har-ordet.php">Administrerende direktør har ordet</a>
                             </div>
@@ -102,7 +102,6 @@
                                       <td width="17%">2009</td>
                                       <td width="17%">2008</td>
                                    </tr>
-                                   
                                    <tr>
                                       <td>Kvinner</td>
                                       <td>5,2%</td>
@@ -136,12 +135,6 @@
             <div style="clear: both;"></div>
             <?php include_once("php/footer.php"); ?>
         </div><!-- wrapper end -->
-       <!--  <div id="footer">
-            <a href="http://2011.statskog.no/" target="_blank">http://2011.statskog.no/</a>
-        </div> -->
-        <!-- footer -->
-        <!-- <?php include_once("php/footer.php"); ?> -->
-        <!-- footer end -->
     </body>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="js/jquery.statskog.js"></script>
