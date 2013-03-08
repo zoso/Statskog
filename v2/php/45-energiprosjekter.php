@@ -19,12 +19,12 @@
         <link rel="stylesheet" href="css/jquery.pageslide.css"></script> -->
         <!-- <script src="js/vendor/modernizr-2.6.2.min.js"></script> -->
 
-        <!-- <style>
+        <style>
             #top .top-bg {
-                background: url(../img/top_tall_grafer.jpg) 50% 0 no-repeat;
+                background: url(../img/top/Skog_1.jpg) 50% 0 no-repeat;
                 height: 400px; 
             }
-        </style>-->
+        </style>
 
     </head>
     <body>
@@ -57,7 +57,10 @@
                 </div>
                 <div id="right-container" style="float: right;">
                     <div class="content-box-right">
+                        <br>
                         <img src="../img/Graf01.png" width="270" />
+                        <br>
+                        <br>
                     </div>
                 </div>
                 <div style="clear: both;"></div>

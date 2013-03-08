@@ -1,4 +1,7 @@
 $(document).ready(function() {
+
+    //midtstill top
+
     $(".sub-menu").hide();
     $("#main-menu li").on("mouseenter", function(e) {
         $elm = $(this);

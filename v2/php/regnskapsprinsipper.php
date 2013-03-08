@@ -20,7 +20,7 @@
         <!-- <script src="js/vendor/modernizr-2.6.2.min.js"></script> -->
         <style>
             #top .top-bg {
-                background: url(../img/top_regnskap.jpg) 50% 0 no-repeat;
+                background: url(../img/top/Regnskapsprinsipper.jpg) 50% 0 no-repeat;
                 height: 400px;
             }
         </style>
@@ -49,7 +49,7 @@
                         <div class="inner-box-front">
                             <h2>Regnskapsprinsipper Statskog konsern</h2>
                             <div class="border-down">&nbsp;</div>
-                            Årsregnskapet er satt opp i henhold til regnskapslovens regnskapskapittel og er utarbeidet etter norske regnskapsstandarder og anbefalinger til god regnskapsskikk. Anvendte prinsipper er i henhold til tidligere år.
+                            Årsregnskapet er satt opp i henhold til regnskapslovens regnskapskapittel og er utarbeidet etter norske regnskapsstandarder og anbefalinger til god regnskapsskikk. Anvendte prinsipper er i henhold til tidligere år. Alle beløp i notene er i 1000 kroner med mindre annet er angitt
                             <p><b>Konsolidering</b><br>
                             Konsernregnskapet inkluderer Statskog Glomma AS, Statskog Børresen AS, Statskog Vafos AS, Inatur Nordic AS,  Statskog Energi AS, Statskog Energi Veiski AS, Statskog Vind AS, Stigafjell Vind AS, Skogvatnet Vind AS , Statskog Vind Midt-Norge og selskaper som Statskog SF har bestemmende innflytelse over. Bestemmende innflytelse oppnås normalt når konsernet eier mer enn 50 % av aksjene i selskapet, og konsernet er i stand til å utøve faktisk kontroll over selskapet. Minoritetsinteresser inngår i konsernets egenkapital.  Transaksjoner og mellomværende mellom selskapene i konsernet er eliminert. Konsernregnskapet er utarbeidet etter ensartede prinsipper, ved at datterselskapet følger de samme regnskapsprinsipper som morselskapet. Ved ulike prinsippendringer i selskapsregnskapene til datterselskaper er dette korrigert som prinsippendring mot egenkapitalen til konsernet.</p>
                             <p>Oppkjøpsmetoden benyttes ved regnskapsføring av virksomhetssammenslutninger. Selskaper som er kjøpt eller solgt i løpet av året inkluderes i konsernregnskapet fra det tidspunktet kontroll oppnås og inntil kontroll opphører.</p>
@@ -85,8 +85,9 @@
                 <div id="right-container" style="float: right;">
                     <div class="content-box-right">
                         <div class="inner-box-front">
-                            <span style="color: #f47320; font-size: 90px">??</span>
-                            <p><span class="sitat">blabblabab</span>    
+                            <!-- <span style="color: #f47320; font-size: 90px">??</span>
+                            <p><span class="sitat">blabblabab</span>  --> 
+                            &nbsp;
                         </div>
                     </div>
                 </div>

@@ -319,7 +319,7 @@
                                   <td class="right col-grey">2 457</td>
                                   <td class="right">8 475</td>
                                </tr>
-                               <tr>
+                               <tr class="line-over-under bold">
                                   <td>Sum lønnskostnad</td>
                                   <td class="right col-grey">94 503</td>
                                   <td class="right">86 480</td>
@@ -405,7 +405,7 @@
                                   <td>&nbsp;</td>
                                   <td class="right">715</td>
                                </tr>
-                               <tr>
+                               <tr class="line-over-under bold">
                                   <td>Sum</td>
                                   <td class="right">2 925</td>
                                   <td class="right">265</td>
@@ -464,7 +464,7 @@
                                </tr>
                             </table>
                             <p>&nbsp;</p>
-                            <b>Note 3 - Lønnskostnader og ytelser til ledende ansatte, styret og revisor</b>
+                            <b>Note 4 - Pensjonsforpliktelser</b>
                             <p style="font-size: 10px;">Statskog har avtale om ordinær kollektiv pensjonsforsikring for sine ansatte. Pensjonsordningen dekker alders-, uføre-, ektefelle- og barnepensjon. I tillegg har selskapet AFP-ordning (avtalefestet pensjon). Pensjonsordning dekker mimimums krav i lov om foretakspensjon.Premiefastsettelsen og beregning av pensjonsforpliktelsene skjer etter aktuarmessige prinsipper. og forutsetninger.</p>
                             <table width="100%" border="0" cellpadding="4" class="tb">
                                <tr class="bold">
@@ -725,7 +725,7 @@
                                <tr class="right line-over-under bold">
                                   <td class="left">Bokført verdi pr 31.12</td>
                                   <td>17 544</td>
-                                  <td>7 823</td>
+                                  <td>7 824</td>
                                   <td>73 631</td>
                                   <td>10 724</td>
                                   <td>0</td>
@@ -794,7 +794,7 @@
                                   <td>0</td>
                                   <td>0</td>
                                   <td>0</td>
-                                  <td class="line-under">5 063</td>
+                                  <td>5 063</td>
                                   <td>17 294</td>
                                </tr>
                                <tr class="right">
@@ -2454,7 +2454,7 @@
                               <td class="right">19 253</td>
                               <td class="right">0</td>
                               <td class="right">332 594</td>
-                              <td class="right">1 686 846</td>
+                              <td class="right">1 686 847</td>
                            </tr>
                            <tr>
                               <td></td>
@@ -2593,38 +2593,38 @@
                            </tr>
                            <tr>
                               <td>Regnskapsmessig avsetning</td>
-                              <td class="right col-grey">0</td>
+                              <td class="right col-grey">8 787</td>
+                              <td class="right">21 704</td>
+                              <td class="right col-grey">9 258</td>
                               <td class="right">26 181</td>
-                              <td class="right col-grey">0</td>
-                              <td class="right">29 548</td>
                            </tr>
-                           <tr>
-                              <td>Gjeld konsernselskap</td>
+                           <!--<tr>
+                              <td>&nbsp;</td>
                               <td class="right col-grey">0</td>
                               <td class="right">0</td>
                               <td class="right col-grey">0</td>
                               <td class="right">9 172</td>
-                           </tr>
+                           </tr>-->
                            <tr>
                               <td>Avsetning lønn og feriepenger</td>
                               <td class="right col-grey">9 903</td>
+                              <td class="right">8 832</td>
+                              <td class="right col-grey">9 960</td>
                               <td class="right">9 141</td>
-                              <td class="right col-grey">0</td>
-                              <td class="right">12 298</td>
                            </tr>
                            <tr>
                               <td>Annen kortsiktig gjeld</td>
-                              <td class="right col-grey">0</td>
+                              <td class="right col-grey">11 504</td>
+                              <td class="right">11 696</td>
+                              <td class="right col-grey">11 510</td>
                               <td class="right">11 708</td>
-                              <td class="right col-grey">12</td>
-                              <td class="right">14 235</td>
                            </tr>
                            <tr class="bold line-over-under">
                               <td>Sum annen kortsiktig gjeld</td>
-                              <td class="right col-grey">9 903</td>
+                              <td class="right col-grey">30 194</td>
+                              <td class="right">42 232</td>
+                              <td class="right col-grey">30 728</td>
                               <td class="right">47 030</td>
-                              <td class="right col-grey">12</td>
-                              <td class="right">65 253</td>
                            </tr>
                         </table>
                         <p>&nbsp;</p>

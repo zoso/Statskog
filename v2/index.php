@@ -16,6 +16,12 @@
         <link rel="stylesheet" href="css/normalize.css">
         
         <!-- <script src="js/vendor/modernizr-2.6.2.min.js"></script> -->
+        <style>
+            #top .top-bg {
+                background: url(img/top/Forside.jpg) 50% 0 no-repeat;
+                height: 400px;
+            }
+        </style>
     </head>
     <body>
         <div id="log"></div>
@@ -27,7 +33,7 @@
                 <div class="top-txt">
                     <h1>Årsrapport 2012</h1>
                     2012 ble nok et godt år for Statskog.
-                    Den <br>underliggende driften var solid.<br>
+                    Den underliggende<br> driften var solid. 
                     I tillegg fikk foretaket store engangsinntekter<br>
                     gjennom salg av eiendom og vern av områder.
                 </div>

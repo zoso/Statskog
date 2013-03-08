@@ -19,12 +19,12 @@
         <link rel="stylesheet" href="css/jquery.pageslide.css"></script> -->
         <!-- <script src="js/vendor/modernizr-2.6.2.min.js"></script> -->
 
-        <!-- <style>
+        <style>
             #top .top-bg {
                 background: url(../img/top_tall_grafer.jpg) 50% 0 no-repeat;
                 height: 400px;
             }
-        </style> -->
+        </style>
 
     </head>
     <body>
@@ -47,7 +47,7 @@
             <div style="clear: both;"></div>
             <div id="content-container">
                  <div id="left-container" style="float: left;">
-                    <div class="content-box">
+                    <div class="content-box" style="width: 960px">
                         <div class="inner-box-front">
                             <h2>Regnskap for Grunneierfondet</h2>
                             Beløp i 1000 kroner.
@@ -210,11 +210,11 @@ Midlene skal husholderes på en slik måte at de også gir rom for en aktiv forv
                         </div>
                     </div>
                 </div>
-                <div id="right-container" style="float: right;">
+                <!--<div id="right-container" style="float: right;">
                     <div class="content-box-right">
                         &nbsp;
                     </div>
-                </div>
+                </div> -->
                 <div style="clear: both;"></div>
             </div>
             <?php include_once("footer.php"); ?>

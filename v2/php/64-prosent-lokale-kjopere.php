@@ -19,12 +19,12 @@
         <link rel="stylesheet" href="css/jquery.pageslide.css"></script> -->
         <!-- <script src="js/vendor/modernizr-2.6.2.min.js"></script> -->
 
-        <!-- <style>
+        <style>
             #top .top-bg {
-                background: url(../img/top_tall_grafer.jpg) 50% 0 no-repeat;
+                background: url(../img/top/Rype.jpg) 50% 0 no-repeat;
                 height: 400px;
             }
-        </style> -->
+        </style>
 
     </head>
     <body>

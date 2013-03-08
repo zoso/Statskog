@@ -55,6 +55,7 @@
                 <div><a href="<?php echo $prefix; ?>regnskap.php">Regnskap</a></div>
                 <div><a href="<?php echo $prefix; ?>noter.php">Noter</a></div>
                 <div><a href="<?php echo $prefix; ?>tall-grafer.php">Nøkkeltall og grafer</a></div>
+                <div><a href="<?php echo $prefix; ?>regnskap-grunneierfondet.php">Grunneierfondet</a></div>
             </div>
         </div>
     </li>

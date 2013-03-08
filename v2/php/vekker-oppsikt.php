@@ -18,6 +18,12 @@
         <link rel="stylesheet" href="css/main.css">
         <link rel="stylesheet" href="css/jquery.pageslide.css"></script> -->
         <!-- <script src="js/vendor/modernizr-2.6.2.min.js"></script> -->
+         <style>
+            #top .top-bg {
+                background: url(../img/top/Hvitrev.jpg) 50% 0 no-repeat;
+                height: 400px;
+            }
+        </style>
     </head>
     <body>
         <!-- Add your site or application content here -->

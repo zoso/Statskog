@@ -18,6 +18,12 @@
         <link rel="stylesheet" href="css/main.css">
         <link rel="stylesheet" href="css/jquery.pageslide.css"></script> -->
         <!-- <script src="js/vendor/modernizr-2.6.2.min.js"></script> -->
+         <style>
+            #top .top-bg {
+                background: url(../img/top/Rev.jpg) 50% 0 no-repeat;
+                height: 400px;
+            }
+        </style>
     </head>
     <body>
         <!-- Add your site or application content here -->
@@ -40,7 +46,7 @@
                 <div id="left-container" style="float: left;">
                     <div class="content-box">
                         <div class="inner-box-front">
-                            <h2>- Skyt heller rev enn rype</h2>
+                            <h2>Skyt heller rev enn rype</h2>
                             <div class="border-down">&nbsp;</div>
                             Statskog er seg svært bevisst at rypebestanden jevnt over synker. I 2012 oppfordret foretaket jegerne til heller å jakte på rypas verste fiende, reven.
                             <p>– Særlig vinterjakt tærer på bestanden. Antall ryper i terrenget nå har mye å si for hvor mange det blir til høsten. Jo flere stamfugl, desto bedre, sier fagsjef Jo Inge Breisjøberget i Statskog.

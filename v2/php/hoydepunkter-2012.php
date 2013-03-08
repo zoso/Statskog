@@ -20,7 +20,7 @@
         <!-- <script src="js/vendor/modernizr-2.6.2.min.js"></script> -->
         <style>
             #top .top-bg {
-                background: url(../img/top_hoydepunkter.jpg) 50% 0 no-repeat;
+                background: url(../img/top/Viktige_hendelser.jpg) 50% 0 no-repeat;
                 height: 400px;
             }
         </style>
