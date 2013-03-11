@@ -49,7 +49,7 @@
                         <div class="inner-box-front">
                             <h2>Sentrale mål og strategier</h2>
                             <div class="border-down">&nbsp;</div>
-                            <span class="ingress">Statskogs hovedmål er å være Norges mest profesjonelle grunneier. Langsiktig lønnsomhet legges til grunn i all vår virksomhet. Vi er effektiv og brukerorientert, og baserer oss på bærekraftig utnyttelse av ressursene på fellesskapets grunn.</span>
+                            <span class="ingress">Statskogs hovedmål er å være Norges mest profesjonelle grunneier. Langsiktig lønnsomhet legges til grunn i all vår virksomhet. Vi skal være effektiv og brukerorientert, og baserer oss på bærekraftig utnyttelse av ressursene på fellesskapets grunn.</span>
                             <p></p>
                             <b>Innen eiendom betyr det at Statskog skal:</b>
                             <li class="list"><span>være ledende på drift av utmarkseiendom i Norge</span></li>

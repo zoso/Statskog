@@ -56,7 +56,9 @@
                 </div>
                 <div id="right-container" style="float: right;">
                     <div class="content-box-right">
-                        <img src="../img/Graf03.png" width="280" />
+                       
+                        <img src="../img/solgte eiendommer.jpg" width="290" />
+                        <img src="../img/kjopere.jpg" width="290" />
                     </div>
                 </div>
                 <div style="clear: both;"></div>

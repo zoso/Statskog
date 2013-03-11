@@ -21,13 +21,15 @@
         <div class="sub-menu">
             <!-- <div class="down-arrow">&nbsp;</div> -->
             <div class="sub">
+                <div><a href="<?php echo $prefix; ?>fakta-om-statskog.php">Fakta om Statskog</a></div>
                 <div><a href="<?php echo $prefix; ?>sentrale-mal-strategier.php">Sentrale mål og strategier</a></div>
                 <div><a href="<?php echo $prefix; ?>samfunnsansvar.php">Samfunnsansvar</a></div>
                 <div><a href="<?php echo $prefix; ?>kjerneomraader.php">Aktiviteter innenfor kjerneområdene</a></div>
                 <!--<div><a href="<?php echo $prefix; ?>regioner.php">Regioner</a></div>-->
                 <div><a href="<?php echo $prefix; ?>fjelltjenesten.php">Fjelltjenesten</a></div>
-                <div><a href="<?php echo $prefix; ?>styring-ledelse.php">Styring og ledelse</a></div>
-                <div><a href="<?php echo $prefix; ?>hoydepunkter-2012.php">Viktige hendelser i 2012</a></div>
+                <div><a href="<?php echo $prefix; ?>styring-ledelse.php">Eierstyring og selskapsledelse</a></div>
+                <div><a href="<?php echo $prefix; ?>organisasjonskart.php">Organisasjonskart</a></div>
+                <div><a href="<?php echo $prefix; ?>hoydepunkter-2012.php">Aktuelle hendelser i 2012</a></div>
             </div>
         </div>
     </li>
@@ -35,13 +37,12 @@
         <a href="#" class="">Arealene i kart<span class="down"></span></a>
         <div class="sub-menu">
             <div class="sub">
-                <!-- <div><a href="<?php echo $prefix; ?>oversikt-over-vernede-omraader.php">Statskogs eindommer</a></div> -->
-                <div><a href="<?php echo $prefix; ?>oversikt-over-vernede-omraader.php">Oversikt over vernede områder</a></div>
+                <div><a href="<?php echo $prefix; ?>statskogs-eiendommer.php">Statskogs eiendommer</a></div>
                 <div><a href="<?php echo $prefix; ?>produktiv-skog.php">Produktiv skog</a></div>
                 <div><a href="<?php echo $prefix; ?>skogsbilveier.php">Skogsbilveier</a></div>
-                <div><a href="<?php echo $prefix; ?>solgte-arealer.php">Solgte arealer i 2011 og 2012</a></div>
-                <!-- <div><a href="<?php echo $prefix; ?>reindriftsomrader.php">Reindriftsområder</a></div> -->
-                
+                <div><a href="<?php echo $prefix; ?>solgte-arealer.php">Solgte arealer</a></div>
+                <!--<div><a href="<?php echo $prefix; ?>reindriftsomrader.php">Reindriftsområder</a></div>-->
+                <div><a href="<?php echo $prefix; ?>oversikt-over-vernede-omraader.php">Vernede områder</a></div>
                 <!-- <div><a href="<?php echo $prefix; ?>energiprosjekter.php">Energiprosjekter</a></div> -->
                 <!-- <div><a href="<?php echo $prefix; ?>arealinndeling-storviltjakt.php">Arealinndeling storviltjakt</a></div> -->
             </div>

@@ -49,14 +49,12 @@
                         <div class="inner-box-front">
                             <h2>Skogsbilveier</h2>
                             <div class="border-down">&nbsp;</div>
-                            Statskog har ansvar knyttet til 1 475 skogbilveianlegg og 6 300 km skogsbilvei. Ofte er skogsbilveiene til nytte for langt flere enn skogeierne, da særlig til friluftsbruk eller ulike eksterne rettighetshavere. De aller fleste veiene er på foretakets egne eiendommer. På enkelte veier har Statskog ansvar alene, mens andre veier er fellesveier. Det er utfordrende å holde alle veiene ved like, særlig i de periodene det ikke tas ut skog. Derfor er det bomavgift på noen av veiene og noen veier er stengt for allmenn ferdsel på grunn av dårlig standard. For hver kubikkmeter tømmer Statskog avvirker, bruker vi 20-25 kroner til bygging, opprusting og vedlikehold av skogsveier.
-                            <p><b>Solgte arealer i 2011 og 2012</b><br>
-                            For å betale ned lånet Statskog fikk fra staten ved kjøp av Orklas skogeiendommer og samtidig få en bedre arrondert, eller driftsmessig, eiendomsmasse, er Statskog i ferd med å selge ut til sammen om lag 500 000 daa bestående av spredte skogeiendommer Statskog eide før kjøpet av Orklas skogeiendommer. Kartet viser hvilke eiendommer som er solgt så langt. Salget avsluttes i 2017.</p>
+                            Statskog har ansvar knyttet til 1 475 skogbilveianlegg og 7 501 km skogsbilvei. Ofte er skogsbilveiene til nytte for langt flere enn skogeierne, da særlig til friluftsbruk eller ulike rettighetshavere. De aller fleste veiene er på foretakets egne eiendommer. På enkelte veier har Statskog ansvar alene, mens andre veier er fellesveier. Det er utfordrende å holde alle veiene ved like, særlig i de periodene det ikke tas ut skog. Derfor er det bomavgift på noen av veiene og noen veier er stengt for allmenn ferdsel. 
                         </div>
                     </div>
                     <div class="content-box">
                         <div class="inner-box-front">
-                            <iframe width="610" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://statskog.maps.arcgis.com/home/webmap/embedViewer.html?webmap=b99eb4c44f454758ba07be4dfcbc5cc6&amp;extent=-7.0798,58.87,42.5061,70.7765"></iframe>
+                            <iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://statskog.maps.arcgis.com/home/webmap/embedViewer.html?webmap=b99eb4c44f454758ba07be4dfcbc5cc6&amp;extent=-7.0798,58.87,42.5061,70.7765"></iframe>
                         </div>
                     </div>
                 </div>

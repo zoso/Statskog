@@ -47,7 +47,7 @@
                 <div id="left-container" style="float: left;">
                     <div class="content-box">
                         <div class="inner-box-front">
-                            <h2>Viktige hendelser i 2012</h2>
+                            <h2>Aktuelle hendelser i 2012</h2>
                             <div class="border-down">&nbsp;</div>
                             <li class="list"><span>Region Sør-Norge har etter Orkla-kjøpet ca. 500 hytteeiendommer med til sammen ca. 1000 bygninger. Statskog vil selge ut 250 av disse eiendommene i årene som kommer. Salget er i gang, og vi solgte åtte hytter i 2012.</span></li>
                             <li class="list"><span>Statskog har, sammen med Vågå kommune, bidratt til å utvikle Lemonsjøen i Vågå til en hyttedestinasjon av betydning. I 2012 solgte vi retten til å bygge ut et nytt delfelt med 88 tomter til selskapet Lemonsjøen utvikling</span></li>
@@ -56,7 +56,7 @@
                             <li class="list"><span>NVE ga konsesjon på vannkraftverket Veiski. Prosjektet er et samarbeid mellom Norsk Vannkraftproduksjon og Statskog.</span></li>
                             <li class="list"><span>Sammen med samarbeidspartnerne Friluftsrådenes Landsforbund, Bedriftsidretten og Det norske Skogselskap, lanserte Statskog GodTur-appen i 2012. Her får folk et eget gratis turbibliotek i hånda.</span></li>
                             <li class="list"><span>Statskog fikk som tilrettelegger for friluftsliv satt opp og åpnet Allmenningsbua på Hinnøya. Den åpne bua ble raskt et yndet turmål for Harstad og omegns befolkning.</span></li>
-                            <li class="list"><span>Et eget regionutvalg for Troms ble valgt i samarbeid med regionrådene i Troms samt Troms Jeger og Fiskerforening og Norske Reindriftssamers Landsforbund. Regionutvalget skal bidra til en best mulig og omforent forvaltning av Statskogs grunn i Troms.</span></li>
+                            <li class="list"><span>Et eget regionutvalg for Troms ble valgt i samarbeid med regionrådene i Troms og Ofoten samt Troms Jeger og Fiskerforening og Norske Reindriftssamers Landsforbund. Regionutvalget skal bidra til en best mulig og omforent forvaltning av Statskogs grunn i Troms.</span></li>
                         </div>
                     </div>
                 </div>

@@ -18,12 +18,14 @@
         <link rel="stylesheet" href="css/main.css">
         <link rel="stylesheet" href="css/jquery.pageslide.css"></script> -->
         <!-- <script src="js/vendor/modernizr-2.6.2.min.js"></script> -->
-        <style>
+
+        <!-- <style>
             #top .top-bg {
-                background: url(../img/top/Produktiv_skog.jpg) 50% 0 no-repeat;
+                background: url(../img/top_tall_grafer.jpg) 50% 0 no-repeat;
                 height: 400px;
             }
-        </style>
+        </style> -->
+
     </head>
     <body>
         <!-- Add your site or application content here -->
@@ -47,23 +49,13 @@
                  <div id="left-container" style="float: left;">
                     <div class="content-box">
                         <div class="inner-box-front">
-                            <h2>Produktiv skog</h2>
-                            <div class="border-down">&nbsp;</div>
-                            Statskog forvalter en femtedel av fastlands-Norge. 17 prosent av denne grunnen består av skog, resten ligger over skoggrensen. Det er produktiv skog, det vil si økonomisk drivverdig skog, på 47 prosent av Statskogs skogarealer. Statskogs produktive skog utgjør seks prosent av den totale produktive skogen i Norge.
-                        </div>
-                    </div>
-                    <div class="content-box">
-                        <div class="inner-box-front">
-                            <iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://statskog.maps.arcgis.com/home/webmap/embedViewer.html?webmap=7909d2d2f57f4534871d6680884b9e58&amp;extent=-6.1624,57.6199,40.6648,69.4185"></iframe>
+                            
                         </div>
                     </div>
                 </div>
                 <div id="right-container" style="float: right;">
                     <div class="content-box-right">
-                        <div class="inner-box-front">
-                            <span style="color: #f47320; font-size: 90px">17%</span>
-                            <p><span class="sitat">STATSKOG FORVALTER EN FEMTEDEL AV FASTLANDS-NORGE. 17 PROSENT AV DENNE GRUNNEN BESTÅR AV SKOG.</span>    
-                        </div>
+                        &nbsp;
                     </div>
                 </div>
                 <div style="clear: both;"></div>

@@ -50,20 +50,19 @@
                             <h2>Oversikt over vernede områder</h2>
                             <div class="border-down">&nbsp;</div>
                             <span class="ingress">Statens eierskap er brukt som virkemiddel i etablering av nasjonale verneområder, som nasjonalparker og barskogvernområder. De første nasjonalparkene i Norge ble i hovedsak etablert på statens grunn, med unntak av Hardangervidda Nasjonalpark.</span>
-                            <p>I 2003 inngikk Statskog en samarbeidsavtale med Direktoratet for naturforvaltning (DN) om vern av skog på Statskogs eiendommer. Formålet med samarbeidsavtalen har vært å gjennomføre tiltak og definere oppgaver i forhold til utvidet skogvern, samt sikre en rasjonell gjennomføring av verneprosesser der Statskog er involvert. Det er DN som er vernemyndigheten. Statskogs rolle i dette samarbeidet er å være grunneier, med visse forvaltningsmessige oppgaver i statsallmenningene i henhold til fjell- og allmenningslovene. Kartet viser all vernet grunn i Norge, på både Statskogs og andre grunneieres eiendommer.</p>
+                            <p>Det er DN som er vernemyndigheten. Statskogs rolle er å være grunneier, med visse forvaltningsmessige oppgaver i statsallmenningene i henhold til fjell- og allmenningslovene. Kartet viser all grunn som er vernet på Statskogs eiendommer. I underkant av 40 prosent av Statskogs areal er vernet.</p>
                         </div>
                     </div>
                     <div class="content-box">
                         <div class="inner-box-front">
-                            <iframe width="610" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://statskog.maps.arcgis.com/home/webmap/embedViewer.html?webmap=1e078c7e7d8142d58d9563a42a71578f&amp;extent=-5.3672,57.9657,42.3583,69.9238"></iframe>
+                            <iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://statskog.maps.arcgis.com/home/webmap/embedViewer.html?webmap=1e078c7e7d8142d58d9563a42a71578f&amp;extent=-5.3672,57.9657,42.3583,69.9238"></iframe>
                         </div>
                     </div>
                 </div>
                 <div id="right-container" style="float: right;">
                     <div class="content-box-right">
                         <div class="inner-box-front" style="text-align: left;">
-                            <!--<div><<</div> -->
-                            <span class="sitat">I 2003 INNGIKK STATSKOG EN SAMARBEIDSAVTALE MED DN OM VERN AV SKOG</span>
+                            <span class="sitat">DET ER DIREKTORATET FOR NATURFORVALTNING SOM ER VERNEMYNDIGHETEN. STATSKOGS ROLLE ER Å VÆRE GRUNNEIER.</span>
                         </div>
                     </div>
                 </div>

@@ -32,10 +32,10 @@
             <div class="top-container">
                 <div class="top-txt">
                     <h1>Årsrapport 2012</h1>
-                    2012 ble nok et godt år for Statskog.
+                    <!--2012 ble nok et godt år for Statskog.
                     Den underliggende<br> driften var solid. 
                     I tillegg fikk foretaket store engangsinntekter<br>
-                    gjennom salg av eiendom og vern av områder.
+                    gjennom salg av eiendom og vern av områder.-->
                 </div>
             </div>
             <div class="top-bg"></div>
@@ -71,9 +71,11 @@
                     </div>
                     <div style="float: left; width: 313px; margin-right: 10px;">
                         <div class="content-box-front" style="text-align: center;">
-                            <a href="php/64-prosent-lokale-kjopere.php"><img src="img/Graf02b.png" /></a>
+                            <a href="php/solgte-arealer.php"><img src="img/solgte eiendommer.jpg" /></a>
+                            <a href="php/solgte-arealer.php"><img src="img/kjopere.jpg" /></a>
+                        </div>
+                        <div class="content-box-front" style="text-align: center;">
                             <a href="php/45-energiprosjekter.php"><img src="img/Graf01.png" /></a>
-                            <a href="php/solgte-eiendommer-2012.php"><img src="img/Graf03.png" /></a>
                         </div>
                         <div class="content-box-front">
                             <img class="image-rounded" src="img/front-overrasker2.jpg" width="310" />
@@ -106,7 +108,7 @@
                                       <td width="17%">2011</td>
                                       <td width="17%">2010</td>
                                       <td width="17%">2009</td>
-                                      <td width="17%">2008</td>
+                                      
                                    </tr>
                                    <tr>
                                       <td>Kvinner</td>
@@ -114,7 +116,7 @@
                                       <td>8,1%</td>
                                       <td>3,0%</td>
                                       <td>2,4%</td>
-                                      <td>Ikke spesifisert</td>
+                                      
                                    </tr>
                                    <tr>
                                       <td>Menn</td>
@@ -122,7 +124,7 @@
                                       <td>2,3%</td>
                                       <td>3,1%</td>
                                       <td>4%</td>
-                                      <td>Ikke spesifisert</td>
+                                      
                                    </tr>
                                    <tr>
                                       <td>Alle</td>
@@ -130,7 +132,7 @@
                                       <td>4,3%</td>
                                       <td>3,1%</td>
                                       <td>3,4%</td>
-                                      <td>4%</td>
+                                      
                                    </tr>
                                 </table>
                             </div>

@@ -47,22 +47,32 @@
                  <div id="left-container" style="float: left;">
                     <div class="content-box">
                         <div class="inner-box-front">
-                            <h2>Solgte arealer i 2011 og 2012</h2>
+                            <h2>Solgte arealer</h2>
                             <div class="border-down">&nbsp;</div>
-                            For å betale ned lånet Statskog fikk fra staten ved kjøp av Orklas skogeiendommer og samtidig få en bedre arrondert, eller driftsmessig, eiendomsmasse, er Statskog i ferd med å selge ut til sammen om lag 500 000 daa bestående av spredte skogeiendommer Statskog eide før kjøpet av Orklas skogeiendommer.<p>Kartet viser hvilke eiendommer som er solgt så langt. Salget avsluttes i 2017.</p>
+                            Kjøpet av Orklas skogeiendommer i desember 2010 ga Statskog muligheten til å få en bedre arrondert, eller driftsmessig, eiendomsmasse. Statskog er i ferd med å selge ut til sammen om lag 500 000 dekar bestående av spredte skogeiendommer Statskog eide før kjøpet av Orklas skogeiendommer. Disse salgene kan styrke lokale grunneiere og bidra til at også de får en mer effektiv drift. Kartet viser hvilke eiendommer som er solgt så langt. 
+                            <p>Salget begynte i 2011 og vil gå fram til 2017. Grafen viser hvor mye grunn som er solgt fram til utgangen av 2012. I hele salgsperioden vil det bli solgt om lag 500 000 dekar, noe som gjør salget til det største statlige eiendomssalget i moderne tid.</p>
+                            <p>Så langt har Statskog solgt 131 776 dekar. Som grafen viser er det solgt mest på Østlandet. Deretter følger Midt-Norge, Vestlandet, Sørlandet og Nord-Norge. Den totale inntekten på eiendomssalget så langt er 147 686 000 kroner.</p>
+                            <p>Et pålegg fra Stortinget gir Direktoratet for naturforvaltning (DN) en forkjøpsrett på alle eiendommene Statskog legger ut for salg gjennom dette salget fra 2011 til 2017. Årsaken til at DN er gitt forkjøpsrett, er at de skal kunne benytte eiendommene til vern eller makeskifte knyttet til vern av private skogeiendommer. I kartet viser de grønne symbolene eiendommene som er solgt direkte til DN.</p>
+                            <p>Salget så langt viser at 64 prosent av kjøperne er lokale skogeiere. I tillegg har DN kjøpt 16 prosent, som de vil bruke i framtidige makeskifter overfor private skogeiere. I kartet viser de grønne symbolene eiendommene som er solgt direkte til DN.</p> 
+                            <p>Ytterligere ti prosent er solgt til kommuner. Hele 90 prosent av de solgte eiendommene er med andre ord blitt eller vil bli solgt til private og/eller lokale eiere.</p>
                         </div>
                     </div>
                     <div class="content-box">
                         <div class="inner-box-front">
-                            <iframe width="610" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://statskog.maps.arcgis.com/home/webmap/embedViewer.html?webmap=99118e9a20794b5484e23c38efd7ea22&amp;extent=-8.1728,58.2214,39.6276,69.8776"></iframe>
+                            <iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://statskog.maps.arcgis.com/home/webmap/embedViewer.html?webmap=99118e9a20794b5484e23c38efd7ea22&amp;extent=-8.1728,58.2214,39.6276,69.8776"></iframe>
                         </div>
                     </div>
                 </div>
                 <div id="right-container" style="float: right;">
                     <div class="content-box-right">
                         <div class="inner-box-front">
-                            <span style="color: #f47320; font-size: 90px">17%</span>
-                            <p><span class="sitat">STATSKOG FORVALTER EN FEMTEDEL AV FASTLANDS-NORGE. 17 PROSENT AV DENNE GRUNNEN BESTÅR AV SKOG.</span>    
+                            &nbsp;
+                            
+                                <a href="solgte-arealer.php"><img src="../img/solgte eiendommer.jpg" width="260" /></a>
+                                <a href="solgte-arealer.php"><img src="../img/kjopere.jpg" width="260" /></a>
+                                <!-- <a href="45-energiprosjekter.php"><img src="../img/Graf01.png" width="260" /></a> -->
+                                
+                            </div>
                         </div>
                     </div>
                 </div>

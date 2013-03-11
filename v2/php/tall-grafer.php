@@ -250,7 +250,7 @@
                                   <td width="17%">2011</td>
                                   <td width="17%">2010</td>
                                   <td width="17%">2009</td>
-                                  <td width="17%">2008</td>
+                                  
                                </tr>
                                
                                <tr>
@@ -259,7 +259,7 @@
                                   <td>8,1%</td>
                                   <td>3,0%</td>
                                   <td>2,4%</td>
-                                  <td>Ikke spesifisert</td>
+                                  
                                </tr>
                                <tr>
                                   <td>Menn</td>
@@ -267,7 +267,7 @@
                                   <td>2,3%</td>
                                   <td>3,1%</td>
                                   <td>4%</td>
-                                  <td>Ikke spesifisert</td>
+                                  
                                </tr>
                                <tr>
                                   <td>Alle</td>
@@ -275,7 +275,7 @@
                                   <td>4,3%</td>
                                   <td>3,1%</td>
                                   <td>3,4%</td>
-                                  <td>4%</td>
+                                  
                                </tr>
                             </table>
                        </div>

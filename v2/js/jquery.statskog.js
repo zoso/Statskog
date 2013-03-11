@@ -3,6 +3,10 @@ $(document).ready(function() {
     //midtstill top
     //$("#top-container")
 
+    //var top = $("#top");
+    //$("#log").html("> "+top.width);
+
+    //$("#log").html(">> "+top.width());
 
     $(".sub-menu").hide();
     $("#main-menu li").on("mouseenter", function(e) {
