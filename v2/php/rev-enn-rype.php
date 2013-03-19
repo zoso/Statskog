@@ -70,8 +70,13 @@
                 </div>
                 <div id="right-container" style="float: right;">
                     <div class="content-box-right">
+                        <div class="inner-box-front">
+                            <img src="../img/grafer/Grafer3-11.jpg" width="260" />
+                        </div>
+                    </div>
+                    <div class="content-box-right">
                     	<div class="inner-box-front">
-                        <p style="padding: 10px"><b>Salg av jakt- og fiskeprodukter/jaktstatistikk</b></p>
+                        <p style="padding-left: 16px; text-align: left; font-size: 12px; color: #004c6b;" class="small-heading">Salg av jakt- og fiskeprodukter/jaktstatistikk</p>
 						<div style="margin: auto; width: 235px;">
                         	<table width="230px" border="0" cellpadding="4">
                               <tr style="font-weight: bold;" class="line-over-under">

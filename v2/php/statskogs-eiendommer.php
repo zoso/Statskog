@@ -51,7 +51,7 @@
                         <div class="inner-box-front">
                             <h2>Statskogs eiendommer</h2>
                             <div class="border-down">&nbsp;</div>
-                            Statskog forvalter om lag 60 000 km2. Statsallmenningene er i Midt- og Sør-Norge, og utgjør om lag 26 600 km2. Statsallmenningene forvaltes av Statskog, fjellstyrene og allmenningsstyrene etter fjellovens og statsallmenningslovens bestemmelser. 
+                            Statskog forvalter om lag 60 000 km<sup>2</sup>. Statsallmenningene er i Midt- og Sør-Norge (farget med oransje i kartet), og utgjør om lag 26 600 km<sup>2</sup>. Statsallmenningene forvaltes av Statskog, fjellstyrene og allmenningsstyrene etter fjellovens og statsallmenningslovens bestemmelser. 
                         </div>
                     </div>
                     <div class="content-box">
@@ -62,8 +62,8 @@
                 </div>
                 <div id="right-container" style="float: right;">
                     <div class="content-box-right">
-                        <span style="color: #f47320; font-size: 90px">17%</span>
-                            <p><span class="sitat">STATSKOG FORVALTER EN FEMTEDEL AV FASTLANDS-NORGE. 17 PROSENT AV DENNE GRUNNEN BESTÅR AV SKOG.</span>                    </div>
+                        <img src="../img/grafer/Grafer3-02.jpg" />
+                    </div>
                 </div>
                 <div style="clear: both;"></div>
             </div>

@@ -55,8 +55,8 @@
                         Kjøpet av Orklas skogeiendommer i 2010 var det største skogkjøpet i Norge i nyere tid, og et strategisk og forretningsmessig viktig grep for Statskog. Styrets oppfatning er at foretakets samlede tømmeravvirkning etter skogkjøpet ytterligere har befestet Statskogs posisjon som en viktig, forutsigbar og langsiktig leverandør av virke til trebasert industri.
                         </p>Statskog har i 2012 innfridd styrets forventninger og mål til foretakets drift og økonomi. Skogkjøpet fra Orkla i 2010 var et strategisk viktig grep for Statskog. Arbeidet med å integrere eiendommene i den operative virksomheten har gått som planlagt.
                         <p>Arronderingssalget som ble vedtatt av Stortinget, hvor Statskog skal gjennomføre et omfattende salg av spredte skogeiendommer, har gitt foretaket muligheten til å effektivisere driften, og foretaket er i rute med dette arbeidet.</p>
-                        <p>Statskog har hatt tilfredsstillende lønnsomhet i skogbruket, og styret er av den oppfatning at med en robust driftsmodell og lave driftskostnader, så vil skogbruket fortsatt være lønnsomt fremover.</p>
-                        <p>Den systematiske satsingen på utvikling av foretakets kraftressurser har begynt å gi resultater. Det er så langt gitt konsesjon på tre prosjekter som utnytter foretakets fallressurser, og et av prosjektene, Muoidejohka Kraft AS, vil starte kraftproduksjon i 2013. Dette kraftverket ligger i Beiarn kommune og eies av Statskog Energi AS sammen med Småkraft AS.</p><p>Foretaket forventer flere konsesjoner i tiden som kommer. Åtte prosjekter er under behandling hos NVE og 29 prosjekter ligger i kø hos NVE. De fleste prosjektene er småkraftprosjekter.Foretaket har i 2012 innfridd styrets forventninger og mål til foretakets operative drift og økonomi.</p>
+                        <p>Statskog har hatt tilfredsstillende lønnsomhet i skogbruket i året som har gått. Styret er av den oppfatning at med en robust driftsmodell og lave driftskostnader, så vil skogbruket fortsatt være lønnsomt fremover, men det vil være viktig å følge strukturendringene i markedet fremover.</p>
+                        <p>Den systematiske satsingen på utvikling av foretakets kraftressurser har begynt å gi resultater. Det er så langt gitt konsesjon på tre prosjekter som utnytter foretakets fallressurser, og et av prosjektene, Muoidejohka Kraft AS, vil starte kraftproduksjon i 2013. Dette kraftverket ligger i Beiarn kommune og eies av Statskog Energi AS sammen med Småkraft AS.</p><p>Foretaket forventer flere konsesjoner i tiden som kommer. Åtte prosjekt er under behandling hos NVE og 29 prosjekter ligger i kø hos NVE. De fleste prosjektene er småkraftprosjekter. Foretaket har i 2012 innfridd styrets forventninger og mål til foretakets operative drift og økonomi.</p>
                         <p><b>Redegjørelse for årsregnskapet</b><br>
                         <span class="blue">Resultatregnskapet</span><br>
                         Konsernet Statskog hadde en brutto omsetning på 443,7 millioner kroner i 2012, og et driftsresultat på 160,2  millioner kroner. Morselskapet Statskog SF hadde en brutto omsetning på 380,5 millioner kroner. Konsernets totalkapital var 2 210,5 millioner kroner per 31.12.2012. Egenkapitalen utgjorde 1 686,9 millioner kroner.</p>
@@ -125,7 +125,7 @@
                             <div class="inner-box-front">
                                 <div style="width: 260px; height: 160px;">
                                     <div style="float: left; width: 130px;">
-                                        <img src="../img/persons/styre_mann_2.jpg" />
+                                        <img src="../img/persons/32744-041.jpg" />
                                     </div>
                                     <div class="info-img">
                                         <div>Harald</div>
@@ -136,7 +136,7 @@
                                 </div>
                                 <div style="width: 260px; height: 160px;">
                                     <div style="float: left; width: 130px;">
-                                        <img src="../img/persons/styre_dame_2.jpg" />
+                                        <img src="../img/persons/32744-035.jpg" />
                                     </div>
                                     <div class="info-img">
                                         <div>Eli</div>
@@ -147,7 +147,7 @@
                                 </div>
                                 <div style="width: 260px; height: 160px;">
                                     <div style="float: left; width: 130px;">
-                                        <img src="../img/persons/styre_mann_1.jpg" />
+                                        <img src="../img/persons/32744-024.jpg" />
                                     </div>
                                     <div class="info-img">
                                         <div>Tom</div>
@@ -158,7 +158,7 @@
                                 </div>
                                 <div style="width: 260px; height: 160px;">
                                     <div style="float: left; width: 130px;">
-                                        <img src="../img/persons/styremedlem_kari-okland.jpg" />
+                                        <img src="../img/persons/kari_okland.jpg" />
                                     </div>
                                     <div class="info-img">
                                         <div>Kari</div>
@@ -169,7 +169,7 @@
                                 </div>
                                 <div style="width: 260px; height: 160px;">
                                     <div style="float: left; width: 130px;">
-                                        <img src="../img/persons/styre_mann_5.jpg" />
+                                        <img src="../img/persons/32744-045.jpg" />
                                     </div>
                                     <div class="info-img">
                                         <div>Gunnar</div>
@@ -180,7 +180,7 @@
                                 </div>
                                 <div style="width: 260px; height: 160px;">
                                     <div style="float: left; width: 130px;">
-                                        <img src="../img/persons/styre_dame_1.jpg" />
+                                        <img src="../img/persons/32744-031.jpg" />
                                     </div>
                                     <div class="info-img">
                                         <div>Siw Anita</div>
@@ -191,7 +191,7 @@
                                 </div>
                                 <div style="width: 260px; height: 160px;">
                                     <div style="float: left; width: 130px;">
-                                        <img src="../img/persons/styre_mann_4.jpg" />
+                                        <img src="../img/persons/32744-052.jpg" />
                                     </div>
                                     <div class="info-img">
                                         <div>Geir</div>
@@ -200,7 +200,7 @@
                                         <div style="border-bottom: 2px solid #000">&nbsp;</div>
                                     </div>
                                 </div>
-                                <p style="height: 55px;">&nbsp;</p>
+                               
                             </div>
                       </div> 
                     </div>

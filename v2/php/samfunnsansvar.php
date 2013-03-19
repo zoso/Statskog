@@ -53,12 +53,12 @@
 
                             <li class="list"><span>være en garantist for allmennhetens tilgang til jakt og fiske</span></li>
                             <li class="list"><span>legge til rette for allmennhetens friluftsliv</span></li>
-                            <li class="list"><span>bidra til verdiskaping på fellesskapets ressurs</span></li>
+                            <li class="list"><span>bidra til verdiskaping på fellesskapets ressurser</span></li>
                             <li class="list"><span>ivareta rettighetshavernes interesser</span></li>
                             <li class="list"><span>bidra til andres verdiskaping</span></li>
                             <li class="list"><span>være opptatt av samfunnsnytte og ringvirkninger</span></li> 
                             <li class="list"><span>ta hensyn til miljø og verneinteresser</span></li>
-                            <li class="list"><span>bidra til de nasjonale klimamålene</span></li>
+                            <li class="list"><span>bidra til å nå de nasjonale klimamålene</span></li>
                         </div>
                     </div>
                 </div> <!-- end left container -->

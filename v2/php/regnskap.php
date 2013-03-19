@@ -64,7 +64,7 @@
                                   <td class="bold center">2011</td>
                                   <td></td>
                                   <td class="center">Noter</td>
-                                  <td class="bold center">2012</td>
+                                  <td class="bold center col-grey">2012</td>
                                   <td class="bold center">2011</td>
                                </tr>
                                <tr>

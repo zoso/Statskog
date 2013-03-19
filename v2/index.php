@@ -31,7 +31,7 @@
             ?>
             <div class="top-container">
                 <div class="top-txt">
-                    <h1>Årsrapport 2012</h1>
+                    <h1>ÅRSRAPPORT 2012</h1>
                     <!--2012 ble nok et godt år for Statskog.
                     Den underliggende<br> driften var solid. 
                     I tillegg fikk foretaket store engangsinntekter<br>
@@ -65,17 +65,17 @@
                         <div class="content-box-front">
                             <img class="image-rounded" src="img/front-app.jpg" />
                             <div class="inner-box-front">
-                                <a class="front" href="php/ny-tur-app.php">Ny tur app!</a>
+                                <a class="front" href="php/ny-tur-app.php">Ny tur-app</a>
                             </div>
                         </div>
                     </div>
                     <div style="float: left; width: 313px; margin-right: 10px;">
                         <div class="content-box-front" style="text-align: center;">
-                            <a href="php/solgte-arealer.php"><img src="img/solgte eiendommer.jpg" /></a>
-                            <a href="php/solgte-arealer.php"><img src="img/kjopere.jpg" /></a>
+                            <a href="php/solgte-arealer.php"><img src="img/grafer/Grafer3-03.jpg" /></a>
+                            <a href="php/solgte-arealer.php"><img src="img/grafer/Grafer3-01.jpg" /></a>
                         </div>
                         <div class="content-box-front" style="text-align: center;">
-                            <a href="php/45-energiprosjekter.php"><img src="img/Graf01.png" /></a>
+                            <a href="php/45-energiprosjekter.php"><img src="img/grafer/Grafer3-04.jpg" /></a>
                         </div>
                         <div class="content-box-front">
                             <img class="image-rounded" src="img/front-overrasker2.jpg" width="310" />
@@ -99,42 +99,9 @@
                             </div>
                         </div>
                         <div class="content-box-front">
+                            <img class="image-rounded" src="img/front-historie.jpg" width="310" />
                             <div class="inner-box-front">
-                                <h2>Sykefravær</h2>
-                                <table width="100%" border="0" cellpadding="4" class="tb">
-                                   <tr class="bold line-over-under">
-                                      <td width="17%">År</td>
-                                      <td width="15%">2012</td>
-                                      <td width="17%">2011</td>
-                                      <td width="17%">2010</td>
-                                      <td width="17%">2009</td>
-                                      
-                                   </tr>
-                                   <tr>
-                                      <td>Kvinner</td>
-                                      <td>5,2%</td>
-                                      <td>8,1%</td>
-                                      <td>3,0%</td>
-                                      <td>2,4%</td>
-                                      
-                                   </tr>
-                                   <tr>
-                                      <td>Menn</td>
-                                      <td>2,0%</td>
-                                      <td>2,3%</td>
-                                      <td>3,1%</td>
-                                      <td>4%</td>
-                                      
-                                   </tr>
-                                   <tr>
-                                      <td>Alle</td>
-                                      <td>3,1%</td>
-                                      <td>4,3%</td>
-                                      <td>3,1%</td>
-                                      <td>3,4%</td>
-                                      
-                                   </tr>
-                                </table>
+                                <a class="front" href="php/historie.php">Historie</a>
                             </div>
                         </div>
                     </div>

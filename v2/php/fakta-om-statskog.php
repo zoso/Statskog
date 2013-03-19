@@ -51,9 +51,7 @@
                         <div class="inner-box-front">
                             <h2>Fakta om Statskog</h2>
                              <div class="border-down">&nbsp;</div>
-                            Statskog SF er et statsforetak eid av Landbruks- og matdepartementet. Foretaket har 16 kontorer og har hovedkontor i Namsos i Nord-Trøndelag. 
-Statskog er Norges største grunneier, og drifter og utvikler eiendommer på om lag 60 millioner dekar. Dette tilsvarer om lag 20 prosent av arealet i Norge. Foretaket driver med skogbruk, jakt og fiske, arealutleie samt utvikling av energi-, areal- og mineralressurser.
-
+                            <span class="ingress">Statskog SF er et statsforetak eid av Landbruks- og matdepartementet. Foretaket har 19 kontorer og har hovedkontor i Namsos i Nord-Trøndelag.</span><p>&nbsp;</p><p>Statskog er Norges største grunneier, og drifter og utvikler eiendommer på om lag 60 millioner dekar. Dette tilsvarer om lag 20 prosent av arealet i Norge. Foretaket driver med skogbruk, jakt og fiske, arealutleie samt utvikling av energi-, areal- og mineralressurser.</p>
                         </div>
                     </div>
                 </div>

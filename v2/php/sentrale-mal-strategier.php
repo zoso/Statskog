@@ -50,24 +50,24 @@
                             <h2>Sentrale mål og strategier</h2>
                             <div class="border-down">&nbsp;</div>
                             <span class="ingress">Statskogs hovedmål er å være Norges mest profesjonelle grunneier. Langsiktig lønnsomhet legges til grunn i all vår virksomhet. Vi skal være effektiv og brukerorientert, og baserer oss på bærekraftig utnyttelse av ressursene på fellesskapets grunn.</span>
-                            <p></p>
+                            <p>&nbsp;</p>
                             <b>Innen eiendom betyr det at Statskog skal:</b>
                             <li class="list"><span>være ledende på drift av utmarkseiendom i Norge</span></li>
                             <li class="list"><span>være effektiv og brukerorientert</span></li>
                             <li class="list"><span>realisere eiendommenes utviklingspotensial</span></li>
-                            <b>Innen friluftsliv betyr det at Statskog skal:</b><br>
+                            <br><b>Innen friluftsliv betyr det at Statskog skal:</b><br>
                             <li class="list"><span>øke bruk gjennom videreutvikling og tilgjengeliggjøring av jakt- og fiskeproduktene</span></li>
                             <li class="list"><span>være landets ledende grunneier på kunnskapsbasert forvaltning av utmarksressurser</span></li>
                             <li class="list"><span>være en garantist for allmennhetens tilgang til jakt og fiske</span></li>
-                            <b>Innen skog betyr det at Statskog:</b><br>
+                            <br><b>Innen skog betyr det at Statskog:</b><br>
                             <li class="list"><span>skal være landets dyktigste industrielle skogeier</span></li>
                             <li class="list"><span>avvirker bærekraftig og effektivt</span></li>
                             <li class="list"><span>deltar aktivt i tømmeromsetning gjennom eierposisjoner</span></li>
-                            <b>Innen energi betyr det at Statskog skal:</b><br>
+                            <br><b>Innen energi betyr det at Statskog skal:</b><br>
                             <li class="list"><span>være landets ledende grunneier i utvikling av fornybare energiressurser
                             <li class="list"><span>utvikle gode og robuste forretningsmodeller</span></li>
                             <li class="list"><span>skape lønnsomhet gjennom å bidra til effektiv utbygging og drift</span></li>
-                        
+                            <p>&nbsp;</p>
                         </div>
                     </div>
                 </div>

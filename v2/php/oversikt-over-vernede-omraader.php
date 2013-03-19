@@ -49,8 +49,8 @@
                         <div class="inner-box-front">
                             <h2>Oversikt over vernede områder</h2>
                             <div class="border-down">&nbsp;</div>
-                            <span class="ingress">Statens eierskap er brukt som virkemiddel i etablering av nasjonale verneområder, som nasjonalparker og barskogvernområder. De første nasjonalparkene i Norge ble i hovedsak etablert på statens grunn, med unntak av Hardangervidda Nasjonalpark.</span>
-                            <p>Det er DN som er vernemyndigheten. Statskogs rolle er å være grunneier, med visse forvaltningsmessige oppgaver i statsallmenningene i henhold til fjell- og allmenningslovene. Kartet viser all grunn som er vernet på Statskogs eiendommer. I underkant av 40 prosent av Statskogs areal er vernet.</p>
+                            Statens eierskap er brukt som virkemiddel i etablering av nasjonale verneområder, som nasjonalparker og barskogvernområder. De første nasjonalparkene i Norge ble i hovedsak etablert på statens grunn, med unntak av Hardangervidda Nasjonalpark.
+                            <p>Det er DN som er vernemyndigheten. Statskogs rolle er å være grunneier, med visse forvaltningsmessige oppgaver i statsallmenningene i henhold til fjell- og allmenningslovene. Kartet viser all grunn som er vernet på Statskogs eiendommer. I overkant av 40 prosent av Statskogs areal er vernet.</p>
                         </div>
                     </div>
                     <div class="content-box">
@@ -60,6 +60,9 @@
                     </div>
                 </div>
                 <div id="right-container" style="float: right;">
+                    <div class="content-box-right">
+                        <img src="../img/grafer/Grafer3-08.jpg" />
+                    </div>
                     <div class="content-box-right">
                         <div class="inner-box-front" style="text-align: left;">
                             <span class="sitat">DET ER DIREKTORATET FOR NATURFORVALTNING SOM ER VERNEMYNDIGHETEN. STATSKOGS ROLLE ER Å VÆRE GRUNNEIER.</span>

@@ -73,7 +73,7 @@
                                 <tr>
                                     <td valign="top" class="year">1993</td>
                                     <td>&nbsp;</td>
-                                    <td valign="top">Statsforetaket Statskog opprettes og Direktoratet for statens skoger legges ned. Hovedkontoret for Statskog SF legges i Namsos.</td>
+                                    <td valign="top">Statsforetaket Statskog opprettes og Direktoratet for statens skoger legges ned. Hovedkontoret flyttes fra Oslo til Namsos.</td>
                                 </tr>
                                 <tr>
                                     <td>&nbsp;</td>
@@ -179,7 +179,7 @@
                                     <td><hr></td>
                                 </tr>
                                 <tr>
-                                    <td valign="top" class="year">1600 - 1700</td>
+                                    <td valign="top" class="year" style="line-height: 30px;">1600- 1700</td>
                                     <td>&nbsp;</td>
                                     <td valign="top">På 16- og 1700-tallet var Norges skoger preget av hard hogst. Skogen var en av de viktigste ressursene i det førindustrielle samfunnet i Norge, og en kilde til rikdom for de som eide skog. Skogen var på denne tiden også en livsnødvendighet for allmuen, som hadde visse hevdvunne rettigheter til å hugge for eget bruk, blant annet til brensel og husbygging.
                                     </td>

@@ -51,14 +51,14 @@
                         <div class="inner-box-front">
                             <h2>45 energiprosjekter</h2>
                             <div class="border-down">&nbsp;</div>
-                            <p>Som grunneier skal Statskog utvikle alle verdier på fellesskapets grunn. Vi har derfor i flere år kartlagt mulige kraftprosjekter på egen grunn, og nå begynner resultatet av dette arbeidet å vises. I samarbeid med andre berørte grunneiere og kraftaktører har vi fått konsesjon på fire kraftverk, ett av dem vil komme i drift i 2013. Det er sendt inn ytterligere 41 søknader om bygging av fornybar kraftproduksjon til Norges vassdrags- og energidirektorat (NVE).</p>
+                            <span class="ingress">Som grunneier skal Statskog utvikle alle verdier på fellesskapets grunn. Vi har derfor i flere år kartlagt mulige kraftprosjekter på egen grunn, og nå begynner resultatet av dette arbeidet å vises.</span><p>I samarbeid med andre berørte grunneiere og kraftaktører har vi fått konsesjon på fire kraftverk, ett av dem vil komme i drift i 2013. Det er sendt inn ytterligere 41 søknader om bygging av fornybar kraftproduksjon til Norges vassdrags- og energidirektorat (NVE).</p>
                         </div>
                     </div>
                 </div>
                 <div id="right-container" style="float: right;">
                     <div class="content-box-right">
                         <br>
-                        <img src="../img/Graf01.png" width="270" />
+                        <img src="../img/grafer/Grafer3-04.jpg" width="270" />
                         <br>
                         <br>
                     </div>

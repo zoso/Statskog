@@ -49,9 +49,8 @@
                         <div class="inner-box-front">
                             <h2>Ny tur-app</h2>
                             <div class="border-down">&nbsp;</div>
-                            Statskog lanserte i 2012 tur-appen <a href="http://www.godtur.no">GodTur.no</a> sammen med samarbeidspartnerne Friluftsrådenes Landsforbund, Bedriftsidretten og Det norske Skogselskap.
-                            <p>Her finnes tusenvis av turforslag fra hele landet.</p>
-                            <p>Nettstedet <a href="http://www.godtur.no">GodTur.no</a> har eksistert i flere år. Nå kan alle enkelt finne de gode kartene, de mange turene, bade- og fiskestedene med mer på sin egen telefon – ved hjelp av appen som kan lastes ned fra <a href="https://itunes.apple.com/no/app/godtur/id570787143?mt=8" target="_blank">Appstore</a> eller <a href="https://play.google.com/store/apps/details?id=no.wfx.godtur&feature=search_result#?t=W251bGwsMSwyLDEsIm5vLndmeC5nb2R0dXIiXQ.." target="_blank">Google play.</a>
+                            <span class="ingress">Statskog lanserte i 2012 tur-appen <a class="ingress-link" href="http://www.godtur.no">GodTur.no</a> sammen med samarbeidspartnerne Friluftsrådenes Landsforbund, Bedriftsidretten og Det norske Skogselskap.</span>
+                            <p>Her finnes tusenvis av turforslag fra hele landet. Nettstedet <a href="http://www.godtur.no">GodTur.no</a> har eksistert i flere år. Nå kan alle enkelt finne de gode kartene, de mange turene, bade- og fiskestedene med mer på sin egen telefon – ved hjelp av appen som kan lastes ned fra <a href="https://itunes.apple.com/no/app/godtur/id570787143?mt=8" target="_blank">Appstore</a> eller <a href="https://play.google.com/store/apps/details?id=no.wfx.godtur&feature=search_result#?t=W251bGwsMSwyLDEsIm5vLndmeC5nb2R0dXIiXQ.." target="_blank">Google play.</a>
                             </p>
                         </div>
                     </div>

@@ -62,7 +62,7 @@
                                <tr class="line-under">
                                  <td>Tall i 1000 kr.</td>
                                  <td></td>
-                                  <td class="right bold">2012</td>
+                                  <td class="right bold col-grey">2012</td>
                                   <td class="right bold">2011</td>
                                   <td class="right bold">2010</td>
                                   <td class="right bold">2009</td>
@@ -71,7 +71,7 @@
                                <tr>
                                   <td>Driftsinntekter</td>
                                   <td></td>
-                                  <td class="right">443 728</td>
+                                  <td class="right col-grey">443 728</td>
                                   <td class="right">398 367</td>
                                   <td class="right">213 938</td>
                                   <td class="right">251 466</td>
@@ -80,7 +80,7 @@
                                <tr>
                                   <td>Driftsresultat</td>
                                   <td></td>
-                                  <td class="right">160 243</td>
+                                  <td class="right col-grey">160 243</td>
                                   <td class="right">109 725</td>
                                   <td class="right">22 856</td>
                                   <td class="right">7 889</td>
@@ -98,7 +98,7 @@
                                <tr>
                                   <td>Årsresultat</td>
                                   <td></td>
-                                  <td class="right">118 022</td>
+                                  <td class="right col-grey">118 022</td>
                                   <td class="right">75 390</td>
                                   <td class="right">29 991</td>
                                   <td class="right">27 919</td>
@@ -107,7 +107,7 @@
                                <tr>
                                   <td>Egenkapital 31.12</td>
                                   <td></td>
-                                  <td class="right">1 686 847</td>
+                                  <td class="right col-grey">1 686 847</td>
                                   <td class="right">1 597 525</td>
                                   <td class="right">1 568 044</td>
                                   <td class="right">299 768</td>
@@ -116,7 +116,7 @@
                                <tr>
                                   <td>Sum eiendeler 31.12</td>
                                   <td></td>
-                                  <td class="right">2 210 491</td>
+                                  <td class="right col-grey">2 210 491</td>
                                   <td class="right">2 230 162</td>
                                   <td class="right">2 210 163</td>
                                   <td class="right">410 856</td>
@@ -125,7 +125,7 @@
                                <tr>
                                   <td class="bold">Nøkkeltall</td>
                                   <td></td>
-                                  <td class="right"></td>
+                                  <td class="righ col-grey">&nbsp;</td>
                                   <td class="right"></td>
                                   <td class="right"></td>
                                   <td class="right"></td>
@@ -134,7 +134,7 @@
                                <tr>
                                   <td>Egenkapitalrentabilitet</td>
                                   <td class="center">%</td>
-                                  <td class="right">8,70</td>
+                                  <td class="right col-grey">8,70</td>
                                   <td class="right">4,76</td>
                                   <td class="right">3,21</td>
                                   <td class="right">9,60</td>
@@ -143,7 +143,7 @@
                                <tr>
                                   <td>Totalkapitalrentabilitet</td>
                                   <td class="center">%</td>
-                                  <td class="right">5,32</td>
+                                  <td class="right col-grey">5,32</td>
                                   <td class="right">3,40</td>
                                   <td class="right">2,29</td>
                                   <td class="right">7,12</td>
@@ -152,7 +152,7 @@
                                <tr>
                                   <td>Kapitalens omløpshast.</td>
                                   <td class="center"></td>
-                                  <td class="right">0,20</td>
+                                  <td class="right col-grey">0,20</td>
                                   <td class="right">0,18</td>
                                   <td class="right">0,16</td>
                                   <td class="right">0,64</td>
@@ -161,7 +161,7 @@
                                <tr>
                                   <td>Resultatgrad</td>
                                   <td class="center">%</td>
-                                  <td class="right">37,39</td>
+                                  <td class="right col-grey">37,39</td>
                                   <td class="right">18,92</td>
                                   <td class="right">14,02</td>
                                   <td class="right">11,10</td>
@@ -170,7 +170,7 @@
                                <tr>
                                   <td>Egenkapitalandel 31.12</td>
                                   <td class="center">%</td>
-                                  <td class="right">76,31</td>
+                                  <td class="right col-grey">76,31</td>
                                   <td class="right">71,60</td>
                                   <td class="right">70,90</td>
                                   <td class="right">73,00</td>
@@ -179,7 +179,7 @@
                                <tr>
                                   <td>Ansatte 31.12</td>
                                   <td class="center">Ant.</td>
-                                  <td class="right">137</td>
+                                  <td class="right col-grey">137</td>
                                   <td class="right">135</td>
                                   <td class="right">142</td>
                                   <td class="right">151</td>
@@ -188,7 +188,7 @@
                                <tr>
                                   <td>Avvirket tømmer</td>
                                   <td class="center">1000 M3</td>
-                                  <td class="right">411</td>
+                                  <td class="right col-grey">411</td>
                                   <td class="right">386</td>
                                   <td class="right">138</td>
                                   <td class="right">154</td>
@@ -197,7 +197,7 @@
                                <tr>
                                   <td>Utbetalt utbytte</td>
                                   <td class="center">1000 kr</td>
-                                  <td class="right">40 100</td>
+                                  <td class="right col-grey">40 100</td>
                                   <td class="right">11 300</td>
                                   <td class="right">10 100</td>
                                   <td class="right">13 400</td>
@@ -246,7 +246,7 @@
                     		<table width="100%" border="0" cellpadding="4" class="tb">
                                <tr class="bold line-over-under">
                                   <td width="17%">År</td>
-                                  <td width="15%">2012</td>
+                                  <td width="15%" class="col-grey">2012</td>
                                   <td width="17%">2011</td>
                                   <td width="17%">2010</td>
                                   <td width="17%">2009</td>
@@ -255,7 +255,7 @@
                                
                                <tr>
                                   <td>Kvinner</td>
-                                  <td>5,2%</td>
+                                  <td class="col-grey">5,2%</td>
                                   <td>8,1%</td>
                                   <td>3,0%</td>
                                   <td>2,4%</td>
@@ -263,7 +263,7 @@
                                </tr>
                                <tr>
                                   <td>Menn</td>
-                                  <td>2,0%</td>
+                                  <td class="col-grey">2,0%</td>
                                   <td>2,3%</td>
                                   <td>3,1%</td>
                                   <td>4%</td>
@@ -271,7 +271,7 @@
                                </tr>
                                <tr>
                                   <td>Alle</td>
-                                  <td>3,1%</td>
+                                  <td class="col-grey">3,1%</td>
                                   <td>4,3%</td>
                                   <td>3,1%</td>
                                   <td>3,4%</td>
@@ -285,9 +285,9 @@
                     <div class="content-box-right">
                         &nbsp;
                         <div class="inner-box-front">
-                        	 <img src="../img/egenkapitalandel.jpg" width="280" />
-                            <img src="../img/totalkapitalrentabilitet.jpg" width="280" />
-                            <img src="../img/egenkapitalrentabilitet.jpg" width="280" />
+                        	  <img src="../img/grafer/Grafer3-10.jpg" width="280" />
+                            <img src="../img/grafer/Grafer3-09.jpg" width="280" />
+                            <img src="../img/grafer/Grafer3-05.jpg" width="280" />
                             <p>&nbsp;</p>
                         </div>
                     </div>

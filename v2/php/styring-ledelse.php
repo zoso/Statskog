@@ -64,8 +64,8 @@
                             Statskog skal ha en eller flere revisorer, som velges av foretaksmøtet. Minst en skal være registrert eller statsautorisert.</p>
                             <p><b>Rammeverk</b><br>
                             Styret og foretakets administrasjon vedtar rammeverket som virksomhetens aktiviteter skal utføres innenfor for å nå vedtatte målsetninger.</p>
-                            <b>Organisasjonskart:</b>
-                            <p><img src="../img/statskog_org_kart.jpg" /></p>
+                            <!-- <b>Organisasjonskart:</b>
+                            <p><img src="../img/statskog_org_kart.jpg" /></p> -->
                         </div>
                     </div>
                 </div>
@@ -75,7 +75,7 @@
                             <div class="inner-box-front">
                                 <div style="width: 260px; height: 160px;">
                                     <div style="float: left; width: 130px;">
-                                        <img src="../img/persons/styre_mann_2.jpg" />
+                                        <img src="../img/persons/32744-041.jpg" />
                                     </div>
                                     <div class="info-img">
                                         <div>Harald</div>
@@ -86,7 +86,7 @@
                                 </div>
                                 <div style="width: 260px; height: 160px;">
                                     <div style="float: left; width: 130px;">
-                                        <img src="../img/persons/styre_dame_2.jpg" />
+                                        <img src="../img/persons/32744-035.jpg" />
                                     </div>
                                     <div class="info-img">
                                         <div>Eli</div>
@@ -97,7 +97,7 @@
                                 </div>
                                 <div style="width: 260px; height: 160px;">
                                     <div style="float: left; width: 130px;">
-                                        <img src="../img/persons/styre_mann_1.jpg" />
+                                        <img src="../img/persons/32744-024.jpg" />
                                     </div>
                                     <div class="info-img">
                                         <div>Tom</div>
@@ -108,7 +108,7 @@
                                 </div>
                                 <div style="width: 260px; height: 160px;">
                                     <div style="float: left; width: 130px;">
-                                        <img src="../img/persons/styremedlem_kari-okland.jpg" />
+                                        <img src="../img/persons/kari_okland.jpg" />
                                     </div>
                                     <div class="info-img">
                                         <div>Kari</div>
@@ -119,7 +119,7 @@
                                 </div>
                                 <div style="width: 260px; height: 160px;">
                                     <div style="float: left; width: 130px;">
-                                        <img src="../img/persons/styre_mann_5.jpg" />
+                                        <img src="../img/persons/32744-045.jpg" />
                                     </div>
                                     <div class="info-img">
                                         <div>Gunnar</div>
@@ -130,7 +130,7 @@
                                 </div>
                                 <div style="width: 260px; height: 160px;">
                                     <div style="float: left; width: 130px;">
-                                        <img src="../img/persons/styre_dame_1.jpg" />
+                                        <img src="../img/persons/32744-031.jpg" />
                                     </div>
                                     <div class="info-img">
                                         <div>Siw Anita</div>
@@ -141,7 +141,7 @@
                                 </div>
                                 <div style="width: 260px; height: 160px;">
                                     <div style="float: left; width: 130px;">
-                                        <img src="../img/persons/styre_mann_4.jpg" />
+                                        <img src="../img/persons/32744-052.jpg" />
                                     </div>
                                     <div class="info-img">
                                         <div>Geir</div>
@@ -150,7 +150,7 @@
                                         <div style="border-bottom: 2px solid #000">&nbsp;</div>
                                     </div>
                                 </div>
-                                <p style="height: 55px;">&nbsp;</p>
+                               
                             </div>
                       </div> 
                     </div>

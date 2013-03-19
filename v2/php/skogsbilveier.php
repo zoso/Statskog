@@ -61,7 +61,7 @@
 
                 <div id="right-container" style="float: right;">
                     <div class="content-box-right">
-                        &nbsp;
+                        <img src="../img/grafer/Grafer3-07.jpg" />
                     </div>
                 </div>
                 <div style="clear: both;"></div>

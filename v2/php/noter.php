@@ -49,12 +49,12 @@
                         <div class="inner-box-front">
                             <h2>Noter</h2>
                             <div class="border-down">&nbsp;</div>
-                            <b>Note 1 - Driftsinntekter</b>
+                            <span class="small-heading blue">NOTE 1</span><span class="small-heading-note"> - Driftsinntekter</span>
                             <table width="100%" border="0" cellpadding="4" class="tb">
                                 <tr class="bold">
                                   <td>&nbsp;</td>
-                                  <td colspan="2" class="center">Statskog SF</td>
-                                  <td colspan="2" class="center">Konsern</td>
+                                  <td colspan="2" class="center small-heading blue">Statskog SF</td>
+                                  <td colspan="2" class="center small-heading orange">Konsern</td>
                                </tr>
                               <tbody>
                                 <tr>
@@ -125,8 +125,8 @@
                                 </tr>
                                 <tr class="bold">
                                   <td>&nbsp;</td>
-                                  <td colspan="2" align="center">Statskog SF</td>
-                                  <td colspan="2" align="center">Konsern</td>
+                                  <td colspan="2" class="center small-heading blue">Statskog</td>
+                                  <td colspan="2" class="center small-heading orange">Konsern</td>
                                </tr>
                                 <tr>
                                   <td>Pr. geografisk område</td>
@@ -157,8 +157,8 @@
                                 </tr>
                                 <tr class="bold">
                                   <td>&nbsp;</td>
-                                  <td colspan="2" align="center">Statskog SF</td>
-                                  <td colspan="2" align="center">Konsern</td>
+                                  <td colspan="2" class="center small-heading blue">Statskog</td>
+                                  <td colspan="2" class="center small-heading orange">Konsern</td>
                                </tr>
                                 <tr class="bold right">
                                   <td>&nbsp;</td>
@@ -191,18 +191,18 @@
                               </tbody>
                             </table>
                             <p>&nbsp;</p>
-                            <b>Note 2 - Skogkultur, veger og skogfond</b>
+                            <span class="small-heading blue">NOTE 2</span><span class="small-heading-note"> - Skogkultur, veger og skogfond</span>
                             <table width="100%" border="0" cellpadding="4" class="tb">
                                <tr class="bold">
-                                  <td>&nbsp;</td>
-                                  <td colspan="2" class="center">Statskog SF</td>
-                                  <td colspan="2" class="center">Konsern</td>
+                                  <td width="52%">&nbsp;</td>
+                                  <td colspan="2" class="center small-heading blue">Statskog</td>
+                                  <td width="16%" colspan="2" class="center small-heading orange">Konsern</td>
                                </tr>
                                <tr class="bold">
                                   <td>&nbsp;</td>
-                                  <td class="right col-grey">2012</td>
-                                  <td class="right">2011</td>
-                                  <td class="right col-grey">2012</td>
+                                  <td width="13%" class="right col-grey">2012</td>
+                                  <td width="10%" class="right">2011</td>
+                                  <td width="9%" class="right col-grey">2012</td>
                                   <td class="right">2011</td>
                                </tr>
                                <tr>
@@ -270,18 +270,18 @@
                             </table>
                             <p style="font-size: 10px;">Ved avvirkning av tømmer skal det etter gjeldende regler avsettes midler øremerket til tiltak for ressursregistrering skogkultur og veger. Bruken av midlene er nærmere definert i ”Forskrift om bruk m.v. av skogavgift”. Statskog SF forvalter selv midlene gjennom retningslinjer gitt av Landbruksdepartementet. Datterselskapenes skogavgiftsfond forvaltes av Statens Landbruksforvaltning.</p>
                             <p>&nbsp;</p>
-                            <b>Note 3 - Lønnskostnader og ytelser til ledende ansatte, styret og revisor</b>
+                            <span class="small-heading blue">NOTE 3</span><span class="small-heading-note"> - Lønnskostnader og ytelser til ledende ansatte, styret og revisor</span>
                             <table width="100%" border="0" cellpadding="4" class="tb">
                                <tr class="bold">
-                                  <td>&nbsp;</td>
-                                  <td colspan="2" class="center">Statskog SF</td>
-                                  <td colspan="2" class="center">Konsern</td>
+                                  <td width="46%">&nbsp;</td>
+                                  <td colspan="2" class="center small-heading blue">Statskog</td>
+                                  <td width="16%" colspan="2" class="center small-heading orange">Konsern</td>
                                </tr>
                                <tr class="bold">
                                   <td>Kostnadsførte lønns- og personalkostnader:</td>
-                                  <td class="right col-grey">2012</td>
-                                  <td class="right">2011</td>
-                                  <td class="right col-grey">2012</td>
+                                  <td width="16%" class="right col-grey">2012</td>
+                                  <td width="9%" class="right">2011</td>
+                                  <td width="13%" class="right col-grey">2012</td>
                                   <td class="right">2011</td>
                                </tr>
                                <tr>
@@ -417,8 +417,8 @@
                                </tr>
                                <tr class="bold">
                                   <td>&nbsp;</td>
-                                  <td colspan="2" class="center">Statskog SF</td>
-                                  <td colspan="2" class="center">Konsern</td>
+                                  <td colspan="2" class="center small-heading blue">Statskog</td>
+                                  <td colspan="2" class="center small-heading orange">Konsern</td>
                                </tr>
                                <tr>
                                   <td>Honorar til revisor</td>
@@ -464,13 +464,13 @@
                                </tr>
                             </table>
                             <p>&nbsp;</p>
-                            <b>Note 4 - Pensjonsforpliktelser</b>
+                            <span class="small-heading blue">NOTE 4</span><span class="small-heading-note"> - Pensjonsforpliktelser</span>
                             <p style="font-size: 10px;">Statskog har avtale om ordinær kollektiv pensjonsforsikring for sine ansatte. Pensjonsordningen dekker alders-, uføre-, ektefelle- og barnepensjon. I tillegg har selskapet AFP-ordning (avtalefestet pensjon). Pensjonsordning dekker mimimums krav i lov om foretakspensjon.Premiefastsettelsen og beregning av pensjonsforpliktelsene skjer etter aktuarmessige prinsipper. og forutsetninger.</p>
                             <table width="100%" border="0" cellpadding="4" class="tb">
                                <tr class="bold">
                                   <td>&nbsp;</td>
-                                  <td colspan="2" class="center">Statskog SF</td>
-                                  <td colspan="2" class="center">Konsern</td>
+                                  <td colspan="2" class="center small-heading blue">Statskog</td>
+                                  <td colspan="2" class="center small-heading orange">Konsern</td>
                                </tr>
                                <tr class="bold">
                                   <td>Økonomiske forutsetninger</td>
@@ -526,8 +526,8 @@
                                </tr>
                                <tr class="bold">
                                   <td>&nbsp;</td>
-                                  <td colspan="2" class="center">Statskog SF</td>
-                                  <td colspan="2" class="center">Konsern</td>
+                                  <td colspan="2" class="center small-heading blue">Statskog</td>
+                                  <td colspan="2" class="center small-heading orange">Konsern</td>
                                </tr>
                                <tr class="bold">
                                   <td>Pensjonskostnad</td>
@@ -583,8 +583,8 @@
                                </tr>
                                <tr class="bold">
                                   <td>&nbsp;</td>
-                                  <td colspan="2" class="center">Statskog SF</td>
-                                  <td colspan="2" class="center">Konsern</td>
+                                  <td colspan="2" class="center small-heading blue">Statskog</td>
+                                  <td colspan="2" class="center small-heading orange">Konsern</td>
                                </tr>
                                <tr class="bold">
                                   <td>Pensjonsforpliktelse</td>
@@ -630,8 +630,8 @@
                                </tr>
                                <tr class="bold">
                                   <td>&nbsp;</td>
-                                  <td colspan="2" class="center">Statskog SF</td>
-                                  <td colspan="2" class="center">Konsern</td>
+                                  <td colspan="2" class="center small-heading blue">Statskog</td>
+                                  <td colspan="2" class="center small-heading orange">Konsern</td>
                                </tr>
                                <tr class="bold">
                                   <td>Balanseført pensjonsforpliktelse</td>
@@ -662,20 +662,20 @@
                                   <td class="right">-4 619 </td>
                                </tr>
                             </table>  
-                            <p>&nbsp;</p>
-                            <b>Note 5 – Imaterielle eiendeler og varige driftsmidler</b>
+                            <p>&nbsp;</p> 
+                            <span class="small-heading blue">NOTE 5</span><span class="small-heading-note"> – Imaterielle eiendeler og varige driftsmidler</span><br><br>
                             <table width="100%" border="0" cellpadding="4" class="tb">
                                <tr class="bold line-under">
-                                  <td colspan="7">Statskog SF</td>
+                                  <td colspan="7"class="small-heading blue">Statskog SF</td>
                                </tr>
-                               <tr class="bold center line-under">
-                                  <td>&nbsp;</td>
-                                  <td>Maskiner, inventar og kunst</td>
-                                  <td>Bygninger</td>
-                                  <td>Skog Tomter</td>
-                                  <td>Fall-    retter</td>
-                                  <td>Anlegg under utførelse</td>
-                                  <td>Sum</td>
+                               <tr class="bold line-under">
+                                  <td width="24%">&nbsp;</td>
+                                  <td width="20%" class="right">Maskiner, inventar og kunst</td>
+                                  <td width="10%" class="right">Bygninger</td>
+                                  <td width="11%" class="right">Skog Tomter</td>
+                                  <td width="14%" class="right">Fall-    retter</td>
+                                  <td width="13%" class="right">Anlegg under utførelse</td>
+                                  <td width="8%" class="right">Sum</td>
                                </tr>
                                <tr class="right">
                                   <td class="left">Anskaffelseskost 01.01.</td>
@@ -772,12 +772,12 @@
                                </tr>
                                <tr class="bold center line-under">
                                   <td></td>
-                                  <td>Maskiner, inventar og kunst</td>
-                                  <td>Bygninger</td>
-                                  <td>Skog Tomter</td>
-                                  <td>Fall-    retter</td>
-                                  <td>Anlegg under utførelse</td>
-                                  <td>Sum</td>
+                                  <td class="right">Maskiner, inventar og kunst</td>
+                                  <td class="right">Bygninger</td>
+                                  <td class="right">Skog Tomter</td>
+                                  <td class="right">Fall-    retter</td>
+                                  <td class="right">Anlegg under utførelse</td>
+                                  <td class="right">Sum</td>
                                </tr>
                                <tr class="right">
                                   <td class="left">Anskaffelseskost 01.01.</td>
@@ -877,18 +877,18 @@
                                </tr>
                             </table>
                             <p>&nbsp;</p>
-                            <b>Note 6 – Investeringer i datterselskap og tilknyttede selskap</b>
+                            <p><span class="small-heading blue">NOTE 6</span><span class="small-heading-note"> – Investeringer i datterselskap og tilknyttede selskap</span> </p>
                             <table width="100%" border="0" cellpadding="4" class="tb">
                                <tr class="bold line-over-under">
                                   <td>Selskap</td>
-                                  <td>Foretningskontor</td>
-                                  <td>Eierandel og stemmeberettiget kapital</td>
-                                  <td>Historisk kostpris</td>
-                                  <td>Bokført verdi 01.01.</td>
-                                  <td>Andel resultat</td>
-                                  <td>Egenkapital overført</td>
-                                  <td>Bokført verdi 31.12</td>
-                                  <td>Fond for vurderings-forskjeller</td>
+                                  <td class="right">Foretningskontor</td>
+                                  <td class="right">Eierandel og stemmeberettiget kapital</td>
+                                  <td class="right">Historisk kostpris</td>
+                                  <td class="right">Bokført verdi 01.01.</td>
+                                  <td class="right">Andel resultat</td>
+                                  <td class="right">Egenkapital overført</td>
+                                  <td class="right">Bokført verdi 31.12</td>
+                                  <td class="right">Fond for vurderings-forskjeller</td>
                                </tr>
                                <tr>
                                   <td colspan="9"></td>
@@ -898,7 +898,7 @@
                                </tr>
                                <tr>
                                   <td>Statskog Glomma AS</td>
-                                  <td>Namsos Kommune</td>
+                                  <td class="right">Namsos Kommune</td>
                                   <td class="center">100 %</td>
                                   <td class="right">1 513 528</td>
                                   <td class="right">1 494 335</td>
@@ -909,7 +909,7 @@
                                </tr>
                                <tr>
                                   <td>Statskog Børresen AS</td>
-                                  <td>Namsos Kommune</td>
+                                  <td class="right">Namsos Kommune</td>
                                   <td class="center">100 %</td>
                                   <td class="right">177 977</td>
                                   <td class="right">174 544</td>
@@ -920,7 +920,7 @@
                                </tr>
                                <tr>
                                   <td>Statskog Vafoss AS</td>
-                                  <td>Namsos Kommune</td>
+                                  <td class="right">Namsos Kommune</td>
                                   <td class="center">100 %</td>
                                   <td class="right">52 890</td>
                                   <td class="right">50 406</td>
@@ -931,7 +931,7 @@
                                </tr>
                                <tr>
                                   <td>Statskog Energi AS</td>
-                                  <td>Namsos Kommune</td>
+                                  <td class="right">Namsos Kommune</td>
                                   <td class="center">100 %</td>
                                   <td class="right">53 093</td>
                                   <td class="right">29 335</td>
@@ -942,7 +942,7 @@
                                </tr>
                                <tr>
                                   <td>Statskog Vind AS</td>
-                                  <td>Namsos Kommune</td>
+                                  <td class="right">Namsos Kommune</td>
                                   <td class="center">100 %</td>
                                   <td class="right">7 500</td>
                                   <td class="right">6 241</td>
@@ -953,7 +953,7 @@
                                </tr>
                                <tr>
                                   <td>Inatur Nordic AS</td>
-                                  <td>Namsos Kommune</td>
+                                  <td class="right">Namsos Kommune</td>
                                   <td class="center">100 %</td>
                                   <td class="right">4 791</td>
                                   <td class="right">774</td>
@@ -981,7 +981,7 @@
                                </tr>
                                <tr>
                                   <td>Ljørdalen Utmarkslag ANS ¹&#8318;</td>
-                                  <td>Trysil Kommune</td>
+                                  <td class="right">Trysil Kommune</td>
                                   <td class="center">86,0 %</td>
                                   <td class="right">27</td>
                                   <td class="right">588</td>
@@ -992,7 +992,7 @@
                                </tr>
                                <tr>
                                   <td>Inatur Norge AS</td>
-                                  <td>Namsos Kommune</td>
+                                  <td class="right">Namsos Kommune</td>
                                   <td class="center">53,5 %</td>
                                   <td class="right">8 102</td>
                                   <td class="right">3 083</td>
@@ -1003,7 +1003,7 @@
                                </tr>
                                <tr>
                                   <td>SB Skog AS</td>
-                                  <td>Elverum Kommune</td>
+                                  <td class="right">Elverum Kommune</td>
                                   <td class="center">50,0 %</td>
                                   <td class="right">5 000</td>
                                   <td class="right">11 212</td>
@@ -1014,7 +1014,7 @@
                                </tr>
                                <tr>
                                   <td>Krutåga Kraft AS</td>
-                                  <td>Hattfjelldal Kommune</td>
+                                  <td class="right">Hattfjelldal Kommune</td>
                                   <td class="center">49,9 %</td>
                                   <td class="right">4 990</td>
                                   <td class="right">4 811</td>
@@ -1025,7 +1025,7 @@
                                </tr>
                                <tr>
                                   <td>Vaset Utbyggingsselskap AS</td>
-                                  <td>Vestre Slidre Kommune</td>
+                                  <td class="right">Vestre Slidre Kommune</td>
                                   <td class="center">35,0 %</td>
                                   <td class="right">650</td>
                                   <td class="right">4 440</td>
@@ -1036,7 +1036,7 @@
                                </tr>
                                <tr>
                                   <td>SMA Nordland AS</td>
-                                  <td>Bodø Kommune</td>
+                                  <td class="right">Bodø Kommune</td>
                                   <td class="center">34,0 %</td>
                                   <td class="right">3 062</td>
                                   <td class="right">0</td>
@@ -1047,7 +1047,7 @@
                                </tr>
                                <tr>
                                   <td>Nord Troms Bioenergi AS</td>
-                                  <td>Nordreisa Kommune</td>
+                                  <td class="right">Nordreisa Kommune</td>
                                   <td class="center">34,0 %</td>
                                   <td class="right">850</td>
                                   <td class="right">775</td>
@@ -1058,7 +1058,7 @@
                                </tr>
                                <tr>
                                   <td>Skibotn Hyttebygging AS</td>
-                                  <td>Storfjord Kommune</td>
+                                  <td class="right">Storfjord Kommune</td>
                                   <td class="center">33,0 %</td>
                                   <td class="right">38</td>
                                   <td class="right">0</td>
@@ -1069,7 +1069,7 @@
                                </tr>
                                <tr>
                                   <td>HaG Vekst AS </td>
-                                  <td>Grane Kommune</td>
+                                  <td class="right">Grane Kommune</td>
                                   <td class="center">26,0 %</td>
                                   <td class="right">35</td>
                                   <td class="right">1 714</td>
@@ -1080,7 +1080,7 @@
                                </tr>
                                <tr>
                                   <td>Inter Polar AS</td>
-                                  <td>Storfjord Kommune</td>
+                                  <td class="right">Storfjord Kommune</td>
                                   <td class="center">24,0 %</td>
                                   <td class="right">26</td>
                                   <td class="right">26</td>
@@ -1091,7 +1091,7 @@
                                </tr>
                                <tr>
                                   <td>Halti Nasjonalpark- og kvenkultursenter AS</td>
-                                  <td>Nordreisa Kommune</td>
+                                  <td class="right">Nordreisa Kommune</td>
                                   <td class="center">23,0 %</td>
                                   <td class="right">69</td>
                                   <td class="right">156</td>
@@ -1102,7 +1102,7 @@
                                </tr>
                                <tr>
                                   <td>Arctic Rein og Vilt AS</td>
-                                  <td>Rana Kommune</td>
+                                  <td class="right">Rana Kommune</td>
                                   <td class="center">22,0 %</td>
                                   <td class="right">937</td>
                                   <td class="right">378</td>
@@ -1113,7 +1113,7 @@
                                </tr>
                                <tr>
                                   <td>Hexa Bioenergi AS</td>
-                                  <td>Steigen Kommune</td>
+                                  <td class="right">Steigen Kommune</td>
                                   <td class="center">20,0 %</td>
                                   <td class="right">320</td>
                                   <td class="right">320</td>
@@ -1124,7 +1124,7 @@
                                </tr>
                                <tr>
                                   <td>Namdalshagen AS</td>
-                                  <td>Namsos Kommune</td>
+                                  <td class="right">Namsos Kommune</td>
                                   <td class="center">18,4 %</td>
                                   <td class="right">255</td>
                                   <td class="right">364</td>
@@ -1187,19 +1187,19 @@
                                <tr>
                                   <td colspan="9" class="bold">Tilknyttede selskaper og felleskontrollerte virksomheter</td>
                                </tr>
-                               <tr>
+                               <!-- <tr>
                                   <td colspan="9" class="bold">Konsern</td>
-                               </tr>
+                               </tr> -->
                                <tr class="line-over-under bold">
                                   <td>Selskap</td>
-                                  <td>Foretningskontor</td>
-                                  <td>Eierandel og stemmeberettiget kapital</td>
-                                  <td>Historisk kostpris</td>
-                                  <td>Bokført verdi 1.1.</td>
-                                  <td>Andel resultat</td>
-                                  <td>Egenkap. Overf.</td>
-                                  <td>Bokført verdi 31.12</td>
-                                  <td>Fond for vurdering forskj.</td>
+                                  <td class="right">Foretningskontor</td>
+                                  <td class="right">Eierandel og stemmeberettiget kapital</td>
+                                  <td class="right">Historisk kostpris</td>
+                                  <td class="right">Bokført verdi 1.1.</td>
+                                  <td class="right">Andel resultat</td>
+                                  <td class="right">Egenkap. Overf.</td>
+                                  <td class="right">Bokført verdi 31.12</td>
+                                  <td class="right">Fond for vurdering forskj.</td>
                                </tr>
                                <tr>
                                   <td></td>
@@ -1228,7 +1228,7 @@
                                </tr>
                                <tr>
                                   <td>Ljørdalen Utmarkslag ANS ¹&#8318; </td>
-                                  <td>Trysil Kommune</td>
+                                  <td class="right">Trysil Kommune</td>
                                   <td class="center">86,0 %</td>
                                   <td class="right">27</td>
                                   <td class="right">588</td>
@@ -1239,7 +1239,7 @@
                                </tr>
                                <tr>
                                   <td>Bryggfjelldal Kraft AS ¹&#8318; </td>
-                                  <td>Hemnes Kommune</td>
+                                  <td class="right">Hemnes Kommune</td>
                                   <td class="center">66,3 %</td>
                                   <td class="right">279</td>
                                   <td class="right">258</td>
@@ -1250,7 +1250,7 @@
                                </tr>
                                <tr>
                                   <td>Norddal Kraft AS ¹&#8318; </td>
-                                  <td>Lier Kommune</td>
+                                  <td class="right">Lier Kommune</td>
                                   <td class="center">66,0 %</td>
                                   <td class="right">72</td>
                                   <td class="right">10</td>
@@ -1261,7 +1261,7 @@
                                </tr>
                                <tr>
                                   <td>Inatur Norge AS</td>
-                                  <td>Namsos Kommune</td>
+                                  <td class="right">Namsos Kommune</td>
                                   <td class="center">53,5 %</td>
                                   <td class="right">8 102</td>
                                   <td class="right">3 083</td>
@@ -1272,7 +1272,7 @@
                                </tr>
                                <tr>
                                   <td>Bordvedåga Kraft AS ¹&#8318; </td>
-                                  <td>Rana Kommune</td>
+                                  <td class="right">Rana Kommune</td>
                                   <td class="center">51,0 %</td>
                                   <td class="right">255</td>
                                   <td class="right">236</td>
@@ -1283,7 +1283,7 @@
                                </tr>
                                <tr>
                                   <td>Heinbergåga Kraft AS ¹&#8318; </td>
-                                  <td>Rana Kommune</td>
+                                  <td class="right">Rana Kommune</td>
                                   <td class="center">50,1 %</td>
                                   <td class="right">200</td>
                                   <td class="right">195</td>
@@ -1294,7 +1294,7 @@
                                </tr>
                                <tr>
                                   <td>Statskog Borregaard Skogsdrift AS </td>
-                                  <td>Elverum Kommune</td>
+                                  <td class="right">Elverum Kommune</td>
                                   <td class="center">50,0 %</td>
                                   <td class="right">5 000</td>
                                   <td class="right">11 212</td>
@@ -1305,7 +1305,7 @@
                                </tr>
                                <tr>
                                   <td>Krutåga Kraft AS</td>
-                                  <td>Hattfjelldal Kommune</td>
+                                  <td class="right">Hattfjelldal Kommune</td>
                                   <td class="center">49,9 %</td>
                                   <td class="right">4 990</td>
                                   <td class="right">4 811</td>
@@ -1316,7 +1316,7 @@
                                </tr>
                                <tr>
                                   <td>Veiski Vannkraft DA</td>
-                                  <td>Sørfold Kommune</td>
+                                  <td class="right">Sørfold Kommune</td>
                                   <td class="center">49,0 %</td>
                                   <td class="right">490</td>
                                   <td class="right">398</td>
@@ -1327,7 +1327,7 @@
                                </tr>
                                <tr>
                                   <td>Beiarkraft AS</td>
-                                  <td>Beiarn Kommune</td>
+                                  <td class="right">Beiarn Kommune</td>
                                   <td class="center">40,0 %</td>
                                   <td class="right">2 800</td>
                                   <td class="right">-209</td>
@@ -1338,7 +1338,7 @@
                                </tr>
                                <tr>
                                   <td>Muoidejohka Kraft AS</td>
-                                  <td>Beiarn Kommune</td>
+                                  <td class="right">Beiarn Kommune</td>
                                   <td class="center">40,0 %</td>
                                   <td class="right">7 200</td>
                                   <td class="right">400</td>
@@ -1349,7 +1349,7 @@
                                </tr>
                                <tr>
                                   <td>Vaset Utbyggingsselskap AS</td>
-                                  <td>Vestre Slidre Kommune</td>
+                                  <td class="right">Vestre Slidre Kommune</td>
                                   <td class="center">35,0 %</td>
                                   <td class="right">650</td>
                                   <td class="right">4 440</td>
@@ -1360,7 +1360,7 @@
                                </tr>
                                <tr>
                                   <td>SMA Nordland AS</td>
-                                  <td>Bodø Kommune</td>
+                                  <td class="right">Bodø Kommune</td>
                                   <td class="center">34,0 %</td>
                                   <td class="right">3 062</td>
                                   <td class="right">0</td>
@@ -1371,7 +1371,7 @@
                                </tr>
                                <tr>
                                   <td>Suliskraft AS</td>
-                                  <td>Fauske Kommune</td>
+                                  <td class="right">Fauske Kommune</td>
                                   <td class="center">34,0 %</td>
                                   <td class="right">1 836</td>
                                   <td class="right">963</td>
@@ -1382,7 +1382,7 @@
                                </tr>
                                <tr>
                                   <td>Govdesåga Kraftverk AS</td>
-                                  <td>Beiarn Kommune</td>
+                                  <td class="right">Beiarn Kommune</td>
                                   <td class="center">34,0 %</td>
                                   <td class="right">7 140</td>
                                   <td class="right">2 684</td>
@@ -1393,7 +1393,7 @@
                                </tr>
                                <tr>
                                   <td>Nord Troms Bioenergi AS</td>
-                                  <td>Nordreisa Kommune</td>
+                                  <td class="right">Nordreisa Kommune</td>
                                   <td class="center">34,0 %</td>
                                   <td class="right">850</td>
                                   <td class="right">775</td>
@@ -1426,7 +1426,7 @@
                                </tr>
                                <tr>
                                   <td>HaG Vekst AS </td>
-                                  <td>Grane Kommune</td>
+                                  <td class="right">Grane Kommune</td>
                                   <td class="center">26,0 %</td>
                                   <td class="right">35</td>
                                   <td class="right">1 714</td>
@@ -1437,7 +1437,7 @@
                                </tr>
                                <tr>
                                   <td>Austri Vind DA</td>
-                                  <td>Gjøvik Kommune</td>
+                                  <td class="right">Gjøvik Kommune</td>
                                   <td class="center">25,0 %</td>
                                   <td class="right">2 354</td>
                                   <td class="right">1 274</td>
@@ -1448,7 +1448,7 @@
                                </tr>
                                <tr>
                                   <td>Austri Raskiftet DA</td>
-                                  <td>Gjøvik Kommune</td>
+                                  <td class="right">Gjøvik Kommune</td>
                                   <td class="center">25,0 %</td>
                                   <td class="right">3 276</td>
                                   <td class="right">0</td>
@@ -1459,7 +1459,7 @@
                                </tr>
                                <tr>
                                   <td>Austri Kvitvola DA</td>
-                                  <td>Gjøvik Kommune</td>
+                                  <td class="right">Gjøvik Kommune</td>
                                   <td class="center">25,0 %</td>
                                   <td class="right">3 188</td>
                                   <td class="right">0</td>
@@ -1470,7 +1470,7 @@
                                </tr>
                                <tr>
                                   <td>Inter Polar AS</td>
-                                  <td>Storfjord Kommune</td>
+                                  <td class="right">Storfjord Kommune</td>
                                   <td class="center">24,0 %</td>
                                   <td class="right">26</td>
                                   <td class="right">26</td>
@@ -1481,7 +1481,7 @@
                                </tr>
                                <tr>
                                   <td>Halti Nasjonalpark- og kvenkultursenter AS</td>
-                                  <td>Nordreisa Kommune</td>
+                                  <td class="right">Nordreisa Kommune</td>
                                   <td class="center">23,0 %</td>
                                   <td class="right">69</td>
                                   <td class="right">156</td>
@@ -1492,7 +1492,7 @@
                                </tr>
                                <tr>
                                   <td>Arctic Rein og Vilt AS</td>
-                                  <td>Rana Kommune</td>
+                                  <td class="right">Rana Kommune</td>
                                   <td class="center">22,0 %</td>
                                   <td class="right">937</td>
                                   <td class="right">378</td>
@@ -1503,7 +1503,7 @@
                                </tr>
                                <tr>
                                   <td>Hexa Bioenergi AS</td>
-                                  <td>Steigen Kommune</td>
+                                  <td class="right">Steigen Kommune</td>
                                   <td class="center">20,0 %</td>
                                   <td class="right">320</td>
                                   <td class="right">320</td>
@@ -1514,7 +1514,7 @@
                                </tr>
                                <tr>
                                   <td>Namdalshagen AS</td>
-                                  <td>Namsos Kommune</td>
+                                  <td class="right">Namsos Kommune</td>
                                   <td class="center">18,4 %</td>
                                   <td class="right">255</td>
                                   <td class="right">364</td>
@@ -1548,28 +1548,28 @@
                                </tr>
                             </table> 
                             <p>&nbsp;</p>
-                            <b>Note 7 – Investering i aksjer og andeler</b>
+                            <span class="small-heading blue">NOTE 7</span><span class="small-heading-note"> – Investering i aksjer og andeler</span>
                             <table width="100%" border="0" cellpadding="4" class="tb">
                                <tr>
                                   <td></td>
-                                  <td colspan="3" class="center bold">Statskog</td>
-                                  <td colspan="3" class="center bold">Konsern</td>
+                                  <td colspan="3" class="center small-heading blue">Statskog</td>
+                                  <td colspan="3" class="center small-heading orange">Konsern</td>
                                </tr>
                                <tr class="bold line-over-under">
                                   <td>Selskapsnavn</td>
-                                  <td class="center">Aksje-kapital</td>
-                                  <td class="center">Eier-andel</td>
-                                  <td class="center line-right">Kostpris</td>
-                                  <td class="center">Aksje-kapital</td>
-                                  <td class="center">Eier-andel</td>
-                                  <td class="center">Kostpris</td>
+                                  <td class="right">Aksje-kapital</td>
+                                  <td class="right">Eier-andel</td>
+                                  <td class="right line-right">Kostpris</td>
+                                  <td class="right">Aksje-kapital</td>
+                                  <td class="right">Eier-andel</td>
+                                  <td class="right">Kostpris</td>
                                   
                                </tr>
                                <tr>
                                   <td>Namdal Investor AS</td>
                                   <td class="right">2 625</td>
                                   <td class="right">16,6 %</td>
-                                  <td class="center line-right">510</td>
+                                  <td class="right line-right">510</td>
                                   <td class="right">2 625</td>
                                   <td class="right">16,6 %</td>
                                   <td class="right">510</td>
@@ -1578,7 +1578,7 @@
                                   <td>Namdalshagen AS</td>
                                   <td class="right">1 330</td>
                                   <td class="right">18,8 %</td>
-                                  <td class="center line-right">255</td>
+                                  <td class="right line-right">255</td>
                                   <td class="right">1 330</td>
                                   <td class="right">18,8 %</td>
                                   <td class="right">255</td>
@@ -1587,7 +1587,7 @@
                                   <td>Ål Trelast AS</td>
                                   <td class="right">737</td>
                                   <td class="right">6,7 %</td>
-                                  <td class="center line-right">150</td>
+                                  <td class="right line-right">150</td>
                                   <td class="right">737</td>
                                   <td class="right">6,7 %</td>
                                   <td class="right">150</td>
@@ -1596,7 +1596,7 @@
                                   <td>Hattfjelldal Kraft AS</td>
                                   <td class="right">500</td>
                                   <td class="right">8,5 %</td>
-                                  <td class="center line-right">136</td>
+                                  <td class="right line-right">136</td>
                                   <td class="right">500</td>
                                   <td class="right">8,5 %</td>
                                   <td class="right">136</td>
@@ -1605,7 +1605,7 @@
                                   <td>Salten Kjøtt og Vilt AS</td>
                                   <td class="right">101</td>
                                   <td class="right">5,0 %</td>
-                                  <td class="center line-right">20</td>
+                                  <td class="right line-right">20</td>
                                   <td class="right">101</td>
                                   <td class="right">5,0 %</td>
                                   <td class="right">20</td>
@@ -1614,7 +1614,7 @@
                                   <td>Øvrige aksjeposter</td>
                                   <td class="right"></td>
                                   <td class="right"></td>
-                                  <td class="center line-right">431</td>
+                                  <td class="right line-right">431</td>
                                   <td class="right"></td>
                                   <td class="right"></td>
                                   <td class="right">667</td>
@@ -1623,7 +1623,7 @@
                                   <td>Sum kostpris </td>
                                   <td class="right"></td>
                                   <td class="right"></td>
-                                  <td class="center line-right">1 482</td>
+                                  <td class="right line-right">1 482</td>
                                   <td class="right"></td>
                                   <td class="right"></td>
                                   <td class="right">1 718</td>
@@ -1635,19 +1635,19 @@
                                   <td>Sum bokført verdi </td>
                                   <td class="right"></td>
                                   <td class="right"></td>
-                                  <td class="center line-right">1 189</td>
+                                  <td class="right line-right">1 189</td>
                                   <td class="right"></td>
                                   <td class="right"></td>
                                   <td class="right">1 424</td>
                                </tr>
                             </table>
                             <p>&nbsp;</p>
-                            <b>Note 8 - Finansinntekt og finanskostnad</b>
+                            <span class="small-heading blue">NOTE 8</span><span class="small-heading-note"> - Finansinntekt og finanskostnad</span>
                             <table width="100%" border="0" cellpadding="4" class="tb">
                                 <tr class="line-under">
                                   <td></td>
-                                  <td colspan="2" class="center bold">Statskog SF</td>
-                                  <td colspan="2" class="center bold">Konsern</td>
+                                  <td colspan="2" class="center small-heading blue">Statskog SF</td>
+                                  <td colspan="2" class="center small-heading orange">Konsern</td>
                                </tr>
                                <tr class="bold">
                                   <td>Finansinntekt</td>
@@ -1707,15 +1707,15 @@
                                </tr>
                                <tr>
                                   <td></td>
-                                  <td colspan="2" class="bold center">Statskog SF</td>
-                                  <td colspan="2" class="bold center">Konsern</td>
+                                  <td colspan="2" class="center small-heading blue">Statskog SF</td>
+                                  <td colspan="2" class="center small-heading orange">Konsern</td>
                                </tr>
                                <tr>
                                   <td>Finanskostnad</td>
-                                  <td class="right col-grey">2012</td>
-                                  <td class="right">2011</td>
-                                  <td class="right col-grey">2012</td>
-                                  <td class="right">2011</td>
+                                  <td class="right bold col-grey">2012</td>
+                                  <td class="right bold">2011</td>
+                                  <td class="right bold col-grey">2012</td>
+                                  <td class="right bold">2011</td>
                                </tr>
                                <tr>
                                   <td>Rentekostnad ansvarlig lån </td>
@@ -1761,12 +1761,12 @@
                                </tr>
                             </table> 
                             <p>&nbsp;</p>
-                            <b>Note 9 – Andre markedsbaserte plasseringer</b>
+                            <span class="small-heading blue">NOTE 9</span><span class="small-heading-note"> – Andre markedsbaserte plasseringer</span>
                             <table width="100%" border="0" cellpadding="4" class="tb">
                             <tr>
                               <td></td>
-                              <td colspan="2" class="bold center">Statskog SF</td>
-                              <td colspan="2" class="bold center">Konsern</td>
+                              <td colspan="2" class="center small-heading blue">Statskog SF</td>
+                              <td colspan="2" class="center small-heading orange">Konsern</td>
                               </tr>
                            <tr class="bold">
                               <td></td>
@@ -1847,12 +1847,12 @@
                            </tr>
                         </table>
                         <p>&nbsp;</p>
-                        <b>Note 10 – Skatter</b>
+                        <span class="small-heading blue">NOTE 10</span><span class="small-heading-note"> – Skatter</span>
                         <table width="100%" border="0" cellpadding="4" class="tb">
                         <tr>
                           <td></td>
-                          <td colspan="2" class="bold center">Statskog SF</td>
-                          <td colspan="2" class="bold center">Konsern</td>
+                          <td colspan="2" class="center small-heading blue">Statskog SF</td>
+                          <td colspan="2" class="center small-heading orange">Konsern</td>
                           </tr>
                        <tr class="bold">
                           <td>Skattepliktig resultat</td>
@@ -2015,8 +2015,8 @@
                        </tr>
                        <tr>
                           <td></td>
-                          <td colspan="2" class="bold center">Statskog SF</td>
-                          <td colspan="2" class="bold center">Konsern</td>
+                          <td colspan="2" class="center small-heading blue">Statskog SF</td>
+                         <td colspan="2" class="center small-heading orange">Konsern</td>
                           </tr>
                        <tr class="bold">
                           <td></td>
@@ -2142,8 +2142,8 @@
                        </tr>
                        <tr>
                           <td></td>
-                          <td colspan="2" class="bold center">Statskog SF</td>
-                          <td colspan="2" class="bold center">Konsern</td>
+                          <td colspan="2" class="center small-heading blue">Statskog SF</td>
+                         <td colspan="2" class="center small-heading orange">Konsern</td>
                           </tr>
                        <tr class="bold">
                           <td>Avvik skattekostnad</td>
@@ -2234,19 +2234,19 @@
                        </tr>
                         </table>
                         <p>&nbsp;</p>
-                        <b>Note 11 - Andre langsiktige fordringer</b>
+                        <span class="small-heading blue">NOTE 11</span><span class="small-heading-note"> - Andre langsiktige fordringer</span>
                         <table width="100%" border="0" cellpadding="4" class="tb">
                             <tr>
-                              <td></td>
-                              <td colspan="2" class="bold center">Statskog SF</td>
-                              <td colspan="2" class="bold center">Konsern</td>
+                              <td width="55%"></td>
+                              <td colspan="2" class="center small-heading blue">Statskog SF</td>
+                              <td colspan="2" class="center small-heading orange">Konsern</td>
                            </tr>
                            <tr class="bold">
                               <td></td>
-                              <td class="right col-grey">2012</td>
-                              <td class="right">2011</td>
-                              <td class="right col-grey">2012</td>
-                              <td class="right">2011</td>
+                              <td width="12%" class="right col-grey">2012</td>
+                              <td width="10%" class="right">2011</td>
+                              <td width="12%" class="right col-grey">2012</td>
+                              <td width="11%" class="right">2011</td>
                            </tr>
                            <tr>
                               <td>Pensjonsmidler (se note 4)</td>
@@ -2278,19 +2278,19 @@
                            </tr>
                         </table>
                         <p>&nbsp;</p>
-                        <b>Note 12 – Varer</b>
+                        <span class="small-heading blue">NOTE 12</span><span class="small-heading-note"> – Varer</span>
                         <table width="100%" border="0" cellpadding="4" class="tb">
                             <tr>
-                              <td></td>
-                              <td colspan="2" class="bold center">Statskog SF</td>
-                              <td colspan="2" class="bold center">Konsern</td>
+                              <td width="55%"></td>
+                              <td colspan="2" class="center small-heading blue">Statskog SF</td>
+                              <td colspan="2" class="center small-heading orange">Konsern</td>
                            </tr>
                            <tr class="bold">
                               <td></td>
-                              <td class="right col-grey">2012</td>
-                              <td class="right">2011</td>
-                              <td class="right col-grey">2012</td>
-                              <td class="right">2011</td>
+                              <td width="12%" class="right col-grey">2012</td>
+                              <td width="10%" class="right">2011</td>
+                              <td width="12%" class="right col-grey">2012</td>
+                              <td width="11%" class="right">2011</td>
                            </tr>
                            <tr>
                               <td>Ferdigvarer</td>
@@ -2336,22 +2336,22 @@
                            </tr>
                         </table>
                         <p>&nbsp;</p>
-                        <b>Note 13 – Omløpsaksjer</b>
+                        <span class="small-heading blue">NOTE 13</span><span class="small-heading-note"> – Omløpsaksjer</span>
                         <p>I forbindelse med oppkjøpet av Statskog Glomma overtok Statskog SF indirekte 50% av aksjene i SB-Skog AS. Denne eierposten forventes solgt i løpet av 2013 og er derfor klassifisert og vurdert som omløpsaksjer. Kostpris for denne aksjeposten er kr 5 mill. I tillegg eier Statskog SF 50% av aksjene i SB Skog som vist i note 6.</p>
                         <p>&nbsp;</p>
-                        <b>Note 14  - Kundefordringer</b>
+                        <span class="small-heading blue">NOTE 14</span><span class="small-heading-note">  - Kundefordringer</span>
                         <table width="100%" border="0" cellpadding="4" class="tb">
                             <tr>
-                              <td></td>
-                              <td colspan="2" class="bold center">Statskog SF</td>
-                              <td colspan="2" class="bold center">Konsern</td>
+                              <td width="56%"></td>
+                              <td colspan="2" class="center small-heading blue">Statskog SF</td>
+                              <td colspan="2" class="center small-heading orange">Konsern</td>
                            </tr>
                            <tr class="bold">
                               <td></td>
-                              <td class="right col-grey">2012</td>
-                              <td class="right">2011</td>
-                              <td class="right col-grey">2012</td>
-                              <td class="right">2011</td>
+                              <td width="15%" class="right col-grey">2012</td>
+                              <td width="7%" class="right">2011</td>
+                              <td width="12%" class="right col-grey">2012</td>
+                              <td width="10%" class="right">2011</td>
                            </tr>
                            
                            <tr>
@@ -2377,12 +2377,12 @@
                            </tr>
                         </table>
                         <p>&nbsp;</p>
-                        <b>Note 15 – Bankinnskudd, kontanter og lignende</b>
+                        <span class="small-heading blue">NOTE 15</span><span class="small-heading-note"> – Bankinnskudd, kontanter og lignende</span>
                         <table width="100%" border="0" cellpadding="4" class="tb">
                             <tr>
                               <td></td>
-                              <td colspan="2" class="bold center">Statskog SF</td>
-                              <td colspan="2" class="bold center">Konsern</td>
+                              <td colspan="2" class="center small-heading blue">Statskog SF</td>
+                              <td colspan="2" class="center small-heading orange">Konsern</td>
                            </tr>
                            <tr class="bold">
                               <td></td>
@@ -2414,15 +2414,15 @@
                            </tr>
                         </table>
                         <p>&nbsp;</p>
-                        <b>Note 16 - Egenkapital</b>
+                        <span class="small-heading blue">NOTE 16</span><span class="small-heading-note"> - Egenkapital</span>
                         <table width="100%" border="0" cellpadding="4" class="tb">
                             <tr class="bold">
                               <td>Konsern</td>
-                              <td class="center">Selskaps-kapital</td>
-                              <td class="center">Annen innskutt selskapskapital</td>
-                              <td class="center">Minoritetsinteresser</td>
-                              <td class="center">Annen Egenkapital</td>
-                              <td class="center">Sum</td>
+                              <td class="right">Selskaps-kapital</td>
+                              <td class="right">Annen innskutt selskapskapital</td>
+                              <td class="right">Minoritetsinteresser</td>
+                              <td class="right">Annen Egenkapital</td>
+                              <td class="right">Sum</td>
                            </tr>
                            <tr class="bold line-over-under">
                              <td>Egenkapital pr 01.01.2012</td>
@@ -2546,19 +2546,19 @@
                            </tr>
                         </table>
                         <p>&nbsp;</p>
-                        <b>Note 17 - Ansvarlig lån</b>
+                        <span class="small-heading blue">NOTE 17</span><span class="small-heading-note"> - Ansvarlig lån</span>
                         <table width="100%" border="0" cellpadding="4" class="tb">
                             <tr>
-                              <td></td>
-                              <td colspan="2" class="bold center">Statskog SF</td>
-                              <td colspan="2" class="bold center">Konsern</td>
+                              <td width="47%"></td>
+                              <td colspan="2" class="center small-heading blue">Statskog SF</td>
+                              <td colspan="2" class="center small-heading orange">Konsern</td>
                            </tr>
                            <tr class="bold">
                               <td></td>
-                              <td class="right col-grey">2012</td>
-                              <td class="right">2011</td>
-                              <td class="right col-grey">2012</td>
-                              <td class="right">2011</td>
+                              <td width="15%" class="right col-grey">2012</td>
+                              <td width="12%" class="right">2011</td>
+                              <td width="13%" class="right col-grey">2012</td>
+                              <td width="13%" class="right">2011</td>
                            </tr>
                            <tr>
                               <td>Ansvarlig lån</td>
@@ -2577,19 +2577,19 @@
                         </table>
                         <p style="font-size: 10px">Statskog SF har et langsiktig lån med Landbruks- og matdepartementet. Renten på det ansvarlig lånet fastsettes på markedsmessige vilkår. Påløpte renter avregnes og betales årlig. Lånet skal tilbakebetales i løpet av 2020 og det skal betales et årlig minimumsavdrag  på kr 10 millioner hvert år fra og med 2012.</p>
                         <p>&nbsp;</p>
-                        <b>Note 18  - Annen kortsiktig gjeld</b>
+                        <span class="small-heading blue">NOTE 18</span><span class="small-heading-note">  - Annen kortsiktig gjeld</span>
                         <table width="100%" border="0" cellpadding="4" class="tb">
                             <tr>
-                              <td></td>
-                              <td colspan="2" class="bold center">Statskog SF</td>
-                              <td colspan="2" class="bold center">Konsern</td>
+                              <td width="47%"></td>
+                              <td colspan="2" class="center small-heading blue">Statskog SF</td>
+                              <td colspan="2" class="center small-heading orange">Konsern</td>
                            </tr>
                            <tr class="bold">
                               <td></td>
-                              <td class="right col-grey">2012</td>
-                              <td class="right">2011</td>
-                              <td class="right col-grey">2012</td>
-                              <td class="right">2011</td>
+                              <td width="13%" class="right col-grey">2012</td>
+                              <td width="14%" class="right">2011</td>
+                              <td width="13%" class="right col-grey">2012</td>
+                              <td width="13%" class="right">2011</td>
                            </tr>
                            <tr>
                               <td>Regnskapsmessig avsetning</td>
@@ -2628,19 +2628,19 @@
                            </tr>
                         </table>
                         <p>&nbsp;</p>
-                        <b>Note 19  - Garantiansvar</b>
+                        <span class="small-heading blue">NOTE 19</span><span class="small-heading-note"> - Garantiansvar</span>
                         <table width="100%" border="0" cellpadding="4" class="tb">
                             <tr>
-                              <td></td>
-                              <td colspan="2" class="bold center">Statskog SF</td>
-                              <td colspan="2" class="bold center">Konsern</td>
+                              <td width="47%"></td>
+                              <td colspan="2" class="center small-heading blue">Statskog SF</td>
+                              <td colspan="2" class="center small-heading orange">Konsern</td>
                            </tr>
                            <tr class="bold">
                               <td></td>
-                              <td class="right col-grey">2012</td>
-                              <td class="right">2011</td>
-                              <td class="right col-grey">2012</td>
-                              <td class="right">2011</td>
+                              <td width="13%" class="right col-grey">2012</td>
+                              <td width="14%" class="right">2011</td>
+                              <td width="12%" class="right col-grey">2012</td>
+                              <td width="14%" class="right">2011</td>
                            </tr>
                            <tr>
                               <td>Selvskyldnerkausjon</td>

@@ -50,20 +50,21 @@
                             <h2>Aktiviteter innenfor kjerneområdene</h2>
                             <div class="border-down">&nbsp;</div>
                             <span class="ingress">Statskogs kjerneområder er skog, energi, eiendom og jakt, fiske og friluftsliv. Aktivitetene innen skog og energi er organisert som regionovergripende forretningsområder, mens ansvaret i de andre kjerneområdene ligger på regionnivå.</span>
+                            <p>&nbsp;</p>
                             <p><b>Eiendom</b><br>
                             Statskogs fem regioner har ansvar for kjerneområdene friluftsliv og eiendom. Regionene skal drifte og utvikle eiendommene. De er også Statskogs kontakt med kunder, brukere, oppdragsgivere, offentlige myndigheter, rettighetshavere og interessegrupper i sin region.</p>
                             <b>Areal per region:</b><br>
-                            Troms 12 000 km2<br>
-                            Salten 8 600 km2<br>
-                            Helgeland 9 000 km2<br>
-                            Midt-Norge 10 000 km2<br>
-                            Sør-Norge 20 400 km2<br>
-                            26 600 km2 av i alt 30 400 km2 i Midt-Norge og Sør-Norge er statsallmenning.<br></p>
+                            <li class="list"><span>Troms 12 000 km<sup>2</sup></span></li>
+                            <li class="list"><span>Salten 8 600 km<sup>2</sup></span></li>
+                            <li class="list"><span>Helgeland 9 000 km<sup>2</sup></span></li>
+                            <li class="list"><span>Midt-Norge 10 000 km<sup>2</sup></span></li>
+                            <li class="list"><span>Sør-Norge 20 400 km<sup>2</sup></span></li>
+                            <li class="list"><span>26 600 km<sup>2</sup> av i alt 30 400 km<sup>2</sup> i Midt-Norge og Sør-Norge er statsallmenning.</span></li></p>
                             <p>
                             <p>Sum festekontrakter: Statskog har om lag 11 000 festekontrakter til bostad- og fritidsformål, i hovedsak fritidsfester.</p>
                             <p>I Troms og Nordland bidrar Statskog med en million årlig til næringsutviklingsprosjekter. De respektive fylkeskommunene bidrar også med en million kroner hver, slik at næringsaktører i hvert av fylkene kan søke fra en årlig pott på to millioner kroner om støtte til næringsutviklingsprosjekter. I 2012 ble det gitt støtte til om lag 20 prosjekter i Troms og Nordland.</p>
-                            <b>Jakt, fiske og friluftsliv</b>
-                            <p>Tabellen under viser Statskogs salg innenfor jakt-, fiske- og friluftsproduktene de siste fire årene.</p>
+                            <b>Jakt, fiske og friluftsliv</b><br>
+                            Tabellen under viser Statskogs salg innenfor jakt-, fiske- og friluftsproduktene de siste fire årene.
                             <p><b>Salg av jakt- og fiskeprodukter/jaktstatistikk</b></p>
                             <table width="100%" border="0" cellpadding="4">
                                 <tr style="font-weight: bold;" class="line-over-under">
@@ -116,11 +117,12 @@
                                     <td class="right">4 683</td>
                                 </tr>
                             </table>
-                            <p><b>Forretningsområdet skog</b></p>
-                            <p>Tabellen under viser hvor mye skog Statskog har avvirket de siste fem årene.</p>
+                            <p>&nbsp;</p>
+                            <p><b>Forretningsområdet skog</b><br>
+                            Tabellen under viser hvor mye skog Statskog har avvirket de siste fem årene.</p>
                             <table width="100%" border="0" cellpadding="4">
                                 <tr style="font-weight: bold;" class="line-over-under">
-                                    <td>Solgt m3</td>
+                                    <td>Solgt m<sup>3</sup></td>
                                     <td class="right col-grey">2012</td>
                                     <td class="right">2011</td>
                                     <td class="right">2010</td>
@@ -171,9 +173,10 @@
                                     <td class="right">141100</td>
                                 </tr>
                             </table>
-                            <p>Det ble totalt sett avvirket 409 681 m3 i Statskogs skoger i 2012, vel 20 000 m3 mer enn året før. Avvirkning og omsetning av virke er satt ut til driftsselskapene SB Skog og Nordisk Tre.</p>
-                            <p><b>Forretningsområdet energi</b></p>
-                            Tabellen under viser hvor mange energiprosjekter Statskog er involvert i – på hvilket nivå.
+                            <p>Det ble totalt sett avvirket 409 681 m<sup>3</sup> i Statskogs skoger i 2012, vel 20 000 m<sup>3</sup> mer enn året før. Avvirkning og omsetning av virke er satt ut til driftsselskapene SB Skog og Nordisk Tre.</p>
+                            <p>&nbsp;</p>
+                            <p><b>Forretningsområdet energi</b><br>
+                            Tabellen under viser hvor mange energiprosjekter Statskog er involvert i – på hvilket nivå.</p>
                             <table width="100%" border="0" cellpadding="4">
                                 <tr class="line-over">
                                     <td>Under bygging</td>

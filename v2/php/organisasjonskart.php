@@ -51,14 +51,16 @@
                         <div class="inner-box-front">
                             <h2>Organisasjonskart</h2>
                             <div class="border-down">&nbsp;</div>
-                            <p><img src="../img/statskog_org_kart.jpg" /></p>
+                            <p><img src="../img/grafer/Grafer3-18.jpg" /></p>
                         </div>
                     </div>
                 </div>
                 <div id="right-container" style="float: right;">
                     <div class="content-box-right">
                         <img class="image-rounded" src="../img/adm-dir-maal.jpg" width="300" />
+                        <div style="text-align: left;">&nbsp;<span style="font-size: 8px">foto: Øistein Aagesen</span></div>
                         <div class="inner-box-front">
+
                             <p><a class="front" href="adm-dir-har-ordet.php">Administrerende direktør</a></p>
                         </div>
                     </div>
