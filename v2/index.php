@@ -51,15 +51,15 @@
                 <div id="left-container">
                     <div style="float: left; width: 313px; margin-right: 10px;">
                         <div class="content-box-front">
-                            <img class="image-rounded" src="img/tmp_pic.jpg" width="310" />
-                            <div class="inner-box-front">
-                                <a class="front" href="php/rev-enn-rype.php">Skyt heller rev enn rype</a>
-                            </div>
-                        </div>
-                        <div class="content-box-front">
                             <img class="image-rounded" src="img/front_admdir.jpg" width="310" />
                             <div class="inner-box-front">
                                 <a class="front" href="php/adm-dir-har-ordet.php">Administrerende direktør har ordet</a>
+                            </div>
+                        </div>
+                        <div class="content-box-front">
+                            <img class="image-rounded" src="img/tmp_pic.jpg" width="310" />
+                            <div class="inner-box-front">
+                                <a class="front" href="php/rev-enn-rype.php">Skyt heller rev enn rype</a>
                             </div>
                         </div>
                         <div class="content-box-front">
@@ -78,7 +78,7 @@
                             <a href="php/45-energiprosjekter.php"><img src="img/grafer/Grafer3-04.jpg" /></a>
                         </div>
                         <div class="content-box-front">
-                            <img class="image-rounded" src="img/front-overrasker2.jpg" width="310" />
+                            <img class="image-rounded" src="img/front-overrasker.jpg" width="310" />
                             <div class="inner-box-front">
                                 <a class="front" href="php/vekker-oppsikt.php">Statskog vekker oppsikt</a>
                             </div>
