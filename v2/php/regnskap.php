@@ -854,7 +854,7 @@
                               <td class="right">-3 395</td>
                               <td>Netto likviditetsendring fra virksomheten</td>
                               <td class="right col-grey">93 727</td>
-                              <td class="right">-38 424</td>
+                              <td class="right">-38 098</td>
                            </tr>
                            <tr>
                               <td class="col-grey">&nbsp;</td>
@@ -947,20 +947,7 @@
                               <td class="col-grey right">-100 000</td>
                               <td></td>
                            </tr>
-                           <tr>
-                              <td class="right col-grey"></td>
-                              <td class="right">&nbsp;</td>
-                              <td>Innbetaling ansvarlig lånekapital</td>
-                              <td class="right col-grey"></td>
-                              <td class="right">&nbsp;</td>
-                           </tr>
-                           <tr>
-                              <td class="right col-grey"></td>
-                              <td class="right">&nbsp;</td>
-                              <td>Innbetaling av selskapskapital</td>
-                              <td class="right col-grey"></td>
-                              <td class="right">&nbsp;</td>
-                           </tr>
+                           
                            <tr>
                               <td class="right col-grey">-40 100</td>
                               <td class="right">-11 300</td>
@@ -996,13 +983,7 @@
                               <td class="right col-grey">54 927</td>
                               <td class="right">67 901</td>
                            </tr>
-                           <tr>
-                              <td class="right col-grey"></td>
-                              <td class="right">&nbsp;</td>
-                              <td>Tilgang likvider oppkjøp</td>
-                              <td class="right col-grey"></td>
-                              <td class="right"></td>
-                           </tr>
+                           
                            <tr>
                               <td class="right col-grey">&nbsp;</td>
                               <td class="right">-8 437</td>
