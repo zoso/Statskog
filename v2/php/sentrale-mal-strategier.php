@@ -75,7 +75,7 @@
                     <div class="content-box-right">
                         <img class="image-rounded" src="../img/adm-dir-maal.jpg" width="300" />
                         <div class="inner-box-front">
-                            <p><a class="front" href="adm-dir-har-ordet.php">Administrerende direktør</a></p>
+                            <p><a class="front" href="adm-dir-har-ordet.php">Administrerende direktør<br>Øistein Aagesen</a></p>
                         </div>
                     </div>
                 </div>

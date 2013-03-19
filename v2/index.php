@@ -18,7 +18,7 @@
         <!-- <script src="js/vendor/modernizr-2.6.2.min.js"></script> -->
         <style>
             #top .top-bg {
-                background: url(img/top/Forside.jpg) 50% 0 no-repeat;
+                background: url(img/top/forside_ny.jpg) 50% 0 no-repeat;
                 height: 400px;
             }
         </style>
@@ -101,7 +101,7 @@
                         <div class="content-box-front">
                             <img class="image-rounded" src="img/front-historie.jpg" width="310" />
                             <div class="inner-box-front">
-                                <a class="front" href="php/historie.php">Historie</a>
+                                <a class="front" href="php/historie.php">Vår historie</a>
                             </div>
                         </div>
                     </div>

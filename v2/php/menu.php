@@ -41,7 +41,7 @@
                 <div><a href="<?php echo $prefix; ?>produktiv-skog.php">Produktiv skog</a></div>
                 <div><a href="<?php echo $prefix; ?>skogsbilveier.php">Skogsbilveier</a></div>
                 <div><a href="<?php echo $prefix; ?>solgte-arealer.php">Solgte arealer</a></div>
-                <!--<div><a href="<?php echo $prefix; ?>reindriftsomrader.php">Reindriftsområder</a></div>-->
+                <div><a href="<?php echo $prefix; ?>reindriftsomrader.php">Reindriftsområder</a></div>
                 <div><a href="<?php echo $prefix; ?>oversikt-over-vernede-omraader.php">Vernede områder</a></div>
                 <!-- <div><a href="<?php echo $prefix; ?>energiprosjekter.php">Energiprosjekter</a></div> -->
                 <!-- <div><a href="<?php echo $prefix; ?>arealinndeling-storviltjakt.php">Arealinndeling storviltjakt</a></div> -->

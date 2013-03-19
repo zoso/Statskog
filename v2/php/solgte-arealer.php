@@ -66,10 +66,8 @@
                     <div class="content-box-right">
                         <div class="inner-box-front">
                             &nbsp;
-                            
-                                <a href="solgte-arealer.php"><img src="../img/solgte eiendommer.jpg" width="260" /></a>
-                                <a href="solgte-arealer.php"><img src="../img/kjopere.jpg" width="260" /></a>
-                                <!-- <a href="45-energiprosjekter.php"><img src="../img/Graf01.png" width="260" /></a> -->
+                            <a href="solgte-arealer.php"><img src="../img/grafer/Grafer3-03.jpg" width="280" /></a>
+                                <a href="solgte-arealer.php"><img src="../img/grafer/Grafer3-01.jpg" width="280" /></a>
                                 
                             </div>
                         </div>

@@ -58,10 +58,10 @@
                 <div id="right-container" style="float: right;">
                     <div class="content-box-right">
                         <img class="image-rounded" src="../img/adm-dir-maal.jpg" width="300" />
-                        <div style="text-align: left;">&nbsp;<span style="font-size: 8px">foto: Øistein Aagesen</span></div>
+                        <!-- <div style="text-align: left;">&nbsp;<span style="font-size: 8px">Adm. dir: Øistein Aagesen</span></div> -->
                         <div class="inner-box-front">
 
-                            <p><a class="front" href="adm-dir-har-ordet.php">Administrerende direktør</a></p>
+                            <p><a class="front" href="adm-dir-har-ordet.php">Administrerende direktør<br>Øistein Aagesen</a></p>
                         </div>
                     </div>
                 </div>

@@ -57,6 +57,7 @@
                             </p><p>Innenfor energiområdet begynner nå Statskog å høste gevinster av systematisk arbeid over flere år. I 2012 startet byggingen av det første småkraftverket Statskog er medeier i. Planlagt produksjonsstart er høsten 2013.  Statskog har nå fått fire vannkraftkonsesjoner og har om lag 40 konsesjonssøknader til behandling hos NVE. I 2012 fikk vi også den første konsesjonen for vindkraftproduksjon. På energiområdet samarbeider Statskog med både energiselskaper og med private grunneiere.</p>
                             <p>Som fellesskapets grunneier er det viktig for Statskog fortsatt å være en garantist for allmennhetens tilgang til jakt og fiske. Vår forvaltning skal, også på jakt- og fiskeområdet, være kunnskapsbasert. Derfor engasjerer vi oss i forskning. Samtidig er vi opptatt av å ha en god dialog med relevante aktører, som for eksempel Norges Jeger og Fiskerforbund. Enhver som følger debatten om rypejakta i mediene vet at mange mener mye forskjellig om hvordan en best skal forvalte bestanden. Rypebestanden synker mens antallet jegere øker. Statskog er opptatt av i dialog med omverdenen å gjennomføre en forvaltning som ikke truer rypebestanden.</p>
                             <p>Statskog har mange spennende utfordringer framover. For å bli enda bedre til å løse de oppgaver foretaket er satt til, satser vi mye på utvikling og deling av organisasjonens og den enkelte ansattes kompetanse. Jeg opplever at vi har en svært utviklingsorientert organisasjon med en imponerende omstillingsevne. Jeg føler meg derfor trygg på at Statskog også i tiden som kommer vil levere gode resultater til fellesskapets beste.</p>
+                            <p><i>Øistein Aagesen, administrenede direktør</i></p>
                             </div>
                         </div>    
                     </div>
@@ -65,7 +66,8 @@
                             &nbsp;
                             <div class="inner-box-front">
                                 <!--<a href="solgte-arealer.php"><img src="../img/grafer/Grafer3-03.jpg" width="260" /></a> -->
-                            	<a href="solgte-arealer.php"><img src="../img/grafer/Grafer3-01.jpg" width="260" /></a>
+                                <a href="solgte-arealer.php"><img src="../img/grafer/Grafer3-03.jpg" width="280" /></a>
+                            	<a href="solgte-arealer.php"><img src="../img/grafer/Grafer3-01.jpg" width="280" /></a>
                             	<!-- <a href="45-energiprosjekter.php"><img src="../img/Graf01.png" width="260" /></a> -->
                             	
                             </div>

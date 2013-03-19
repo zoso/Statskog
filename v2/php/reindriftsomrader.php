@@ -49,13 +49,27 @@
                  <div id="left-container" style="float: left;">
                     <div class="content-box">
                         <div class="inner-box-front">
-                            
+                            <h2>Reindriftsområder</h2>
+                            <div class="border-down">&nbsp;</div>
+                            Store deler av Statskogs arealer er reinbeiteområder.  
+                        </div>
+                    </div>
+                    <div class="content-box">
+                        <div class="inner-box-front">
+                            <iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://statskog.maps.arcgis.com/home/webmap/embedViewer.html?webmap=232da90c81f94e6aab7dc5daf8248d4a&amp;extent=-7.9253,59.4285,41.5631,70.7036"></iframe>
                         </div>
                     </div>
                 </div>
                 <div id="right-container" style="float: right;">
                     <div class="content-box-right">
-                        &nbsp;
+                        <div class="inner-box-front">
+                            <img src="../img/statskog-1-2-3.jpg" />
+                            <a href="film-statskogs-utleiehytter.php"><img src="../img/front_eiendom2.jpg" /></a><br>
+                            <!-- <a href="#"><img src="img/front_energi2.jpg" /></a><br> -->
+                            <a href="film-statskogs-skogbruk.php"><img src="../img/front_skog2.jpg" /></a><br>
+                            <a href="film-toppjakt.php"><img src="../img/front_friluftsliv2.jpg" /></a>
+                        </div>
+                       &nbsp;
                     </div>
                 </div>
                 <div style="clear: both;"></div>

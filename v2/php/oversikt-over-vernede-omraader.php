@@ -65,7 +65,7 @@
                     </div>
                     <div class="content-box-right">
                         <div class="inner-box-front" style="text-align: left;">
-                            <span class="sitat">DET ER DIREKTORATET FOR NATURFORVALTNING SOM ER VERNEMYNDIGHETEN. STATSKOGS ROLLE ER Å VÆRE GRUNNEIER.</span>
+                            <img src="../img/grafer/Grafer3-19.jpg" width="280" />
                         </div>
                     </div>
                 </div>

@@ -1018,6 +1018,7 @@
                               <td class="right">54 927</td>
                            </tr>
                         </table>
+                        <div style="text-align: center"><img src="../img/Signaturer.jpg" /></div>
                         </div>
                     </div>
                 </div>
